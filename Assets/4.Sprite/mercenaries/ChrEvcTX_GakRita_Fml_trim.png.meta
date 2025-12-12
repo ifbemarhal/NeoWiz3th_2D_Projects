@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2e82d420babe59849b2c8a1c44684d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3918964173556946008
+    second: ChrEvcTX_GakRita_Fml_trim_0
+  - first:
+      213: -1037029901658725466
+    second: ChrEvcTX_GakRita_Fml_trim_1
+  - first:
+      213: 2222932067897179757
+    second: ChrEvcTX_GakRita_Fml_trim_2
+  - first:
+      213: 9164612718657421929
+    second: ChrEvcTX_GakRita_Fml_trim_3
+  - first:
+      213: 2599597469413604479
+    second: ChrEvcTX_GakRita_Fml_trim_4
+  - first:
+      213: 5895137463355397325
+    second: ChrEvcTX_GakRita_Fml_trim_5
+  - first:
+      213: -6790935050164008763
+    second: ChrEvcTX_GakRita_Fml_trim_6
+  - first:
+      213: -1408275893785620743
+    second: ChrEvcTX_GakRita_Fml_trim_7
+  - first:
+      213: 5784143671111084169
+    second: ChrEvcTX_GakRita_Fml_trim_8
+  - first:
+      213: 2376091882657857311
+    second: ChrEvcTX_GakRita_Fml_trim_9
+  - first:
+      213: -6992499502105216749
+    second: ChrEvcTX_GakRita_Fml_trim_10
+  - first:
+      213: -4623755775609785686
+    second: ChrEvcTX_GakRita_Fml_trim_11
+  - first:
+      213: 7109446864265050515
+    second: ChrEvcTX_GakRita_Fml_trim_12
+  - first:
+      213: -7074368681144877870
+    second: ChrEvcTX_GakRita_Fml_trim_13
+  - first:
+      213: 6848449237822208082
+    second: ChrEvcTX_GakRita_Fml_trim_14
+  - first:
+      213: -5660618122394175229
+    second: ChrEvcTX_GakRita_Fml_trim_15
+  - first:
+      213: 7181374422816670801
+    second: ChrEvcTX_GakRita_Fml_trim_16
+  - first:
+      213: -8446850137523083721
+    second: ChrEvcTX_GakRita_Fml_trim_17
+  - first:
+      213: 2675311692165536226
+    second: ChrEvcTX_GakRita_Fml_trim_18
+  - first:
+      213: -5268715956787435425
+    second: ChrEvcTX_GakRita_Fml_trim_19
+  - first:
+      213: 4964458168683760603
+    second: ChrEvcTX_GakRita_Fml_trim_20
+  - first:
+      213: 3637184184932273503
+    second: ChrEvcTX_GakRita_Fml_trim_21
+  - first:
+      213: -8863493163403486632
+    second: ChrEvcTX_GakRita_Fml_trim_22
+  - first:
+      213: 8335008077784470870
+    second: ChrEvcTX_GakRita_Fml_trim_23
+  - first:
+      213: 3136776814708800021
+    second: ChrEvcTX_GakRita_Fml_trim_24
+  - first:
+      213: 5289973701955203816
+    second: ChrEvcTX_GakRita_Fml_trim_25
+  - first:
+      213: -5472519708317683370
+    second: ChrEvcTX_GakRita_Fml_trim_26
+  - first:
+      213: -5343080273794322793
+    second: ChrEvcTX_GakRita_Fml_trim_27
+  - first:
+      213: -6305160451956969826
+    second: ChrEvcTX_GakRita_Fml_trim_28
+  - first:
+      213: 863185584891035380
+    second: ChrEvcTX_GakRita_Fml_trim_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe7a309da0d99c0800000000000000
+      internalID: -3918964173556946008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36c228ccabb91f0800000000000000
+      internalID: -1037029901658725466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef5da20f079de10800000000000000
+      internalID: 2222932067897179757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9624a9f16be3f2f70800000000000000
+      internalID: 9164612718657421929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf66b0020a31420800000000000000
+      internalID: 2599597469413604479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc455650a4cbfc150800000000000000
+      internalID: 5895137463355397325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c889324d80c1c1a0800000000000000
+      internalID: -6790935050164008763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 361
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8925398cc47ce0800000000000000
+      internalID: -1408275893785620743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 361
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988666ee508654050800000000000000
+      internalID: 5784143671111084169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 359
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb28b6af299f020800000000000000
+      internalID: 2376091882657857311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3193cec20c6a5fe90800000000000000
+      internalID: -6992499502105216749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23e9aae9e15dfb0800000000000000
+      internalID: -4623755775609785686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399780e6144d9a260800000000000000
+      internalID: 7109446864265050515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf5368a2bc2dd90800000000000000
+      internalID: -7074368681144877870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ffa21c449a0f50800000000000000
+      internalID: 6848449237822208082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097e851fc17171b0800000000000000
+      internalID: -5660618122394175229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154401f2dfd59a360800000000000000
+      internalID: 7181374422816670801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7362af1ad82c6ca80800000000000000
+      internalID: -8446850137523083721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d9f24fcd902520800000000000000
+      internalID: 2675311692165536226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a04d80c2c1e6b0800000000000000
+      internalID: -5268715956787435425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb8eaec66c45e440800000000000000
+      internalID: 4964458168683760603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8e8ddebfd97230800000000000000
+      internalID: 3637184184932273503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5b3ebdeb8ef480800000000000000
+      internalID: -8863493163403486632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 203
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655da5c9fa5eba370800000000000000
+      internalID: 8335008077784470870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3664c4e1188b20800000000000000
+      internalID: 3136776814708800021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 125
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b230fd03c96940800000000000000
+      internalID: 5289973701955203816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6517667e154bd04b0800000000000000
+      internalID: -5472519708317683370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 125
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea712ccc099d5b0800000000000000
+      internalID: -5343080273794322793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 125
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e6341a9f19f78a0800000000000000
+      internalID: -6305160451956969826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakRita_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 125
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fefaa257b6aafb00800000000000000
+      internalID: 863185584891035380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_GakRita_Fml_trim_0: -3918964173556946008
+      ChrEvcTX_GakRita_Fml_trim_1: -1037029901658725466
+      ChrEvcTX_GakRita_Fml_trim_10: -6992499502105216749
+      ChrEvcTX_GakRita_Fml_trim_11: -4623755775609785686
+      ChrEvcTX_GakRita_Fml_trim_12: 7109446864265050515
+      ChrEvcTX_GakRita_Fml_trim_13: -7074368681144877870
+      ChrEvcTX_GakRita_Fml_trim_14: 6848449237822208082
+      ChrEvcTX_GakRita_Fml_trim_15: -5660618122394175229
+      ChrEvcTX_GakRita_Fml_trim_16: 7181374422816670801
+      ChrEvcTX_GakRita_Fml_trim_17: -8446850137523083721
+      ChrEvcTX_GakRita_Fml_trim_18: 2675311692165536226
+      ChrEvcTX_GakRita_Fml_trim_19: -5268715956787435425
+      ChrEvcTX_GakRita_Fml_trim_2: 2222932067897179757
+      ChrEvcTX_GakRita_Fml_trim_20: 4964458168683760603
+      ChrEvcTX_GakRita_Fml_trim_21: 3637184184932273503
+      ChrEvcTX_GakRita_Fml_trim_22: -8863493163403486632
+      ChrEvcTX_GakRita_Fml_trim_23: 8335008077784470870
+      ChrEvcTX_GakRita_Fml_trim_24: 3136776814708800021
+      ChrEvcTX_GakRita_Fml_trim_25: 5289973701955203816
+      ChrEvcTX_GakRita_Fml_trim_26: -5472519708317683370
+      ChrEvcTX_GakRita_Fml_trim_27: -5343080273794322793
+      ChrEvcTX_GakRita_Fml_trim_28: -6305160451956969826
+      ChrEvcTX_GakRita_Fml_trim_29: 863185584891035380
+      ChrEvcTX_GakRita_Fml_trim_3: 9164612718657421929
+      ChrEvcTX_GakRita_Fml_trim_4: 2599597469413604479
+      ChrEvcTX_GakRita_Fml_trim_5: 5895137463355397325
+      ChrEvcTX_GakRita_Fml_trim_6: -6790935050164008763
+      ChrEvcTX_GakRita_Fml_trim_7: -1408275893785620743
+      ChrEvcTX_GakRita_Fml_trim_8: 5784143671111084169
+      ChrEvcTX_GakRita_Fml_trim_9: 2376091882657857311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

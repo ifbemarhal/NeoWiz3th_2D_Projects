@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 814ebf5b4fb08214182418ce8d3f1954
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6441531187522779928
+    second: ChrEvcTX_TouFather_Mlb_trim_0
+  - first:
+      213: 6821087599715479922
+    second: ChrEvcTX_TouFather_Mlb_trim_1
+  - first:
+      213: 5985173835286626872
+    second: ChrEvcTX_TouFather_Mlb_trim_2
+  - first:
+      213: -8427087732677137303
+    second: ChrEvcTX_TouFather_Mlb_trim_3
+  - first:
+      213: 6612422713311765656
+    second: ChrEvcTX_TouFather_Mlb_trim_4
+  - first:
+      213: 6183329336821001235
+    second: ChrEvcTX_TouFather_Mlb_trim_5
+  - first:
+      213: 2558767559299582955
+    second: ChrEvcTX_TouFather_Mlb_trim_6
+  - first:
+      213: -1198343923909624305
+    second: ChrEvcTX_TouFather_Mlb_trim_7
+  - first:
+      213: -2472828775444705153
+    second: ChrEvcTX_TouFather_Mlb_trim_8
+  - first:
+      213: 822721927424415799
+    second: ChrEvcTX_TouFather_Mlb_trim_9
+  - first:
+      213: -4695863946685015005
+    second: ChrEvcTX_TouFather_Mlb_trim_10
+  - first:
+      213: 8345748848190089043
+    second: ChrEvcTX_TouFather_Mlb_trim_11
+  - first:
+      213: 7901799284514765727
+    second: ChrEvcTX_TouFather_Mlb_trim_12
+  - first:
+      213: 4971749626295930095
+    second: ChrEvcTX_TouFather_Mlb_trim_13
+  - first:
+      213: 8097570469959642200
+    second: ChrEvcTX_TouFather_Mlb_trim_14
+  - first:
+      213: 6702025518015613793
+    second: ChrEvcTX_TouFather_Mlb_trim_15
+  - first:
+      213: -6521261085304239817
+    second: ChrEvcTX_TouFather_Mlb_trim_16
+  - first:
+      213: 4783060925180885059
+    second: ChrEvcTX_TouFather_Mlb_trim_17
+  - first:
+      213: 2668274417831880309
+    second: ChrEvcTX_TouFather_Mlb_trim_18
+  - first:
+      213: -2001121759766167634
+    second: ChrEvcTX_TouFather_Mlb_trim_19
+  - first:
+      213: 219005510604865706
+    second: ChrEvcTX_TouFather_Mlb_trim_20
+  - first:
+      213: -6884980976571386459
+    second: ChrEvcTX_TouFather_Mlb_trim_21
+  - first:
+      213: -1322490627217766060
+    second: ChrEvcTX_TouFather_Mlb_trim_22
+  - first:
+      213: 3274057812749898819
+    second: ChrEvcTX_TouFather_Mlb_trim_23
+  - first:
+      213: -5596760431860588324
+    second: ChrEvcTX_TouFather_Mlb_trim_24
+  - first:
+      213: 4485563518736987198
+    second: ChrEvcTX_TouFather_Mlb_trim_25
+  - first:
+      213: -7221549537604430128
+    second: ChrEvcTX_TouFather_Mlb_trim_26
+  - first:
+      213: -563322717064735195
+    second: ChrEvcTX_TouFather_Mlb_trim_27
+  - first:
+      213: -1164334901888375555
+    second: ChrEvcTX_TouFather_Mlb_trim_28
+  - first:
+      213: 2080516601325751503
+    second: ChrEvcTX_TouFather_Mlb_trim_29
+  - first:
+      213: -7856916682307170860
+    second: ChrEvcTX_TouFather_Mlb_trim_30
+  - first:
+      213: -9068244260479961997
+    second: ChrEvcTX_TouFather_Mlb_trim_31
+  - first:
+      213: 8780313865949956069
+    second: ChrEvcTX_TouFather_Mlb_trim_32
+  - first:
+      213: 2565036765534257504
+    second: ChrEvcTX_TouFather_Mlb_trim_33
+  - first:
+      213: -2295841421903339794
+    second: ChrEvcTX_TouFather_Mlb_trim_34
+  - first:
+      213: 6540378497480198305
+    second: ChrEvcTX_TouFather_Mlb_trim_35
+  - first:
+      213: -2911499286400544936
+    second: ChrEvcTX_TouFather_Mlb_trim_36
+  - first:
+      213: 8558089220451421684
+    second: ChrEvcTX_TouFather_Mlb_trim_37
+  - first:
+      213: -8470203353932069271
+    second: ChrEvcTX_TouFather_Mlb_trim_38
+  - first:
+      213: -6170569190014589236
+    second: ChrEvcTX_TouFather_Mlb_trim_39
+  - first:
+      213: -7720638516931758910
+    second: ChrEvcTX_TouFather_Mlb_trim_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 427
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b35e18c7ae46950800000000000000
+      internalID: 6441531187522779928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 427
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271fcd2480f59ae50800000000000000
+      internalID: 6821087599715479922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 427
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c83374eb9f0350800000000000000
+      internalID: 5985173835286626872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 427
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c2ab21b58fc0b80800000000000000
+      internalID: -8427087732677137303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 429
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942ca37c6b04cb50800000000000000
+      internalID: 6612422713311765656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 429
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca77a65499fc550800000000000000
+      internalID: 6183329336821001235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 429
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb48dac981928320800000000000000
+      internalID: 2558767559299582955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 427
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e7e90ec80ae5fe0800000000000000
+      internalID: -1198343923909624305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 427
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701141945fbeadd0800000000000000
+      internalID: -2472828775444705153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 427
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7389e09eb35ea6b00800000000000000
+      internalID: 822721927424415799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9648ce90f4deb0800000000000000
+      internalID: -4695863946685015005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 365
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357eef81c5e02d370800000000000000
+      internalID: 8345748848190089043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 399
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b30ff6594d8ad60800000000000000
+      internalID: 7901799284514765727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 345
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feccc8391f33ff440800000000000000
+      internalID: 4971749626295930095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 345
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c23ad8079506070800000000000000
+      internalID: 8097570469959642200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 345
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8ce423b0620d50800000000000000
+      internalID: 6702025518015613793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 345
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ccd21893df75a0800000000000000
+      internalID: -6521261085304239817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 393
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483578d198d06240800000000000000
+      internalID: 4783060925180885059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_18
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a126227d970520800000000000000
+      internalID: 2668274417831880309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf35d4ac569a34e0800000000000000
+      internalID: -2001121759766167634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c47ff9501a0300800000000000000
+      internalID: 219005510604865706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f32ea742a370a0800000000000000
+      internalID: -6884980976571386459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459c6e908c195ade0800000000000000
+      internalID: -1322490627217766060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344dc07eb3acf6d20800000000000000
+      internalID: 3274057812749898819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0ecf54a005452b0800000000000000
+      internalID: -5596760431860588324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f4c7314cef3e30800000000000000
+      internalID: 4485563518736987198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6933bf4f6e7cb90800000000000000
+      internalID: -7221549537604430128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d27339fcae28f0800000000000000
+      internalID: -563322717064735195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4aa5d539377dfe0800000000000000
+      internalID: -1164334901888375555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 257
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc035b63da7fdc10800000000000000
+      internalID: 2080516601325751503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd8d39b7ef96f290800000000000000
+      internalID: -7856916682307170860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 169
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fd9504ef172280800000000000000
+      internalID: -9068244260479961997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 171
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e74264e0f0f9d970800000000000000
+      internalID: 8780313865949956069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 169
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618c7d1957d89320800000000000000
+      internalID: 2565036765534257504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed2d204688320e0800000000000000
+      internalID: -2295841421903339794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 169
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a809ee479714ca50800000000000000
+      internalID: 6540378497480198305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 173
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fca4623d64897d0800000000000000
+      internalID: -2911499286400544936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 171
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4b15adc074c670800000000000000
+      internalID: 8558089220451421684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 171
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9668e893deac37a80800000000000000
+      internalID: -8470203353932069271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 171
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e537c30cbd5aa0800000000000000
+      internalID: -6170569190014589236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouFather_Mlb_trim_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 169
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4751fac28cad490800000000000000
+      internalID: -7720638516931758910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_TouFather_Mlb_trim_0: 6441531187522779928
+      ChrEvcTX_TouFather_Mlb_trim_1: 6821087599715479922
+      ChrEvcTX_TouFather_Mlb_trim_10: -4695863946685015005
+      ChrEvcTX_TouFather_Mlb_trim_11: 8345748848190089043
+      ChrEvcTX_TouFather_Mlb_trim_12: 7901799284514765727
+      ChrEvcTX_TouFather_Mlb_trim_13: 4971749626295930095
+      ChrEvcTX_TouFather_Mlb_trim_14: 8097570469959642200
+      ChrEvcTX_TouFather_Mlb_trim_15: 6702025518015613793
+      ChrEvcTX_TouFather_Mlb_trim_16: -6521261085304239817
+      ChrEvcTX_TouFather_Mlb_trim_17: 4783060925180885059
+      ChrEvcTX_TouFather_Mlb_trim_18: 2668274417831880309
+      ChrEvcTX_TouFather_Mlb_trim_19: -2001121759766167634
+      ChrEvcTX_TouFather_Mlb_trim_2: 5985173835286626872
+      ChrEvcTX_TouFather_Mlb_trim_20: 219005510604865706
+      ChrEvcTX_TouFather_Mlb_trim_21: -6884980976571386459
+      ChrEvcTX_TouFather_Mlb_trim_22: -1322490627217766060
+      ChrEvcTX_TouFather_Mlb_trim_23: 3274057812749898819
+      ChrEvcTX_TouFather_Mlb_trim_24: -5596760431860588324
+      ChrEvcTX_TouFather_Mlb_trim_25: 4485563518736987198
+      ChrEvcTX_TouFather_Mlb_trim_26: -7221549537604430128
+      ChrEvcTX_TouFather_Mlb_trim_27: -563322717064735195
+      ChrEvcTX_TouFather_Mlb_trim_28: -1164334901888375555
+      ChrEvcTX_TouFather_Mlb_trim_29: 2080516601325751503
+      ChrEvcTX_TouFather_Mlb_trim_3: -8427087732677137303
+      ChrEvcTX_TouFather_Mlb_trim_30: -7856916682307170860
+      ChrEvcTX_TouFather_Mlb_trim_31: -9068244260479961997
+      ChrEvcTX_TouFather_Mlb_trim_32: 8780313865949956069
+      ChrEvcTX_TouFather_Mlb_trim_33: 2565036765534257504
+      ChrEvcTX_TouFather_Mlb_trim_34: -2295841421903339794
+      ChrEvcTX_TouFather_Mlb_trim_35: 6540378497480198305
+      ChrEvcTX_TouFather_Mlb_trim_36: -2911499286400544936
+      ChrEvcTX_TouFather_Mlb_trim_37: 8558089220451421684
+      ChrEvcTX_TouFather_Mlb_trim_38: -8470203353932069271
+      ChrEvcTX_TouFather_Mlb_trim_39: -6170569190014589236
+      ChrEvcTX_TouFather_Mlb_trim_4: 6612422713311765656
+      ChrEvcTX_TouFather_Mlb_trim_40: -7720638516931758910
+      ChrEvcTX_TouFather_Mlb_trim_5: 6183329336821001235
+      ChrEvcTX_TouFather_Mlb_trim_6: 2558767559299582955
+      ChrEvcTX_TouFather_Mlb_trim_7: -1198343923909624305
+      ChrEvcTX_TouFather_Mlb_trim_8: -2472828775444705153
+      ChrEvcTX_TouFather_Mlb_trim_9: 822721927424415799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

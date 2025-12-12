@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 7aa17d1fc3dd41b45b3c6278539e74b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5012026319935713394
+    second: ChrEvcTX_KarHaig_Mle_trim_0
+  - first:
+      213: 7897522068269998222
+    second: ChrEvcTX_KarHaig_Mle_trim_1
+  - first:
+      213: -1965331598597035790
+    second: ChrEvcTX_KarHaig_Mle_trim_2
+  - first:
+      213: -8768259842173670648
+    second: ChrEvcTX_KarHaig_Mle_trim_3
+  - first:
+      213: 7523572703005257282
+    second: ChrEvcTX_KarHaig_Mle_trim_4
+  - first:
+      213: 1546184944371367615
+    second: ChrEvcTX_KarHaig_Mle_trim_5
+  - first:
+      213: 2088026386449975803
+    second: ChrEvcTX_KarHaig_Mle_trim_6
+  - first:
+      213: -7754933758369593775
+    second: ChrEvcTX_KarHaig_Mle_trim_7
+  - first:
+      213: -8610364135469879841
+    second: ChrEvcTX_KarHaig_Mle_trim_8
+  - first:
+      213: 8980240112861819154
+    second: ChrEvcTX_KarHaig_Mle_trim_9
+  - first:
+      213: 6238734678496593032
+    second: ChrEvcTX_KarHaig_Mle_trim_10
+  - first:
+      213: -669385789816833938
+    second: ChrEvcTX_KarHaig_Mle_trim_11
+  - first:
+      213: -3486558695852823956
+    second: ChrEvcTX_KarHaig_Mle_trim_12
+  - first:
+      213: -3711412543636150581
+    second: ChrEvcTX_KarHaig_Mle_trim_13
+  - first:
+      213: 2440054976144048074
+    second: ChrEvcTX_KarHaig_Mle_trim_14
+  - first:
+      213: 9208411911450490192
+    second: ChrEvcTX_KarHaig_Mle_trim_15
+  - first:
+      213: -4020342416106701368
+    second: ChrEvcTX_KarHaig_Mle_trim_16
+  - first:
+      213: 883139765777324347
+    second: ChrEvcTX_KarHaig_Mle_trim_17
+  - first:
+      213: -1618792915844507863
+    second: ChrEvcTX_KarHaig_Mle_trim_18
+  - first:
+      213: 5459556250506213580
+    second: ChrEvcTX_KarHaig_Mle_trim_19
+  - first:
+      213: -7742961854882453823
+    second: ChrEvcTX_KarHaig_Mle_trim_20
+  - first:
+      213: -787578442615828104
+    second: ChrEvcTX_KarHaig_Mle_trim_21
+  - first:
+      213: 5973196622263491859
+    second: ChrEvcTX_KarHaig_Mle_trim_22
+  - first:
+      213: -573020138266070363
+    second: ChrEvcTX_KarHaig_Mle_trim_23
+  - first:
+      213: -5399207437358591944
+    second: ChrEvcTX_KarHaig_Mle_trim_24
+  - first:
+      213: -8742568972784443518
+    second: ChrEvcTX_KarHaig_Mle_trim_25
+  - first:
+      213: -5396206199349865087
+    second: ChrEvcTX_KarHaig_Mle_trim_26
+  - first:
+      213: 8732231004051702945
+    second: ChrEvcTX_KarHaig_Mle_trim_27
+  - first:
+      213: -8481484954650773079
+    second: ChrEvcTX_KarHaig_Mle_trim_28
+  - first:
+      213: 387704834274188426
+    second: ChrEvcTX_KarHaig_Mle_trim_29
+  - first:
+      213: 3547486525987279056
+    second: ChrEvcTX_KarHaig_Mle_trim_30
+  - first:
+      213: -2925038068714391456
+    second: ChrEvcTX_KarHaig_Mle_trim_31
+  - first:
+      213: 7668549484465860112
+    second: ChrEvcTX_KarHaig_Mle_trim_32
+  - first:
+      213: -2104935609784310689
+    second: ChrEvcTX_KarHaig_Mle_trim_33
+  - first:
+      213: -552854936891740807
+    second: ChrEvcTX_KarHaig_Mle_trim_34
+  - first:
+      213: 380150028614929489
+    second: ChrEvcTX_KarHaig_Mle_trim_35
+  - first:
+      213: 2529554648529421543
+    second: ChrEvcTX_KarHaig_Mle_trim_36
+  - first:
+      213: -3686303478033860688
+    second: ChrEvcTX_KarHaig_Mle_trim_37
+  - first:
+      213: 4490599963058220182
+    second: ChrEvcTX_KarHaig_Mle_trim_38
+  - first:
+      213: 4464077592396978121
+    second: ChrEvcTX_KarHaig_Mle_trim_39
+  - first:
+      213: -2173437695007164160
+    second: ChrEvcTX_KarHaig_Mle_trim_40
+  - first:
+      213: -7651407170106006801
+    second: ChrEvcTX_KarHaig_Mle_trim_41
+  - first:
+      213: 4953039471334657264
+    second: ChrEvcTX_KarHaig_Mle_trim_42
+  - first:
+      213: 2873432815185354755
+    second: ChrEvcTX_KarHaig_Mle_trim_43
+  - first:
+      213: -1482006294360071791
+    second: ChrEvcTX_KarHaig_Mle_trim_44
+  - first:
+      213: 383683424952079117
+    second: ChrEvcTX_KarHaig_Mle_trim_45
+  - first:
+      213: -8980383362941311142
+    second: ChrEvcTX_KarHaig_Mle_trim_46
+  - first:
+      213: -848006318386752388
+    second: ChrEvcTX_KarHaig_Mle_trim_47
+  - first:
+      213: -735496592238380946
+    second: ChrEvcTX_KarHaig_Mle_trim_48
+  - first:
+      213: 39403201961799051
+    second: ChrEvcTX_KarHaig_Mle_trim_49
+  - first:
+      213: -5541349525146113833
+    second: ChrEvcTX_KarHaig_Mle_trim_50
+  - first:
+      213: 4701742699742392260
+    second: ChrEvcTX_KarHaig_Mle_trim_51
+  - first:
+      213: -7690693450963835756
+    second: ChrEvcTX_KarHaig_Mle_trim_52
+  - first:
+      213: -4359182279921640675
+    second: ChrEvcTX_KarHaig_Mle_trim_53
+  - first:
+      213: 9082427461530806478
+    second: ChrEvcTX_KarHaig_Mle_trim_54
+  - first:
+      213: 4961283626499559095
+    second: ChrEvcTX_KarHaig_Mle_trim_55
+  - first:
+      213: -5718806694254921435
+    second: ChrEvcTX_KarHaig_Mle_trim_56
+  - first:
+      213: 2926194033992515364
+    second: ChrEvcTX_KarHaig_Mle_trim_57
+  - first:
+      213: -1829168782226046384
+    second: ChrEvcTX_KarHaig_Mle_trim_58
+  - first:
+      213: 3822346604513337303
+    second: ChrEvcTX_KarHaig_Mle_trim_59
+  - first:
+      213: -4090035286452558797
+    second: ChrEvcTX_KarHaig_Mle_trim_60
+  - first:
+      213: -516867851123468690
+    second: ChrEvcTX_KarHaig_Mle_trim_61
+  - first:
+      213: 3231424581231296199
+    second: ChrEvcTX_KarHaig_Mle_trim_62
+  - first:
+      213: -5913199199961402765
+    second: ChrEvcTX_KarHaig_Mle_trim_63
+  - first:
+      213: 1567792455598034880
+    second: ChrEvcTX_KarHaig_Mle_trim_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fc25bed94b17ab0800000000000000
+      internalID: -5012026319935713394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 454
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80aa0d6a72a99d60800000000000000
+      internalID: 7897522068269998222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 454
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e5c7e25db9b4e0800000000000000
+      internalID: -1965331598597035790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 453
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6ae83122e05680800000000000000
+      internalID: -8768259842173670648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 445
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e24740389196860800000000000000
+      internalID: 7523572703005257282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 445
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeff4ec307257510800000000000000
+      internalID: 1546184944371367615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 443
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94ef58fe82afc10800000000000000
+      internalID: 2088026386449975803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 443
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15602bb85d0f06490800000000000000
+      internalID: -7754933758369593775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 443
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdded8e3077d18880800000000000000
+      internalID: -8610364135469879841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 441
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211b7d4adc830ac70800000000000000
+      internalID: 8980240112861819154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88443b7c220749650800000000000000
+      internalID: 6238734678496593032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 369
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f544bb2dd5b6f0800000000000000
+      internalID: -669385789816833938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 367
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aa425b6514d9fc0800000000000000
+      internalID: -3486558695852823956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc663a994f96e7cc0800000000000000
+      internalID: -3711412543636150581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 367
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7d75a211dcd120800000000000000
+      internalID: 2440054976144048074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 367
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557b7f58d9dacf70800000000000000
+      internalID: 9208411911450490192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 367
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd368c8fdfd438c0800000000000000
+      internalID: -4020342416106701368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 367
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39dd2a10fa814c00800000000000000
+      internalID: 883139765777324347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 367
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9275b267b64e889e0800000000000000
+      internalID: -1618792915844507863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 367
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8bfaedb7d34cb40800000000000000
+      internalID: 5459556250506213580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 367
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e45a87397b8490800000000000000
+      internalID: -7742961854882453823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d0274495f115f0800000000000000
+      internalID: -787578442615828104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d149b3eae05e250800000000000000
+      internalID: 5973196622263491859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 291
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2718168393c08f0800000000000000
+      internalID: -573020138266070363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 291
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830189321792215b0800000000000000
+      internalID: -5399207437358591944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 291
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd4d0e6d72ca680800000000000000
+      internalID: -8742568972784443518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 291
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859df05d03dc15b0800000000000000
+      internalID: -5396206199349865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 291
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4872535dd1f2970800000000000000
+      internalID: 8732231004051702945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 291
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9783ede56bb4a80800000000000000
+      internalID: -8481484954650773079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 291
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c5d9c1e77616500800000000000000
+      internalID: 387704834274188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 289
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d4f233343b3130800000000000000
+      internalID: 3547486525987279056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 289
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b8cfbf5d2867d0800000000000000
+      internalID: -2925038068714391456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ea71c50292c6a60800000000000000
+      internalID: 7668549484465860112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f546cbf1734c9c2e0800000000000000
+      internalID: -2104935609784310689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2f323d5dd358f0800000000000000
+      internalID: -552854936891740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c82f8df60964500800000000000000
+      internalID: 380150028614929489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 211
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c889fc88ca1320800000000000000
+      internalID: 2529554648529421543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73181848e97dcc0800000000000000
+      internalID: -3686303478033860688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca77acfd0d15e30800000000000000
+      internalID: 4490599963058220182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 211
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75a982be693fd30800000000000000
+      internalID: 4464077592396978121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00977a78ee566d1e0800000000000000
+      internalID: -2173437695007164160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 211
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe264f9b7bdb0d590800000000000000
+      internalID: -7651407170106006801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc0467282bbcb440800000000000000
+      internalID: 4953039471334657264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300e21bdbeb70e720800000000000000
+      internalID: 2873432815185354755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 131
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19166c5902bde6be0800000000000000
+      internalID: -1482006294360071791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03597aca0e135500800000000000000
+      internalID: 383683424952079117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572e0959e44f5380800000000000000
+      internalID: -8980383362941311142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7455411fb64b34f0800000000000000
+      internalID: -848006318386752388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68fe160fbdfac5f0800000000000000
+      internalID: -735496592238380946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d22ffd00dfb8000800000000000000
+      internalID: 39403201961799051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e26957fb2913b0800000000000000
+      internalID: -5541349525146113833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf6e631312ff3140800000000000000
+      internalID: 4701742699742392260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a0eaad0b254590800000000000000
+      internalID: -7690693450963835756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 131
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd716ffc21183c0800000000000000
+      internalID: -4359182279921640675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ebcec7a34b0e70800000000000000
+      internalID: 9082427461530806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec77b1c250ad440800000000000000
+      internalID: 4961283626499559095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293fc17c97b2a0b0800000000000000
+      internalID: -5718806694254921435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fbdf368fdeb9820800000000000000
+      internalID: 2926194033992515364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ce251fac7d96e0800000000000000
+      internalID: -1829168782226046384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df10723cf3bb0530800000000000000
+      internalID: 3822346604513337303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ae20b3964d37c0800000000000000
+      internalID: -4090035286452558797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6657f98d67b3d8f0800000000000000
+      internalID: -516867851123468690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 51
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb1ca298358dc20800000000000000
+      internalID: 3231424581231296199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 51
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723d2838a810fda0800000000000000
+      internalID: -5913199199961402765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarHaig_Mle_trim_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 51
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf457d8eeae1c510800000000000000
+      internalID: 1567792455598034880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KarHaig_Mle_trim_0: -5012026319935713394
+      ChrEvcTX_KarHaig_Mle_trim_1: 7897522068269998222
+      ChrEvcTX_KarHaig_Mle_trim_10: 6238734678496593032
+      ChrEvcTX_KarHaig_Mle_trim_11: -669385789816833938
+      ChrEvcTX_KarHaig_Mle_trim_12: -3486558695852823956
+      ChrEvcTX_KarHaig_Mle_trim_13: -3711412543636150581
+      ChrEvcTX_KarHaig_Mle_trim_14: 2440054976144048074
+      ChrEvcTX_KarHaig_Mle_trim_15: 9208411911450490192
+      ChrEvcTX_KarHaig_Mle_trim_16: -4020342416106701368
+      ChrEvcTX_KarHaig_Mle_trim_17: 883139765777324347
+      ChrEvcTX_KarHaig_Mle_trim_18: -1618792915844507863
+      ChrEvcTX_KarHaig_Mle_trim_19: 5459556250506213580
+      ChrEvcTX_KarHaig_Mle_trim_2: -1965331598597035790
+      ChrEvcTX_KarHaig_Mle_trim_20: -7742961854882453823
+      ChrEvcTX_KarHaig_Mle_trim_21: -787578442615828104
+      ChrEvcTX_KarHaig_Mle_trim_22: 5973196622263491859
+      ChrEvcTX_KarHaig_Mle_trim_23: -573020138266070363
+      ChrEvcTX_KarHaig_Mle_trim_24: -5399207437358591944
+      ChrEvcTX_KarHaig_Mle_trim_25: -8742568972784443518
+      ChrEvcTX_KarHaig_Mle_trim_26: -5396206199349865087
+      ChrEvcTX_KarHaig_Mle_trim_27: 8732231004051702945
+      ChrEvcTX_KarHaig_Mle_trim_28: -8481484954650773079
+      ChrEvcTX_KarHaig_Mle_trim_29: 387704834274188426
+      ChrEvcTX_KarHaig_Mle_trim_3: -8768259842173670648
+      ChrEvcTX_KarHaig_Mle_trim_30: 3547486525987279056
+      ChrEvcTX_KarHaig_Mle_trim_31: -2925038068714391456
+      ChrEvcTX_KarHaig_Mle_trim_32: 7668549484465860112
+      ChrEvcTX_KarHaig_Mle_trim_33: -2104935609784310689
+      ChrEvcTX_KarHaig_Mle_trim_34: -552854936891740807
+      ChrEvcTX_KarHaig_Mle_trim_35: 380150028614929489
+      ChrEvcTX_KarHaig_Mle_trim_36: 2529554648529421543
+      ChrEvcTX_KarHaig_Mle_trim_37: -3686303478033860688
+      ChrEvcTX_KarHaig_Mle_trim_38: 4490599963058220182
+      ChrEvcTX_KarHaig_Mle_trim_39: 4464077592396978121
+      ChrEvcTX_KarHaig_Mle_trim_4: 7523572703005257282
+      ChrEvcTX_KarHaig_Mle_trim_40: -2173437695007164160
+      ChrEvcTX_KarHaig_Mle_trim_41: -7651407170106006801
+      ChrEvcTX_KarHaig_Mle_trim_42: 4953039471334657264
+      ChrEvcTX_KarHaig_Mle_trim_43: 2873432815185354755
+      ChrEvcTX_KarHaig_Mle_trim_44: -1482006294360071791
+      ChrEvcTX_KarHaig_Mle_trim_45: 383683424952079117
+      ChrEvcTX_KarHaig_Mle_trim_46: -8980383362941311142
+      ChrEvcTX_KarHaig_Mle_trim_47: -848006318386752388
+      ChrEvcTX_KarHaig_Mle_trim_48: -735496592238380946
+      ChrEvcTX_KarHaig_Mle_trim_49: 39403201961799051
+      ChrEvcTX_KarHaig_Mle_trim_5: 1546184944371367615
+      ChrEvcTX_KarHaig_Mle_trim_50: -5541349525146113833
+      ChrEvcTX_KarHaig_Mle_trim_51: 4701742699742392260
+      ChrEvcTX_KarHaig_Mle_trim_52: -7690693450963835756
+      ChrEvcTX_KarHaig_Mle_trim_53: -4359182279921640675
+      ChrEvcTX_KarHaig_Mle_trim_54: 9082427461530806478
+      ChrEvcTX_KarHaig_Mle_trim_55: 4961283626499559095
+      ChrEvcTX_KarHaig_Mle_trim_56: -5718806694254921435
+      ChrEvcTX_KarHaig_Mle_trim_57: 2926194033992515364
+      ChrEvcTX_KarHaig_Mle_trim_58: -1829168782226046384
+      ChrEvcTX_KarHaig_Mle_trim_59: 3822346604513337303
+      ChrEvcTX_KarHaig_Mle_trim_6: 2088026386449975803
+      ChrEvcTX_KarHaig_Mle_trim_60: -4090035286452558797
+      ChrEvcTX_KarHaig_Mle_trim_61: -516867851123468690
+      ChrEvcTX_KarHaig_Mle_trim_62: 3231424581231296199
+      ChrEvcTX_KarHaig_Mle_trim_63: -5913199199961402765
+      ChrEvcTX_KarHaig_Mle_trim_64: 1567792455598034880
+      ChrEvcTX_KarHaig_Mle_trim_7: -7754933758369593775
+      ChrEvcTX_KarHaig_Mle_trim_8: -8610364135469879841
+      ChrEvcTX_KarHaig_Mle_trim_9: 8980240112861819154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

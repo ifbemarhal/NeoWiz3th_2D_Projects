@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: f39d854bb9113be458232129d96f1b16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4022912598316298126
+    second: ChrEvcTX_KenBollnow_Mle_trim_0
+  - first:
+      213: -4453604112421112437
+    second: ChrEvcTX_KenBollnow_Mle_trim_1
+  - first:
+      213: -2534347200465744150
+    second: ChrEvcTX_KenBollnow_Mle_trim_2
+  - first:
+      213: 2952666522568276887
+    second: ChrEvcTX_KenBollnow_Mle_trim_3
+  - first:
+      213: -3319451777925480822
+    second: ChrEvcTX_KenBollnow_Mle_trim_4
+  - first:
+      213: -6565091628300428405
+    second: ChrEvcTX_KenBollnow_Mle_trim_5
+  - first:
+      213: -362431641749706181
+    second: ChrEvcTX_KenBollnow_Mle_trim_6
+  - first:
+      213: -4698871427386005620
+    second: ChrEvcTX_KenBollnow_Mle_trim_7
+  - first:
+      213: 6588200136801875161
+    second: ChrEvcTX_KenBollnow_Mle_trim_8
+  - first:
+      213: 6853798033067493000
+    second: ChrEvcTX_KenBollnow_Mle_trim_9
+  - first:
+      213: -7053982241909733044
+    second: ChrEvcTX_KenBollnow_Mle_trim_10
+  - first:
+      213: -5152227134472923109
+    second: ChrEvcTX_KenBollnow_Mle_trim_11
+  - first:
+      213: 3988374286507402853
+    second: ChrEvcTX_KenBollnow_Mle_trim_12
+  - first:
+      213: 4642382550859397295
+    second: ChrEvcTX_KenBollnow_Mle_trim_13
+  - first:
+      213: -7293862949758916065
+    second: ChrEvcTX_KenBollnow_Mle_trim_14
+  - first:
+      213: -8785589927949582312
+    second: ChrEvcTX_KenBollnow_Mle_trim_15
+  - first:
+      213: 5768673899222315306
+    second: ChrEvcTX_KenBollnow_Mle_trim_16
+  - first:
+      213: -1209189526894798378
+    second: ChrEvcTX_KenBollnow_Mle_trim_17
+  - first:
+      213: 7595558411130917272
+    second: ChrEvcTX_KenBollnow_Mle_trim_18
+  - first:
+      213: 9041847996289906003
+    second: ChrEvcTX_KenBollnow_Mle_trim_19
+  - first:
+      213: -8408946751325130681
+    second: ChrEvcTX_KenBollnow_Mle_trim_20
+  - first:
+      213: -4318400102062097010
+    second: ChrEvcTX_KenBollnow_Mle_trim_21
+  - first:
+      213: -1343676786261307292
+    second: ChrEvcTX_KenBollnow_Mle_trim_22
+  - first:
+      213: -5865859824814076240
+    second: ChrEvcTX_KenBollnow_Mle_trim_23
+  - first:
+      213: 1729343361862235814
+    second: ChrEvcTX_KenBollnow_Mle_trim_24
+  - first:
+      213: -2294960302864000023
+    second: ChrEvcTX_KenBollnow_Mle_trim_25
+  - first:
+      213: 5300346985690935144
+    second: ChrEvcTX_KenBollnow_Mle_trim_26
+  - first:
+      213: -5525466469885604550
+    second: ChrEvcTX_KenBollnow_Mle_trim_27
+  - first:
+      213: -8359915558748889990
+    second: ChrEvcTX_KenBollnow_Mle_trim_28
+  - first:
+      213: 8976816526644748924
+    second: ChrEvcTX_KenBollnow_Mle_trim_29
+  - first:
+      213: 2367631875382675052
+    second: ChrEvcTX_KenBollnow_Mle_trim_30
+  - first:
+      213: 1935252355269475439
+    second: ChrEvcTX_KenBollnow_Mle_trim_31
+  - first:
+      213: 1449843299895144312
+    second: ChrEvcTX_KenBollnow_Mle_trim_32
+  - first:
+      213: -8618485001275077797
+    second: ChrEvcTX_KenBollnow_Mle_trim_33
+  - first:
+      213: 3048837180554520357
+    second: ChrEvcTX_KenBollnow_Mle_trim_34
+  - first:
+      213: 2994125484328653072
+    second: ChrEvcTX_KenBollnow_Mle_trim_35
+  - first:
+      213: -5286351630507820887
+    second: ChrEvcTX_KenBollnow_Mle_trim_36
+  - first:
+      213: -4470869275719783457
+    second: ChrEvcTX_KenBollnow_Mle_trim_37
+  - first:
+      213: -8538800292869496903
+    second: ChrEvcTX_KenBollnow_Mle_trim_38
+  - first:
+      213: 389426564776292340
+    second: ChrEvcTX_KenBollnow_Mle_trim_39
+  - first:
+      213: -4086753688899718590
+    second: ChrEvcTX_KenBollnow_Mle_trim_40
+  - first:
+      213: 1103793210276857049
+    second: ChrEvcTX_KenBollnow_Mle_trim_41
+  - first:
+      213: -4291914365136471473
+    second: ChrEvcTX_KenBollnow_Mle_trim_42
+  - first:
+      213: -1916565663159217841
+    second: ChrEvcTX_KenBollnow_Mle_trim_43
+  - first:
+      213: -6484602828483972469
+    second: ChrEvcTX_KenBollnow_Mle_trim_44
+  - first:
+      213: 8331034654185963211
+    second: ChrEvcTX_KenBollnow_Mle_trim_45
+  - first:
+      213: -1075655681218248893
+    second: ChrEvcTX_KenBollnow_Mle_trim_46
+  - first:
+      213: -6042773672397848507
+    second: ChrEvcTX_KenBollnow_Mle_trim_47
+  - first:
+      213: 5220200644946005528
+    second: ChrEvcTX_KenBollnow_Mle_trim_48
+  - first:
+      213: 5491531485978093621
+    second: ChrEvcTX_KenBollnow_Mle_trim_49
+  - first:
+      213: -6904819403806784244
+    second: ChrEvcTX_KenBollnow_Mle_trim_50
+  - first:
+      213: 2505814247285095613
+    second: ChrEvcTX_KenBollnow_Mle_trim_51
+  - first:
+      213: 4937419792157193701
+    second: ChrEvcTX_KenBollnow_Mle_trim_52
+  - first:
+      213: -8935204460393411221
+    second: ChrEvcTX_KenBollnow_Mle_trim_53
+  - first:
+      213: 5583037986735646401
+    second: ChrEvcTX_KenBollnow_Mle_trim_54
+  - first:
+      213: 5717260299968604923
+    second: ChrEvcTX_KenBollnow_Mle_trim_55
+  - first:
+      213: -3201057799189672311
+    second: ChrEvcTX_KenBollnow_Mle_trim_56
+  - first:
+      213: 6448466009352661027
+    second: ChrEvcTX_KenBollnow_Mle_trim_57
+  - first:
+      213: -5471788023129056416
+    second: ChrEvcTX_KenBollnow_Mle_trim_58
+  - first:
+      213: 201403658977555281
+    second: ChrEvcTX_KenBollnow_Mle_trim_59
+  - first:
+      213: -3945435179736180961
+    second: ChrEvcTX_KenBollnow_Mle_trim_60
+  - first:
+      213: 1154464934673535199
+    second: ChrEvcTX_KenBollnow_Mle_trim_61
+  - first:
+      213: 6926119179665196855
+    second: ChrEvcTX_KenBollnow_Mle_trim_62
+  - first:
+      213: -9067641461365265107
+    second: ChrEvcTX_KenBollnow_Mle_trim_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f2611a1b144d730800000000000000
+      internalID: 4022912598316298126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85bbece7ae9132c0800000000000000
+      internalID: -4453604112421112437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 453
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeecbb216a034dcd0800000000000000
+      internalID: -2534347200465744150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 439
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bbed1fe8af9f820800000000000000
+      internalID: 2952666522568276887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 439
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e76b7f130fee1d0800000000000000
+      internalID: -3319451777925480822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 437
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b134982fb14e4a0800000000000000
+      internalID: -6565091628300428405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 437
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aa522975268faf0800000000000000
+      internalID: -362431641749706181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 437
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ac6d15514aceb0800000000000000
+      internalID: -4698871427386005620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 437
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4714f5e1dfd6b50800000000000000
+      internalID: 6588200136801875161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 437
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88642438ff49d1f50800000000000000
+      internalID: 6853798033067493000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 437
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498e0b46883b1e90800000000000000
+      internalID: -7053982241909733044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18dc9708bc9f78b0800000000000000
+      internalID: -5152227134472923109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 361
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5666392484d895730800000000000000
+      internalID: 3988374286507402853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 361
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83277655e0d6040800000000000000
+      internalID: 4642382550859397295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 361
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aac3faa4ef6ca90800000000000000
+      internalID: -7293862949758916065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810c0523280531680800000000000000
+      internalID: -8785589927949582312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 359
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b63cf8527e0050800000000000000
+      internalID: 5768673899222315306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 359
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d910572888183fe0800000000000000
+      internalID: -1209189526894798378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 359
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8915036c128d86960800000000000000
+      internalID: 7595558411130917272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 359
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355ffebc8d81b7d70800000000000000
+      internalID: 9041847996289906003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 359
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74037107b7b6d4b80800000000000000
+      internalID: -8408946751325130681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 359
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df39eacf5f114c0800000000000000
+      internalID: -4318400102062097010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d4fdf41d4a5de0800000000000000
+      internalID: -1343676786261307292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 281
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec8b76197489ea0800000000000000
+      internalID: -5865859824814076240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 281
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a67a7a00acdff710800000000000000
+      internalID: 1729343361862235814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb1b2683c9a620e0800000000000000
+      internalID: -2294960302864000023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fab64408d9e8940800000000000000
+      internalID: 5300346985690935144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d032455899153b0800000000000000
+      internalID: -5525466469885604550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 279
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cd280971d9bfb80800000000000000
+      internalID: -8359915558748889990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72248cd11f049c70800000000000000
+      internalID: 8976816526644748924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66831b75a48bd020800000000000000
+      internalID: 2367631875382675052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c339283c56bda10800000000000000
+      internalID: 1935252355269475439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 279
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fea36bcc0ee1410800000000000000
+      internalID: 1449843299895144312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b87f4dd8df46880800000000000000
+      internalID: -8618485001275077797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 199
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527a4f42345af4a20800000000000000
+      internalID: 3048837180554520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 197
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119a52b3454d8920800000000000000
+      internalID: 2994125484328653072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 197
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a836c9433b13a6b0800000000000000
+      internalID: -5286351630507820887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 197
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba387d41844f1c0800000000000000
+      internalID: -4470869275719783457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 197
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1387cf56108980800000000000000
+      internalID: -8538800292869496903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 197
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff679bb565876500800000000000000
+      internalID: 389426564776292340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 197
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427d982c2fe847c0800000000000000
+      internalID: -4086753688899718590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 197
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44a0c9316715f00800000000000000
+      internalID: 1103793210276857049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 197
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af4abdf9e0074c0800000000000000
+      internalID: -4291914365136471473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 197
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411faa0fadf665e0800000000000000
+      internalID: -1916565663159217841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8238ba95101206a0800000000000000
+      internalID: -6484602828483972469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3936d0e7cd9370800000000000000
+      internalID: 8331034654185963211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffa546bd08211f0800000000000000
+      internalID: -1075655681218248893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c4a66c51c32ca0800000000000000
+      internalID: -6042773672397848507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e854a24d0e17840800000000000000
+      internalID: 5220200644946005528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538e8968ac6d53c40800000000000000
+      internalID: 5491531485978093621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c054fd5e5572d20a0800000000000000
+      internalID: -6904819403806784244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7a8218c076c220800000000000000
+      internalID: 2505814247285095613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53382342d358440800000000000000
+      internalID: 4937419792157193701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc3ce42e6cff380800000000000000
+      internalID: -8935204460393411221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e3eef77fea7d40800000000000000
+      internalID: 5583037986735646401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa621493f9c75f40800000000000000
+      internalID: 5717260299968604923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 33
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e4ecd34ee8393d0800000000000000
+      internalID: -3201057799189672311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32865a98bad8d7950800000000000000
+      internalID: 6448466009352661027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bd723a8cd4014b0800000000000000
+      internalID: -5471788023129056416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15332dd8f878bc200800000000000000
+      internalID: 201403658977555281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17de7b9b9ffe39c0800000000000000
+      internalID: -3945435179736180961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05cd0ddbb750010800000000000000
+      internalID: 1154464934673535199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 29
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737c6ff92b48e1060800000000000000
+      internalID: 6926119179665196855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBollnow_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d28b02224492280800000000000000
+      internalID: -9067641461365265107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenBollnow_Mle_trim_0: 4022912598316298126
+      ChrEvcTX_KenBollnow_Mle_trim_1: -4453604112421112437
+      ChrEvcTX_KenBollnow_Mle_trim_10: -7053982241909733044
+      ChrEvcTX_KenBollnow_Mle_trim_11: -5152227134472923109
+      ChrEvcTX_KenBollnow_Mle_trim_12: 3988374286507402853
+      ChrEvcTX_KenBollnow_Mle_trim_13: 4642382550859397295
+      ChrEvcTX_KenBollnow_Mle_trim_14: -7293862949758916065
+      ChrEvcTX_KenBollnow_Mle_trim_15: -8785589927949582312
+      ChrEvcTX_KenBollnow_Mle_trim_16: 5768673899222315306
+      ChrEvcTX_KenBollnow_Mle_trim_17: -1209189526894798378
+      ChrEvcTX_KenBollnow_Mle_trim_18: 7595558411130917272
+      ChrEvcTX_KenBollnow_Mle_trim_19: 9041847996289906003
+      ChrEvcTX_KenBollnow_Mle_trim_2: -2534347200465744150
+      ChrEvcTX_KenBollnow_Mle_trim_20: -8408946751325130681
+      ChrEvcTX_KenBollnow_Mle_trim_21: -4318400102062097010
+      ChrEvcTX_KenBollnow_Mle_trim_22: -1343676786261307292
+      ChrEvcTX_KenBollnow_Mle_trim_23: -5865859824814076240
+      ChrEvcTX_KenBollnow_Mle_trim_24: 1729343361862235814
+      ChrEvcTX_KenBollnow_Mle_trim_25: -2294960302864000023
+      ChrEvcTX_KenBollnow_Mle_trim_26: 5300346985690935144
+      ChrEvcTX_KenBollnow_Mle_trim_27: -5525466469885604550
+      ChrEvcTX_KenBollnow_Mle_trim_28: -8359915558748889990
+      ChrEvcTX_KenBollnow_Mle_trim_29: 8976816526644748924
+      ChrEvcTX_KenBollnow_Mle_trim_3: 2952666522568276887
+      ChrEvcTX_KenBollnow_Mle_trim_30: 2367631875382675052
+      ChrEvcTX_KenBollnow_Mle_trim_31: 1935252355269475439
+      ChrEvcTX_KenBollnow_Mle_trim_32: 1449843299895144312
+      ChrEvcTX_KenBollnow_Mle_trim_33: -8618485001275077797
+      ChrEvcTX_KenBollnow_Mle_trim_34: 3048837180554520357
+      ChrEvcTX_KenBollnow_Mle_trim_35: 2994125484328653072
+      ChrEvcTX_KenBollnow_Mle_trim_36: -5286351630507820887
+      ChrEvcTX_KenBollnow_Mle_trim_37: -4470869275719783457
+      ChrEvcTX_KenBollnow_Mle_trim_38: -8538800292869496903
+      ChrEvcTX_KenBollnow_Mle_trim_39: 389426564776292340
+      ChrEvcTX_KenBollnow_Mle_trim_4: -3319451777925480822
+      ChrEvcTX_KenBollnow_Mle_trim_40: -4086753688899718590
+      ChrEvcTX_KenBollnow_Mle_trim_41: 1103793210276857049
+      ChrEvcTX_KenBollnow_Mle_trim_42: -4291914365136471473
+      ChrEvcTX_KenBollnow_Mle_trim_43: -1916565663159217841
+      ChrEvcTX_KenBollnow_Mle_trim_44: -6484602828483972469
+      ChrEvcTX_KenBollnow_Mle_trim_45: 8331034654185963211
+      ChrEvcTX_KenBollnow_Mle_trim_46: -1075655681218248893
+      ChrEvcTX_KenBollnow_Mle_trim_47: -6042773672397848507
+      ChrEvcTX_KenBollnow_Mle_trim_48: 5220200644946005528
+      ChrEvcTX_KenBollnow_Mle_trim_49: 5491531485978093621
+      ChrEvcTX_KenBollnow_Mle_trim_5: -6565091628300428405
+      ChrEvcTX_KenBollnow_Mle_trim_50: -6904819403806784244
+      ChrEvcTX_KenBollnow_Mle_trim_51: 2505814247285095613
+      ChrEvcTX_KenBollnow_Mle_trim_52: 4937419792157193701
+      ChrEvcTX_KenBollnow_Mle_trim_53: -8935204460393411221
+      ChrEvcTX_KenBollnow_Mle_trim_54: 5583037986735646401
+      ChrEvcTX_KenBollnow_Mle_trim_55: 5717260299968604923
+      ChrEvcTX_KenBollnow_Mle_trim_56: -3201057799189672311
+      ChrEvcTX_KenBollnow_Mle_trim_57: 6448466009352661027
+      ChrEvcTX_KenBollnow_Mle_trim_58: -5471788023129056416
+      ChrEvcTX_KenBollnow_Mle_trim_59: 201403658977555281
+      ChrEvcTX_KenBollnow_Mle_trim_6: -362431641749706181
+      ChrEvcTX_KenBollnow_Mle_trim_60: -3945435179736180961
+      ChrEvcTX_KenBollnow_Mle_trim_61: 1154464934673535199
+      ChrEvcTX_KenBollnow_Mle_trim_62: 6926119179665196855
+      ChrEvcTX_KenBollnow_Mle_trim_63: -9067641461365265107
+      ChrEvcTX_KenBollnow_Mle_trim_7: -4698871427386005620
+      ChrEvcTX_KenBollnow_Mle_trim_8: 6588200136801875161
+      ChrEvcTX_KenBollnow_Mle_trim_9: 6853798033067493000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

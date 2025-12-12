@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 6f1a0d3af1fccae409df0d6c088923a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6756928554706069225
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_0
+  - first:
+      213: -988399864770498779
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_1
+  - first:
+      213: -1781634571738367578
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_2
+  - first:
+      213: 7878650785576588291
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_3
+  - first:
+      213: -5607875268958179887
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_4
+  - first:
+      213: 7510609151613800570
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_5
+  - first:
+      213: -6402927465040866024
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_6
+  - first:
+      213: -7008160613164718763
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_7
+  - first:
+      213: -3637774825272850965
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_8
+  - first:
+      213: 3833698453797700312
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_9
+  - first:
+      213: -1315011011384991204
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_10
+  - first:
+      213: 2434154472294668707
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_11
+  - first:
+      213: -682542813727600599
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_12
+  - first:
+      213: 2442347540114945573
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_13
+  - first:
+      213: -6627753625666781944
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_14
+  - first:
+      213: -2751215424011129833
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_15
+  - first:
+      213: -6867502739328457323
+    second: ChrEvcTX_GakDavids_Mlb_trimBtl_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191d0c77419a32a0800000000000000
+      internalID: -6756928554706069225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 446
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6f4c4f8f7842f0800000000000000
+      internalID: -988399864770498779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 446
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9baf7ebcc5647e0800000000000000
+      internalID: -1781634571738367578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 445
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30415a78527965d60800000000000000
+      internalID: 7878650785576588291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddac099723dc22b0800000000000000
+      internalID: -5607875268958179887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 369
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a701db00b3b0b3860800000000000000
+      internalID: 7510609151613800570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81595ab056b3427a0800000000000000
+      internalID: -6402927465040866024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ee6b9d030ebe90800000000000000
+      internalID: -7008160613164718763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 291
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5c0c6f117048dc0800000000000000
+      internalID: -3637774825272850965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 291
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d283929e68043530800000000000000
+      internalID: 3833698453797700312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12abaec37420cde0800000000000000
+      internalID: -1315011011384991204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 207
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95d89889ad7c120800000000000000
+      internalID: 2434154472294668707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92055cb5dee1786f0800000000000000
+      internalID: -682542813727600599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b99ac526f4e120800000000000000
+      internalID: 2442347540114945573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df25b513d7504a0800000000000000
+      internalID: -6627753625666781944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 121
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cad3ff528b1d9d0800000000000000
+      internalID: -2751215424011129833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakDavids_Mlb_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5952e48e4aab1b0a0800000000000000
+      internalID: -6867502739328457323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_GakDavids_Mlb_trimBtl_0: -6756928554706069225
+      ChrEvcTX_GakDavids_Mlb_trimBtl_1: -988399864770498779
+      ChrEvcTX_GakDavids_Mlb_trimBtl_10: -1315011011384991204
+      ChrEvcTX_GakDavids_Mlb_trimBtl_11: 2434154472294668707
+      ChrEvcTX_GakDavids_Mlb_trimBtl_12: -682542813727600599
+      ChrEvcTX_GakDavids_Mlb_trimBtl_13: 2442347540114945573
+      ChrEvcTX_GakDavids_Mlb_trimBtl_14: -6627753625666781944
+      ChrEvcTX_GakDavids_Mlb_trimBtl_15: -2751215424011129833
+      ChrEvcTX_GakDavids_Mlb_trimBtl_16: -6867502739328457323
+      ChrEvcTX_GakDavids_Mlb_trimBtl_2: -1781634571738367578
+      ChrEvcTX_GakDavids_Mlb_trimBtl_3: 7878650785576588291
+      ChrEvcTX_GakDavids_Mlb_trimBtl_4: -5607875268958179887
+      ChrEvcTX_GakDavids_Mlb_trimBtl_5: 7510609151613800570
+      ChrEvcTX_GakDavids_Mlb_trimBtl_6: -6402927465040866024
+      ChrEvcTX_GakDavids_Mlb_trimBtl_7: -7008160613164718763
+      ChrEvcTX_GakDavids_Mlb_trimBtl_8: -3637774825272850965
+      ChrEvcTX_GakDavids_Mlb_trimBtl_9: 3833698453797700312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

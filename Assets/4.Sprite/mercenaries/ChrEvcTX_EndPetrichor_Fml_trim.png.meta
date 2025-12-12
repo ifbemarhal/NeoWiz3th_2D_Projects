@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 1875ac5e0629df342a0aa889592a3fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4018639087662842159
+    second: ChrEvcTX_EndPetrichor_Fml_trim_0
+  - first:
+      213: 7262798673426816210
+    second: ChrEvcTX_EndPetrichor_Fml_trim_1
+  - first:
+      213: -901129141283437125
+    second: ChrEvcTX_EndPetrichor_Fml_trim_2
+  - first:
+      213: 6089147336856382489
+    second: ChrEvcTX_EndPetrichor_Fml_trim_3
+  - first:
+      213: 4101930691961305045
+    second: ChrEvcTX_EndPetrichor_Fml_trim_4
+  - first:
+      213: -2165110061489438688
+    second: ChrEvcTX_EndPetrichor_Fml_trim_5
+  - first:
+      213: -8590828197703277680
+    second: ChrEvcTX_EndPetrichor_Fml_trim_6
+  - first:
+      213: 7826124862624048422
+    second: ChrEvcTX_EndPetrichor_Fml_trim_7
+  - first:
+      213: 7083081717522439110
+    second: ChrEvcTX_EndPetrichor_Fml_trim_8
+  - first:
+      213: -1929742267808446377
+    second: ChrEvcTX_EndPetrichor_Fml_trim_9
+  - first:
+      213: 1993189208019806915
+    second: ChrEvcTX_EndPetrichor_Fml_trim_10
+  - first:
+      213: -7614150302194026306
+    second: ChrEvcTX_EndPetrichor_Fml_trim_11
+  - first:
+      213: -307434995200984034
+    second: ChrEvcTX_EndPetrichor_Fml_trim_12
+  - first:
+      213: -6017648051850908344
+    second: ChrEvcTX_EndPetrichor_Fml_trim_13
+  - first:
+      213: 6038579797641827718
+    second: ChrEvcTX_EndPetrichor_Fml_trim_14
+  - first:
+      213: 2707361058326242473
+    second: ChrEvcTX_EndPetrichor_Fml_trim_15
+  - first:
+      213: 7022168118936355223
+    second: ChrEvcTX_EndPetrichor_Fml_trim_16
+  - first:
+      213: 1588359601845036655
+    second: ChrEvcTX_EndPetrichor_Fml_trim_17
+  - first:
+      213: -5276860826928789236
+    second: ChrEvcTX_EndPetrichor_Fml_trim_18
+  - first:
+      213: -1443731972888497315
+    second: ChrEvcTX_EndPetrichor_Fml_trim_19
+  - first:
+      213: 7934799045621863981
+    second: ChrEvcTX_EndPetrichor_Fml_trim_20
+  - first:
+      213: -1949883442898809526
+    second: ChrEvcTX_EndPetrichor_Fml_trim_21
+  - first:
+      213: 3631964203290987977
+    second: ChrEvcTX_EndPetrichor_Fml_trim_22
+  - first:
+      213: -6581779515102766026
+    second: ChrEvcTX_EndPetrichor_Fml_trim_23
+  - first:
+      213: -6330910902934511677
+    second: ChrEvcTX_EndPetrichor_Fml_trim_24
+  - first:
+      213: -2003227346380684611
+    second: ChrEvcTX_EndPetrichor_Fml_trim_25
+  - first:
+      213: -8347710208664394962
+    second: ChrEvcTX_EndPetrichor_Fml_trim_26
+  - first:
+      213: -5039081170232274444
+    second: ChrEvcTX_EndPetrichor_Fml_trim_27
+  - first:
+      213: -5366947365520201213
+    second: ChrEvcTX_EndPetrichor_Fml_trim_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3b5b9a0dea38c0800000000000000
+      internalID: -4018639087662842159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 433
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc98ccd9e4aac460800000000000000
+      internalID: 7262798673426816210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 433
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54c0502db8e73f0800000000000000
+      internalID: -901129141283437125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 433
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c275ebd3ff08450800000000000000
+      internalID: 6089147336856382489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d730ab3b3cfce830800000000000000
+      internalID: 4101930691961305045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 431
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204c4dcedbf3f1e0800000000000000
+      internalID: -2165110061489438688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 431
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ac75354f37c880800000000000000
+      internalID: -8590828197703277680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 431
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252f84191bfb9c60800000000000000
+      internalID: 7826124862624048422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 431
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1df75b492c4260800000000000000
+      internalID: 7083081717522439110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588833b1ad2835e0800000000000000
+      internalID: -1929742267808446377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 349
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caa92a360b39ab10800000000000000
+      internalID: 1993189208019806915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ba4344aa155690800000000000000
+      internalID: -7614150302194026306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c758f2085cbbbf0800000000000000
+      internalID: -307434995200984034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 349
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dea1ecaf40d7ca0800000000000000
+      internalID: -6017648051850908344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6859a4a05585dc350800000000000000
+      internalID: 6038579797641827718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e240d98a729520800000000000000
+      internalID: 2707361058326242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791464af2b0c37160800000000000000
+      internalID: 7022168118936355223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 349
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ed8374acfa0610800000000000000
+      internalID: 1588359601845036655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094cb13903d4c6b0800000000000000
+      internalID: -5276860826928789236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 267
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d537b1d7b65d6fbe0800000000000000
+      internalID: -1443731972888497315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 267
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26566e01b11e1e60800000000000000
+      internalID: 7934799045621863981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 269
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dc990f65f90f4e0800000000000000
+      internalID: -1949883442898809526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 267
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd081e2334576230800000000000000
+      internalID: 3631964203290987977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 267
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5b5c1762d8a4a0800000000000000
+      internalID: -6581779515102766026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 267
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd0fd83161428a0800000000000000
+      internalID: -6330910902934511677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 271
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db281ae875b1334e0800000000000000
+      internalID: -2003227346380684611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 269
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2328a41bc9f62c80800000000000000
+      internalID: -8347710208664394962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f112f5bf56911ab0800000000000000
+      internalID: -5039081170232274444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_EndPetrichor_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 187
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a23fd6ec5c485b0800000000000000
+      internalID: -5366947365520201213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_EndPetrichor_Fml_trim_0: -4018639087662842159
+      ChrEvcTX_EndPetrichor_Fml_trim_1: 7262798673426816210
+      ChrEvcTX_EndPetrichor_Fml_trim_10: 1993189208019806915
+      ChrEvcTX_EndPetrichor_Fml_trim_11: -7614150302194026306
+      ChrEvcTX_EndPetrichor_Fml_trim_12: -307434995200984034
+      ChrEvcTX_EndPetrichor_Fml_trim_13: -6017648051850908344
+      ChrEvcTX_EndPetrichor_Fml_trim_14: 6038579797641827718
+      ChrEvcTX_EndPetrichor_Fml_trim_15: 2707361058326242473
+      ChrEvcTX_EndPetrichor_Fml_trim_16: 7022168118936355223
+      ChrEvcTX_EndPetrichor_Fml_trim_17: 1588359601845036655
+      ChrEvcTX_EndPetrichor_Fml_trim_18: -5276860826928789236
+      ChrEvcTX_EndPetrichor_Fml_trim_19: -1443731972888497315
+      ChrEvcTX_EndPetrichor_Fml_trim_2: -901129141283437125
+      ChrEvcTX_EndPetrichor_Fml_trim_20: 7934799045621863981
+      ChrEvcTX_EndPetrichor_Fml_trim_21: -1949883442898809526
+      ChrEvcTX_EndPetrichor_Fml_trim_22: 3631964203290987977
+      ChrEvcTX_EndPetrichor_Fml_trim_23: -6581779515102766026
+      ChrEvcTX_EndPetrichor_Fml_trim_24: -6330910902934511677
+      ChrEvcTX_EndPetrichor_Fml_trim_25: -2003227346380684611
+      ChrEvcTX_EndPetrichor_Fml_trim_26: -8347710208664394962
+      ChrEvcTX_EndPetrichor_Fml_trim_27: -5039081170232274444
+      ChrEvcTX_EndPetrichor_Fml_trim_28: -5366947365520201213
+      ChrEvcTX_EndPetrichor_Fml_trim_3: 6089147336856382489
+      ChrEvcTX_EndPetrichor_Fml_trim_4: 4101930691961305045
+      ChrEvcTX_EndPetrichor_Fml_trim_5: -2165110061489438688
+      ChrEvcTX_EndPetrichor_Fml_trim_6: -8590828197703277680
+      ChrEvcTX_EndPetrichor_Fml_trim_7: 7826124862624048422
+      ChrEvcTX_EndPetrichor_Fml_trim_8: 7083081717522439110
+      ChrEvcTX_EndPetrichor_Fml_trim_9: -1929742267808446377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

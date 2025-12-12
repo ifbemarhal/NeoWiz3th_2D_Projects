@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: d28e036b70f273a4e956f61c705e85d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4713607839205972788
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_0
+  - first:
+      213: 7553195740716030920
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_1
+  - first:
+      213: 8176706984904039296
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_2
+  - first:
+      213: -9086606552614789351
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_3
+  - first:
+      213: -8622429792821407636
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_4
+  - first:
+      213: 7716674450338362325
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_5
+  - first:
+      213: 5568425921302926695
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_6
+  - first:
+      213: 4599576066215667374
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_7
+  - first:
+      213: 7375047677287602309
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_8
+  - first:
+      213: -650949404116777762
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_9
+  - first:
+      213: 6335601577834416468
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_10
+  - first:
+      213: -4080666757377957178
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_11
+  - first:
+      213: -3541443619410925791
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_12
+  - first:
+      213: 5931541859201219149
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_13
+  - first:
+      213: -5878816617914443315
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_14
+  - first:
+      213: -8901086834434438816
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_15
+  - first:
+      213: -8502814123251789698
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_16
+  - first:
+      213: 1442809830207407752
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_17
+  - first:
+      213: -8562213992718342528
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_18
+  - first:
+      213: 334025742526305344
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_19
+  - first:
+      213: -7584827024518840367
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_20
+  - first:
+      213: -845534525639824903
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_21
+  - first:
+      213: -1265707755371052055
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_22
+  - first:
+      213: -875683356787154076
+    second: ChrNpcTX_OdoClown002_Mle_trimBtl_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b5e522b591a6140800000000000000
+      internalID: 4713607839205972788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 452
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5f54f18752d860800000000000000
+      internalID: 7553195740716030920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 451
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b19a34eaf797170800000000000000
+      internalID: 8176706984904039296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 443
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f98a9bb73e5e180800000000000000
+      internalID: -9086606552614789351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 441
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60922a79c9f65880800000000000000
+      internalID: -8622429792821407636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d330c32782271b60800000000000000
+      internalID: 7716674450338362325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 367
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76596556fd5074d40800000000000000
+      internalID: 5568425921302926695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 363
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea66c28001af4df30800000000000000
+      internalID: 4599576066215667374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 363
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5881c4ea9ce695660800000000000000
+      internalID: 7375047677287602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 361
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40ed047fc57f6f0800000000000000
+      internalID: -650949404116777762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459893d41149ce750800000000000000
+      internalID: 6335601577834416468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 281
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2edb7543f8e57c0800000000000000
+      internalID: -4080666757377957178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 281
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12720f0aac34adec0800000000000000
+      internalID: -3541443619410925791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 281
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a7c00f4e1115250800000000000000
+      internalID: 5931541859201219149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 281
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9db8dee6f3a6ea0800000000000000
+      internalID: -5878816617914443315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06901ae1facf87480800000000000000
+      internalID: -8901086834434438816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e701760da9feff980800000000000000
+      internalID: -8502814123251789698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88644ff65e3e50410800000000000000
+      internalID: 1442809830207407752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e429fcb7ec2980800000000000000
+      internalID: -8562213992718342528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044dd11a4a2b2a400800000000000000
+      internalID: 334025742526305344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df75c0e1084db690800000000000000
+      internalID: -7584827024518840367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e8e924de0444f0800000000000000
+      internalID: -845534525639824903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3c6a3a08d4f6ee0800000000000000
+      internalID: -1265707755371052055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown002_Mle_trimBtl_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463eaf660a2f8d3f0800000000000000
+      internalID: -875683356787154076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrNpcTX_OdoClown002_Mle_trimBtl_0: 4713607839205972788
+      ChrNpcTX_OdoClown002_Mle_trimBtl_1: 7553195740716030920
+      ChrNpcTX_OdoClown002_Mle_trimBtl_10: 6335601577834416468
+      ChrNpcTX_OdoClown002_Mle_trimBtl_11: -4080666757377957178
+      ChrNpcTX_OdoClown002_Mle_trimBtl_12: -3541443619410925791
+      ChrNpcTX_OdoClown002_Mle_trimBtl_13: 5931541859201219149
+      ChrNpcTX_OdoClown002_Mle_trimBtl_14: -5878816617914443315
+      ChrNpcTX_OdoClown002_Mle_trimBtl_15: -8901086834434438816
+      ChrNpcTX_OdoClown002_Mle_trimBtl_16: -8502814123251789698
+      ChrNpcTX_OdoClown002_Mle_trimBtl_17: 1442809830207407752
+      ChrNpcTX_OdoClown002_Mle_trimBtl_18: -8562213992718342528
+      ChrNpcTX_OdoClown002_Mle_trimBtl_19: 334025742526305344
+      ChrNpcTX_OdoClown002_Mle_trimBtl_2: 8176706984904039296
+      ChrNpcTX_OdoClown002_Mle_trimBtl_20: -7584827024518840367
+      ChrNpcTX_OdoClown002_Mle_trimBtl_21: -845534525639824903
+      ChrNpcTX_OdoClown002_Mle_trimBtl_22: -1265707755371052055
+      ChrNpcTX_OdoClown002_Mle_trimBtl_23: -875683356787154076
+      ChrNpcTX_OdoClown002_Mle_trimBtl_3: -9086606552614789351
+      ChrNpcTX_OdoClown002_Mle_trimBtl_4: -8622429792821407636
+      ChrNpcTX_OdoClown002_Mle_trimBtl_5: 7716674450338362325
+      ChrNpcTX_OdoClown002_Mle_trimBtl_6: 5568425921302926695
+      ChrNpcTX_OdoClown002_Mle_trimBtl_7: 4599576066215667374
+      ChrNpcTX_OdoClown002_Mle_trimBtl_8: 7375047677287602309
+      ChrNpcTX_OdoClown002_Mle_trimBtl_9: -650949404116777762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 7a87617cfa2e7934c8ecb2e4d86b9081
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2656843024527646880
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_0
+  - first:
+      213: -6884710192845799598
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_1
+  - first:
+      213: -1138122908231243102
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_2
+  - first:
+      213: -5619509516804059136
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_3
+  - first:
+      213: 5602852747465427649
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_4
+  - first:
+      213: 6972931906806882317
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_5
+  - first:
+      213: 2773696998399664423
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_6
+  - first:
+      213: -5903261904454972433
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_7
+  - first:
+      213: -8374614307290369817
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_8
+  - first:
+      213: -7237141631662018918
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_9
+  - first:
+      213: 6696419988051169316
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_10
+  - first:
+      213: 4743428782717728740
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_11
+  - first:
+      213: 3462957396142952882
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_12
+  - first:
+      213: -9085559391405340934
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_13
+  - first:
+      213: 2682832935829502450
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_14
+  - first:
+      213: 8409077250925796046
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_15
+  - first:
+      213: 2723087766340259721
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_16
+  - first:
+      213: 5841348072968120844
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_17
+  - first:
+      213: -4186780408034398118
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_18
+  - first:
+      213: -3134350348309737140
+    second: ChrEvcTX_CopYomiDress_Fml_trimBtl_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e1fc77a00fd420800000000000000
+      internalID: 2656843024527646880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3aed6e889470a0800000000000000
+      internalID: -6884710192845799598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa6428be339430f0800000000000000
+      internalID: -1138122908231243102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00097fe2edd7302b0800000000000000
+      internalID: -5619509516804059136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca8f7d73e451cd40800000000000000
+      internalID: 5602852747465427649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 386
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00263400a4d4c060800000000000000
+      internalID: 6972931906806882317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 386
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ed2079b62e7620800000000000000
+      internalID: 2773696998399664423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 386
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb8dd02396631ea0800000000000000
+      internalID: -5903261904454972433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bd0b78a467cb80800000000000000
+      internalID: -8374614307290369817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 318
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e289fa702809b90800000000000000
+      internalID: -7237141631662018918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 318
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4209d9eff767eec50800000000000000
+      internalID: 6696419988051169316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 316
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f04b985b04d140800000000000000
+      internalID: 4743428782717728740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1996d7765ee0030800000000000000
+      internalID: 3462957396142952882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 242
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af60291fedb99e180800000000000000
+      internalID: -9085559391405340934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 238
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f5d347565b3520800000000000000
+      internalID: 2682832935829502450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca104ed43b03b470800000000000000
+      internalID: 8409077250925796046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 238
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4cec55e95ac520800000000000000
+      internalID: 2723087766340259721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6da2af13a01150800000000000000
+      internalID: 5841348072968120844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507b82c66195e5c0800000000000000
+      internalID: -4186780408034398118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopYomiDress_Fml_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415067f6fc8084d0800000000000000
+      internalID: -3134350348309737140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_0: 2656843024527646880
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_1: -6884710192845799598
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_10: 6696419988051169316
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_11: 4743428782717728740
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_12: 3462957396142952882
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_13: -9085559391405340934
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_14: 2682832935829502450
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_15: 8409077250925796046
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_16: 2723087766340259721
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_17: 5841348072968120844
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_18: -4186780408034398118
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_19: -3134350348309737140
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_2: -1138122908231243102
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_3: -5619509516804059136
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_4: 5602852747465427649
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_5: 6972931906806882317
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_6: 2773696998399664423
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_7: -5903261904454972433
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_8: -8374614307290369817
+      ChrEvcTX_CopYomiDress_Fml_trimBtl_9: -7237141631662018918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

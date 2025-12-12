@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 091178d9e0934484e914c18ac99e7848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2383894792071180823
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_0
+  - first:
+      213: -8731187531132405601
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_1
+  - first:
+      213: 6431333479231283945
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_2
+  - first:
+      213: 5051451615011195067
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_3
+  - first:
+      213: -442479815743636278
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_4
+  - first:
+      213: -6345584036838476376
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_5
+  - first:
+      213: -4150699965780184236
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_6
+  - first:
+      213: -8583071967968069397
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_7
+  - first:
+      213: 7892298095519360304
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_8
+  - first:
+      213: -826277354401027278
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_9
+  - first:
+      213: 7450808222747461809
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_10
+  - first:
+      213: 8483312888931711321
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_11
+  - first:
+      213: -7961139669886771361
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_12
+  - first:
+      213: 8044686812665674690
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_13
+  - first:
+      213: -8543234089293590271
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_14
+  - first:
+      213: 1721857267817547417
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_15
+  - first:
+      213: -5050943441806391750
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_16
+  - first:
+      213: 4402321952248826167
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_17
+  - first:
+      213: 4606368817647540302
+    second: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7127e47deab451120800000000000000
+      internalID: 2383894792071180823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 452
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987883433794d680800000000000000
+      internalID: -8731187531132405601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 452
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e268a589bfa04950800000000000000
+      internalID: 6431333479231283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 451
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c0d8ea7c5a1640800000000000000
+      internalID: 5051451615011195067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf152b3fefbd9f0800000000000000
+      internalID: -442479815743636278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 380
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57ad750f4ffe7a0800000000000000
+      internalID: -6345584036838476376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 380
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453327a5f50c566c0800000000000000
+      internalID: -4150699965780184236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 379
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be876ab258dc2e880800000000000000
+      internalID: -8583071967968069397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 379
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356cec7d43178d60800000000000000
+      internalID: 7892298095519360304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2afcbf197884f0800000000000000
+      internalID: -826277354401027278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 307
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b80c6e3a96966760800000000000000
+      internalID: 7450808222747461809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 305
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959744f3028cab570800000000000000
+      internalID: 8483312888931711321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 303
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd02176a9548190800000000000000
+      internalID: -7961139669886771361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 301
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf436980874af60800000000000000
+      internalID: 8044686812665674690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101d5aa1cd5507980800000000000000
+      internalID: -8543234089293590271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 219
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968032ff0445e710800000000000000
+      internalID: 1721857267817547417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 219
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a368a8263b177e9b0800000000000000
+      internalID: -5050943441806391750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 219
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73902b6bd70381d30800000000000000
+      internalID: 4402321952248826167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugenSoldier_Mle_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485158b80c1def30800000000000000
+      internalID: 4606368817647540302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_0: 2383894792071180823
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_1: -8731187531132405601
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_10: 7450808222747461809
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_11: 8483312888931711321
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_12: -7961139669886771361
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_13: 8044686812665674690
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_14: -8543234089293590271
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_15: 1721857267817547417
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_16: -5050943441806391750
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_17: 4402321952248826167
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_18: 4606368817647540302
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_2: 6431333479231283945
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_3: 5051451615011195067
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_4: -442479815743636278
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_5: -6345584036838476376
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_6: -4150699965780184236
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_7: -8583071967968069397
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_8: 7892298095519360304
+      ChrEvcTX_KenMugenSoldier_Mle_trimBtl_9: -826277354401027278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

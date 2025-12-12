@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: c8fcd6120dceaf14f83d57f65152e235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -774472733524196243
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_0
+  - first:
+      213: 766535851487733079
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_1
+  - first:
+      213: -2563039078410689071
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_2
+  - first:
+      213: -5202338201414369768
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_3
+  - first:
+      213: -6347303321150920584
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_4
+  - first:
+      213: 3626429815543070458
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_5
+  - first:
+      213: 1634582481082512843
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_6
+  - first:
+      213: 5346569315656909402
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_7
+  - first:
+      213: -6105578218474187439
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_8
+  - first:
+      213: 2217499122537170010
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_9
+  - first:
+      213: -5135658942860329053
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_10
+  - first:
+      213: -2762082428970174696
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_11
+  - first:
+      213: 3057434210805830697
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_12
+  - first:
+      213: 4114851788522301064
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_13
+  - first:
+      213: 3599474514792563495
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_14
+  - first:
+      213: 3217985001581539950
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_15
+  - first:
+      213: -6711508524831529925
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_16
+  - first:
+      213: -9077567753501567995
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_17
+  - first:
+      213: 4147136995058809112
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_18
+  - first:
+      213: 7536613276313543477
+    second: ChrEvcTX_SinCrick_Mle_trimUnq_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d648016f6258045f0800000000000000
+      internalID: -774472733524196243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 451
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755278fab4843aa00800000000000000
+      internalID: 766535851487733079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 451
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e2e9a9814e6cd0800000000000000
+      internalID: -2563039078410689071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e704f08f49dc7b0800000000000000
+      internalID: -5202338201414369768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 387
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87864254249d9e7a0800000000000000
+      internalID: -6347303321150920584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe745e14baa35230800000000000000
+      internalID: 3626429815543070458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 317
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5fffc2b143fa610800000000000000
+      internalID: 1634582481082512843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 315
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52cbba1774d23a40800000000000000
+      internalID: 5346569315656909402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155db7385f0a44ba0800000000000000
+      internalID: -6105578218474187439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 241
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54819004b326ce10800000000000000
+      internalID: 2217499122537170010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af704fb6697ab8b0800000000000000
+      internalID: -5135658942860329053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 239
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81772ec3aac1ba9d0800000000000000
+      internalID: -2762082428970174696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924553b37303e6a20800000000000000
+      internalID: 3057434210805830697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886a04676e3ea1930800000000000000
+      internalID: 4114851788522301064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72348481007e3f130800000000000000
+      internalID: 3599474514792563495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e627dcf2f4498ac20800000000000000
+      internalID: 3217985001581539950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3429664e8eebd2a0800000000000000
+      internalID: -6711508524831529925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 69
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049ff32930060280800000000000000
+      internalID: -9077567753501567995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8197c51ef179d8930800000000000000
+      internalID: 4147136995058809112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCrick_Mle_trimUnq_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 61
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533692818dd679860800000000000000
+      internalID: 7536613276313543477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_SinCrick_Mle_trimUnq_0: -774472733524196243
+      ChrEvcTX_SinCrick_Mle_trimUnq_1: 766535851487733079
+      ChrEvcTX_SinCrick_Mle_trimUnq_10: -5135658942860329053
+      ChrEvcTX_SinCrick_Mle_trimUnq_11: -2762082428970174696
+      ChrEvcTX_SinCrick_Mle_trimUnq_12: 3057434210805830697
+      ChrEvcTX_SinCrick_Mle_trimUnq_13: 4114851788522301064
+      ChrEvcTX_SinCrick_Mle_trimUnq_14: 3599474514792563495
+      ChrEvcTX_SinCrick_Mle_trimUnq_15: 3217985001581539950
+      ChrEvcTX_SinCrick_Mle_trimUnq_16: -6711508524831529925
+      ChrEvcTX_SinCrick_Mle_trimUnq_17: -9077567753501567995
+      ChrEvcTX_SinCrick_Mle_trimUnq_18: 4147136995058809112
+      ChrEvcTX_SinCrick_Mle_trimUnq_19: 7536613276313543477
+      ChrEvcTX_SinCrick_Mle_trimUnq_2: -2563039078410689071
+      ChrEvcTX_SinCrick_Mle_trimUnq_3: -5202338201414369768
+      ChrEvcTX_SinCrick_Mle_trimUnq_4: -6347303321150920584
+      ChrEvcTX_SinCrick_Mle_trimUnq_5: 3626429815543070458
+      ChrEvcTX_SinCrick_Mle_trimUnq_6: 1634582481082512843
+      ChrEvcTX_SinCrick_Mle_trimUnq_7: 5346569315656909402
+      ChrEvcTX_SinCrick_Mle_trimUnq_8: -6105578218474187439
+      ChrEvcTX_SinCrick_Mle_trimUnq_9: 2217499122537170010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

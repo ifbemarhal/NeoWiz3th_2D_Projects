@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 010ef8a409759fd49a0ce18cc095ed4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -54681942834924901
+    second: ChrEvcTX_ShoLock_Mle_trim_0
+  - first:
+      213: -6305939351423997059
+    second: ChrEvcTX_ShoLock_Mle_trim_1
+  - first:
+      213: -729999775244649057
+    second: ChrEvcTX_ShoLock_Mle_trim_2
+  - first:
+      213: 668419996084942109
+    second: ChrEvcTX_ShoLock_Mle_trim_3
+  - first:
+      213: -915483344423561533
+    second: ChrEvcTX_ShoLock_Mle_trim_4
+  - first:
+      213: -4099816967090815754
+    second: ChrEvcTX_ShoLock_Mle_trim_5
+  - first:
+      213: -1249893987218736786
+    second: ChrEvcTX_ShoLock_Mle_trim_6
+  - first:
+      213: -4033232995082763201
+    second: ChrEvcTX_ShoLock_Mle_trim_7
+  - first:
+      213: -5396460953461377576
+    second: ChrEvcTX_ShoLock_Mle_trim_8
+  - first:
+      213: -7412384677159697308
+    second: ChrEvcTX_ShoLock_Mle_trim_9
+  - first:
+      213: 5375637340216998884
+    second: ChrEvcTX_ShoLock_Mle_trim_10
+  - first:
+      213: -390999077559665464
+    second: ChrEvcTX_ShoLock_Mle_trim_11
+  - first:
+      213: 8521272167923366886
+    second: ChrEvcTX_ShoLock_Mle_trim_12
+  - first:
+      213: 1242381121782678793
+    second: ChrEvcTX_ShoLock_Mle_trim_13
+  - first:
+      213: 2664430107832893551
+    second: ChrEvcTX_ShoLock_Mle_trim_14
+  - first:
+      213: 8344214053782768903
+    second: ChrEvcTX_ShoLock_Mle_trim_15
+  - first:
+      213: -9138645268532805815
+    second: ChrEvcTX_ShoLock_Mle_trim_16
+  - first:
+      213: -8564186895741805581
+    second: ChrEvcTX_ShoLock_Mle_trim_17
+  - first:
+      213: -7407801285012046951
+    second: ChrEvcTX_ShoLock_Mle_trim_18
+  - first:
+      213: -1563952467724659656
+    second: ChrEvcTX_ShoLock_Mle_trim_19
+  - first:
+      213: -12635076903582600
+    second: ChrEvcTX_ShoLock_Mle_trim_20
+  - first:
+      213: -966584615389878359
+    second: ChrEvcTX_ShoLock_Mle_trim_21
+  - first:
+      213: 5718565061545238639
+    second: ChrEvcTX_ShoLock_Mle_trim_22
+  - first:
+      213: -4533130567685886457
+    second: ChrEvcTX_ShoLock_Mle_trim_23
+  - first:
+      213: 7185830694977481276
+    second: ChrEvcTX_ShoLock_Mle_trim_24
+  - first:
+      213: 5865562005198214326
+    second: ChrEvcTX_ShoLock_Mle_trim_25
+  - first:
+      213: 5981181514619307745
+    second: ChrEvcTX_ShoLock_Mle_trim_26
+  - first:
+      213: 5047252772270532088
+    second: ChrEvcTX_ShoLock_Mle_trim_27
+  - first:
+      213: -8038712732052704965
+    second: ChrEvcTX_ShoLock_Mle_trim_28
+  - first:
+      213: 8134473189806898890
+    second: ChrEvcTX_ShoLock_Mle_trim_29
+  - first:
+      213: -3535938957982291003
+    second: ChrEvcTX_ShoLock_Mle_trim_30
+  - first:
+      213: -8385938022201816723
+    second: ChrEvcTX_ShoLock_Mle_trim_31
+  - first:
+      213: -324135046370600879
+    second: ChrEvcTX_ShoLock_Mle_trim_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9232bd001bbd3ff0800000000000000
+      internalID: -54681942834924901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 429
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2737f19dcc78a0800000000000000
+      internalID: -6305939351423997059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 429
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7d6672158ed5f0800000000000000
+      internalID: -729999775244649057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 429
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15396be174b64900800000000000000
+      internalID: 668419996084942109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 429
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6d8d9afbc8b43f0800000000000000
+      internalID: -915483344423561533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 429
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbe60b0368a17c0800000000000000
+      internalID: -4099816967090815754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 429
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e693ee47a0c77aee0800000000000000
+      internalID: -1249893987218736786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 427
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3405bfb5f31708c0800000000000000
+      internalID: -4033232995082763201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 427
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53ba0ca5beb15b0800000000000000
+      internalID: -5396460953461377576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 427
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464095b986be12990800000000000000
+      internalID: -7412384677159697308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebb5f8fda91a9a40800000000000000
+      internalID: 5375637340216998884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 341
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccfc8a1964e29af0800000000000000
+      internalID: -390999077559665464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbe7b93e3a14670800000000000000
+      internalID: 8521272167923366886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905028f3c03dd3110800000000000000
+      internalID: 1242381121782678793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f604c3af015f9f420800000000000000
+      internalID: 2664430107832893551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 341
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4b8de87a9cc370800000000000000
+      internalID: 8344214053782768903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 341
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3cc00c820d2180800000000000000
+      internalID: -9138645268532805815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 341
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1141b465e52980800000000000000
+      internalID: -8564186895741805581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 341
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bbc20caf3323990800000000000000
+      internalID: -7407801285012046951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 341
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8341dab4489bb4ae0800000000000000
+      internalID: -1563952467724659656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c379e67c13dff0800000000000000
+      internalID: -12635076903582600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7245ad9600692f0800000000000000
+      internalID: -966584615389878359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f602d5e00ac6c5f40800000000000000
+      internalID: 5718565061545238639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e2e9824c51711c0800000000000000
+      internalID: -4533130567685886457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2b36e1f239b360800000000000000
+      internalID: 7185830694977481276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41edf0199a66150800000000000000
+      internalID: 5865562005198214326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6440cd5ec610350800000000000000
+      internalID: 5981181514619307745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56ac6a7a17b0640800000000000000
+      internalID: 5047252772270532088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 255
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b6927c51c07090800000000000000
+      internalID: -8038712732052704965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 255
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef061944473e070800000000000000
+      internalID: 8134473189806898890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb200e7042ddeec0800000000000000
+      internalID: -3535938957982291003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 169
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690836acc92f9b80800000000000000
+      internalID: -8385938022201816723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_ShoLock_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 167
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15853d584e0708bf0800000000000000
+      internalID: -324135046370600879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_ShoLock_Mle_trim_0: -54681942834924901
+      ChrEvcTX_ShoLock_Mle_trim_1: -6305939351423997059
+      ChrEvcTX_ShoLock_Mle_trim_10: 5375637340216998884
+      ChrEvcTX_ShoLock_Mle_trim_11: -390999077559665464
+      ChrEvcTX_ShoLock_Mle_trim_12: 8521272167923366886
+      ChrEvcTX_ShoLock_Mle_trim_13: 1242381121782678793
+      ChrEvcTX_ShoLock_Mle_trim_14: 2664430107832893551
+      ChrEvcTX_ShoLock_Mle_trim_15: 8344214053782768903
+      ChrEvcTX_ShoLock_Mle_trim_16: -9138645268532805815
+      ChrEvcTX_ShoLock_Mle_trim_17: -8564186895741805581
+      ChrEvcTX_ShoLock_Mle_trim_18: -7407801285012046951
+      ChrEvcTX_ShoLock_Mle_trim_19: -1563952467724659656
+      ChrEvcTX_ShoLock_Mle_trim_2: -729999775244649057
+      ChrEvcTX_ShoLock_Mle_trim_20: -12635076903582600
+      ChrEvcTX_ShoLock_Mle_trim_21: -966584615389878359
+      ChrEvcTX_ShoLock_Mle_trim_22: 5718565061545238639
+      ChrEvcTX_ShoLock_Mle_trim_23: -4533130567685886457
+      ChrEvcTX_ShoLock_Mle_trim_24: 7185830694977481276
+      ChrEvcTX_ShoLock_Mle_trim_25: 5865562005198214326
+      ChrEvcTX_ShoLock_Mle_trim_26: 5981181514619307745
+      ChrEvcTX_ShoLock_Mle_trim_27: 5047252772270532088
+      ChrEvcTX_ShoLock_Mle_trim_28: -8038712732052704965
+      ChrEvcTX_ShoLock_Mle_trim_29: 8134473189806898890
+      ChrEvcTX_ShoLock_Mle_trim_3: 668419996084942109
+      ChrEvcTX_ShoLock_Mle_trim_30: -3535938957982291003
+      ChrEvcTX_ShoLock_Mle_trim_31: -8385938022201816723
+      ChrEvcTX_ShoLock_Mle_trim_32: -324135046370600879
+      ChrEvcTX_ShoLock_Mle_trim_4: -915483344423561533
+      ChrEvcTX_ShoLock_Mle_trim_5: -4099816967090815754
+      ChrEvcTX_ShoLock_Mle_trim_6: -1249893987218736786
+      ChrEvcTX_ShoLock_Mle_trim_7: -4033232995082763201
+      ChrEvcTX_ShoLock_Mle_trim_8: -5396460953461377576
+      ChrEvcTX_ShoLock_Mle_trim_9: -7412384677159697308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

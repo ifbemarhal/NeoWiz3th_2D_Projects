@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 027dfe74fba2ab249bc0ce448781d84f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8459745738974280025
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_0
+  - first:
+      213: 4101145457753317163
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_1
+  - first:
+      213: 543345723239113748
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_2
+  - first:
+      213: 1431189125301812017
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_3
+  - first:
+      213: 5934872389494889944
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_4
+  - first:
+      213: 6863203840022797526
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_5
+  - first:
+      213: 519866532633210715
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_6
+  - first:
+      213: -8845696408800670593
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_7
+  - first:
+      213: -5760748353747526858
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_8
+  - first:
+      213: -2407625089576124895
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_9
+  - first:
+      213: -60479839910909017
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_10
+  - first:
+      213: 7262108053915741945
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_11
+  - first:
+      213: -924395951401489328
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_12
+  - first:
+      213: -6476931597902237401
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_13
+  - first:
+      213: 8817251526673721665
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_14
+  - first:
+      213: -7400141522295760552
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_15
+  - first:
+      213: -8654479707342157140
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_16
+  - first:
+      213: 1486709558293937360
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_17
+  - first:
+      213: -7767417269300870847
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_18
+  - first:
+      213: -2569334732061284435
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_19
+  - first:
+      213: 8969169223989499556
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_20
+  - first:
+      213: -6137962877176033907
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_21
+  - first:
+      213: 74402424381367792
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_22
+  - first:
+      213: 436002138350767089
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_23
+  - first:
+      213: -6759902864435691593
+    second: ChrEvcTX_KenRyeMay_Fml_trimBtl_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959bfad8ded076570800000000000000
+      internalID: 8459745738974280025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 452
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd795a0123ae830800000000000000
+      internalID: 4101145457753317163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 452
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41425e77e0a5a8700800000000000000
+      internalID: 543345723239113748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 451
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b340c3dea9cd310800000000000000
+      internalID: 1431189125301812017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddd137ef6ec5250800000000000000
+      internalID: 5934872389494889944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd7a9978ffe3f50800000000000000
+      internalID: 6863203840022797526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 381
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f67386bdfe63700800000000000000
+      internalID: 519866532633210715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 379
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ccc729bf5cd3580800000000000000
+      internalID: -8845696408800670593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 379
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b567ed4e5bd00b0800000000000000
+      internalID: -5760748353747526858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3f77bcb5669ed0800000000000000
+      internalID: -2407625089576124895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 310
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba902f7e1292ff0800000000000000
+      internalID: -60479839910909017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 310
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea62a7cc038c460800000000000000
+      internalID: 7262108053915741945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 309
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca7e4a7c2eb23f0800000000000000
+      internalID: -924395951401489328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b88827015d16a0800000000000000
+      internalID: -6476931597902237401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14968a63c8b2d5a70800000000000000
+      internalID: 8817251526673721665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 235
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85951fb3e7a6d4990800000000000000
+      internalID: -7400141522295760552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 235
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa4b004f8c15e780800000000000000
+      internalID: -8654479707342157140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 233
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb942677ad1a410800000000000000
+      internalID: 1486709558293937360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 233
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414619a527943490800000000000000
+      internalID: -7767417269300870847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e9629ca3e75cd0800000000000000
+      internalID: -2569334732061284435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 155
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6924673e3e87c70800000000000000
+      internalID: 8969169223989499556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 155
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4365984391daa0800000000000000
+      internalID: -6137962877176033907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 155
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5edab5c94580100800000000000000
+      internalID: 74402424381367792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 155
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb45b182adfc0600800000000000000
+      internalID: 436002138350767089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenRyeMay_Fml_trimBtl_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 155
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf3a2909200032a0800000000000000
+      internalID: -6759902864435691593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_0: 8459745738974280025
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_1: 4101145457753317163
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_10: -60479839910909017
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_11: 7262108053915741945
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_12: -924395951401489328
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_13: -6476931597902237401
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_14: 8817251526673721665
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_15: -7400141522295760552
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_16: -8654479707342157140
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_17: 1486709558293937360
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_18: -7767417269300870847
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_19: -2569334732061284435
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_2: 543345723239113748
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_20: 8969169223989499556
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_21: -6137962877176033907
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_22: 74402424381367792
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_23: 436002138350767089
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_24: -6759902864435691593
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_3: 1431189125301812017
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_4: 5934872389494889944
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_5: 6863203840022797526
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_6: 519866532633210715
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_7: -8845696408800670593
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_8: -5760748353747526858
+      ChrEvcTX_KenRyeMay_Fml_trimBtl_9: -2407625089576124895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

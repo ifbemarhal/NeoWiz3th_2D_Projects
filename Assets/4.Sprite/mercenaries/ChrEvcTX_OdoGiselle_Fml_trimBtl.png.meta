@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9775da0a52c833345a909ce9cac5c991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2447674738708877576
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_0
+  - first:
+      213: 3979063989935183539
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_1
+  - first:
+      213: 7674578880090564419
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_2
+  - first:
+      213: -143166972994114834
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_3
+  - first:
+      213: -3744266643440648516
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_4
+  - first:
+      213: -2476698696827835606
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_5
+  - first:
+      213: 5805788298044251764
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_6
+  - first:
+      213: 3114424912963515846
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_7
+  - first:
+      213: -9023995367211261603
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_8
+  - first:
+      213: -2108407322882852051
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_9
+  - first:
+      213: -5883776059339546291
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_10
+  - first:
+      213: -3331203982045015383
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_11
+  - first:
+      213: -7565583765205335393
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_12
+  - first:
+      213: -8990808736354127513
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_13
+  - first:
+      213: -5499141923241208475
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_14
+  - first:
+      213: -9140372625658394145
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_15
+  - first:
+      213: -6865395494625176671
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_16
+  - first:
+      213: -3160470459651257529
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_17
+  - first:
+      213: -1146766199035159067
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_18
+  - first:
+      213: 329246876835303611
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_19
+  - first:
+      213: 2964735708200801549
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_20
+  - first:
+      213: 6747849196919565833
+    second: ChrEvcTX_OdoGiselle_Fml_trimBtl_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6f812bcc180ed0800000000000000
+      internalID: -2447674738708877576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 452
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b692aaed99783730800000000000000
+      internalID: 3979063989935183539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 451
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347638c64d4918a60800000000000000
+      internalID: 7674578880090564419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 485
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2e17856e530ef0800000000000000
+      internalID: -143166972994114834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe30656351b90cc0800000000000000
+      internalID: -3744266643440648516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b67e748aff0add0800000000000000
+      internalID: -2476698696827835606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 382
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1c0a52bd429050800000000000000
+      internalID: 5805788298044251764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 382
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c531d815f8a83b20800000000000000
+      internalID: 3114424912963515846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 382
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512a92560454c280800000000000000
+      internalID: -9023995367211261603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b3cbde5be6db2e0800000000000000
+      internalID: -2108407322882852051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 311
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416e1df8d0a85ea0800000000000000
+      internalID: -5883776059339546291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 307
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a217d7b0af25c1d0800000000000000
+      internalID: -3331203982045015383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 307
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92497456a5a10790800000000000000
+      internalID: -7565583765205335393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 313
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613222f61b3a3380800000000000000
+      internalID: -8990808736354127513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565dfb77e8f1fa3b0800000000000000
+      internalID: -5499141923241208475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 231
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd94de4568fd62180800000000000000
+      internalID: -9140372625658394145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a39c4c0c2739b0a0800000000000000
+      internalID: -6865395494625176671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0f51acd0c324d0800000000000000
+      internalID: -3160470459651257529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9512c73ed510f0800000000000000
+      internalID: -1146766199035159067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 165
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0dc214a48b19400800000000000000
+      internalID: 329246876835303611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 155
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0599343b6bd42920800000000000000
+      internalID: 2964735708200801549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoGiselle_Fml_trimBtl_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 153
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eab4cc71d25ad50800000000000000
+      internalID: 6747849196919565833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_0: -2447674738708877576
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_1: 3979063989935183539
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_10: -5883776059339546291
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_11: -3331203982045015383
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_12: -7565583765205335393
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_13: -8990808736354127513
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_14: -5499141923241208475
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_15: -9140372625658394145
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_16: -6865395494625176671
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_17: -3160470459651257529
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_18: -1146766199035159067
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_19: 329246876835303611
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_2: 7674578880090564419
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_20: 2964735708200801549
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_21: 6747849196919565833
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_3: -143166972994114834
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_4: -3744266643440648516
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_5: -2476698696827835606
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_6: 5805788298044251764
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_7: 3114424912963515846
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_8: -9023995367211261603
+      ChrEvcTX_OdoGiselle_Fml_trimBtl_9: -2108407322882852051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

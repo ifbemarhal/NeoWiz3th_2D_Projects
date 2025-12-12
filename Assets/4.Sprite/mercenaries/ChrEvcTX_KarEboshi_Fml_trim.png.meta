@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: c2e23418134d01f40a5269d945dbbb6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8187151940630115134
+    second: ChrEvcTX_KarEboshi_Fml_trim_0
+  - first:
+      213: -512252941140757226
+    second: ChrEvcTX_KarEboshi_Fml_trim_1
+  - first:
+      213: 4022853482399068395
+    second: ChrEvcTX_KarEboshi_Fml_trim_2
+  - first:
+      213: 554111549238980667
+    second: ChrEvcTX_KarEboshi_Fml_trim_3
+  - first:
+      213: 4277128160894784841
+    second: ChrEvcTX_KarEboshi_Fml_trim_4
+  - first:
+      213: -4967881288999230688
+    second: ChrEvcTX_KarEboshi_Fml_trim_5
+  - first:
+      213: -8273569871385669840
+    second: ChrEvcTX_KarEboshi_Fml_trim_6
+  - first:
+      213: 6969476474095063177
+    second: ChrEvcTX_KarEboshi_Fml_trim_7
+  - first:
+      213: -6752894493308021275
+    second: ChrEvcTX_KarEboshi_Fml_trim_8
+  - first:
+      213: 6664768728904636445
+    second: ChrEvcTX_KarEboshi_Fml_trim_9
+  - first:
+      213: -8680101335157981994
+    second: ChrEvcTX_KarEboshi_Fml_trim_10
+  - first:
+      213: 7165675405594817089
+    second: ChrEvcTX_KarEboshi_Fml_trim_11
+  - first:
+      213: -4916133522716306109
+    second: ChrEvcTX_KarEboshi_Fml_trim_12
+  - first:
+      213: -7008558418954487107
+    second: ChrEvcTX_KarEboshi_Fml_trim_13
+  - first:
+      213: 6049632752868235722
+    second: ChrEvcTX_KarEboshi_Fml_trim_14
+  - first:
+      213: 4240436472952504914
+    second: ChrEvcTX_KarEboshi_Fml_trim_15
+  - first:
+      213: 5940604869230256535
+    second: ChrEvcTX_KarEboshi_Fml_trim_16
+  - first:
+      213: -3215662083418030179
+    second: ChrEvcTX_KarEboshi_Fml_trim_17
+  - first:
+      213: 8511360278410772044
+    second: ChrEvcTX_KarEboshi_Fml_trim_18
+  - first:
+      213: -6712540572348651196
+    second: ChrEvcTX_KarEboshi_Fml_trim_19
+  - first:
+      213: 1319736645123804547
+    second: ChrEvcTX_KarEboshi_Fml_trim_20
+  - first:
+      213: 1710672686625983438
+    second: ChrEvcTX_KarEboshi_Fml_trim_21
+  - first:
+      213: 4819954324627549502
+    second: ChrEvcTX_KarEboshi_Fml_trim_22
+  - first:
+      213: 8739428784035040925
+    second: ChrEvcTX_KarEboshi_Fml_trim_23
+  - first:
+      213: -212287813007828452
+    second: ChrEvcTX_KarEboshi_Fml_trim_24
+  - first:
+      213: 7083943534530872954
+    second: ChrEvcTX_KarEboshi_Fml_trim_25
+  - first:
+      213: 4126628325626370677
+    second: ChrEvcTX_KarEboshi_Fml_trim_26
+  - first:
+      213: 7183006261780445928
+    second: ChrEvcTX_KarEboshi_Fml_trim_27
+  - first:
+      213: -5207683809745348040
+    second: ChrEvcTX_KarEboshi_Fml_trim_28
+  - first:
+      213: -5859307399936353055
+    second: ChrEvcTX_KarEboshi_Fml_trim_29
+  - first:
+      213: -4274554351143909839
+    second: ChrEvcTX_KarEboshi_Fml_trim_30
+  - first:
+      213: 2143624087317411842
+    second: ChrEvcTX_KarEboshi_Fml_trim_31
+  - first:
+      213: -1551135398579583426
+    second: ChrEvcTX_KarEboshi_Fml_trim_32
+  - first:
+      213: -2844813404505165478
+    second: ChrEvcTX_KarEboshi_Fml_trim_33
+  - first:
+      213: 7050848436838456109
+    second: ChrEvcTX_KarEboshi_Fml_trim_34
+  - first:
+      213: -142521777233058135
+    second: ChrEvcTX_KarEboshi_Fml_trim_35
+  - first:
+      213: 8745453142830707538
+    second: ChrEvcTX_KarEboshi_Fml_trim_36
+  - first:
+      213: -7163664773492388077
+    second: ChrEvcTX_KarEboshi_Fml_trim_37
+  - first:
+      213: 1070114012266043733
+    second: ChrEvcTX_KarEboshi_Fml_trim_38
+  - first:
+      213: -4339116536042712167
+    second: ChrEvcTX_KarEboshi_Fml_trim_39
+  - first:
+      213: 8147312454520582148
+    second: ChrEvcTX_KarEboshi_Fml_trim_40
+  - first:
+      213: 2398058843411019630
+    second: ChrEvcTX_KarEboshi_Fml_trim_41
+  - first:
+      213: -8479860760976828981
+    second: ChrEvcTX_KarEboshi_Fml_trim_42
+  - first:
+      213: 5191877493025914381
+    second: ChrEvcTX_KarEboshi_Fml_trim_43
+  - first:
+      213: 556551265484976388
+    second: ChrEvcTX_KarEboshi_Fml_trim_44
+  - first:
+      213: 642239979817564807
+    second: ChrEvcTX_KarEboshi_Fml_trim_45
+  - first:
+      213: 7642208820581547627
+    second: ChrEvcTX_KarEboshi_Fml_trim_46
+  - first:
+      213: -4353656145721070845
+    second: ChrEvcTX_KarEboshi_Fml_trim_47
+  - first:
+      213: -587811345001039568
+    second: ChrEvcTX_KarEboshi_Fml_trim_48
+  - first:
+      213: -7486609892353335431
+    second: ChrEvcTX_KarEboshi_Fml_trim_49
+  - first:
+      213: -6152065459123153421
+    second: ChrEvcTX_KarEboshi_Fml_trim_50
+  - first:
+      213: 4099337953966118416
+    second: ChrEvcTX_KarEboshi_Fml_trim_51
+  - first:
+      213: 7049295795122789260
+    second: ChrEvcTX_KarEboshi_Fml_trim_52
+  - first:
+      213: -3649233988124705292
+    second: ChrEvcTX_KarEboshi_Fml_trim_53
+  - first:
+      213: 7127552362645689127
+    second: ChrEvcTX_KarEboshi_Fml_trim_54
+  - first:
+      213: -6286367663441868233
+    second: ChrEvcTX_KarEboshi_Fml_trim_55
+  - first:
+      213: -7545168981446749109
+    second: ChrEvcTX_KarEboshi_Fml_trim_56
+  - first:
+      213: -3109175797146776140
+    second: ChrEvcTX_KarEboshi_Fml_trim_57
+  - first:
+      213: -4150851842804329897
+    second: ChrEvcTX_KarEboshi_Fml_trim_58
+  - first:
+      213: 3477108660329571200
+    second: ChrEvcTX_KarEboshi_Fml_trim_59
+  - first:
+      213: 3632926368361058459
+    second: ChrEvcTX_KarEboshi_Fml_trim_60
+  - first:
+      213: 1616859671847635769
+    second: ChrEvcTX_KarEboshi_Fml_trim_61
+  - first:
+      213: 2953505275406364286
+    second: ChrEvcTX_KarEboshi_Fml_trim_62
+  - first:
+      213: -4057360446931067705
+    second: ChrEvcTX_KarEboshi_Fml_trim_63
+  - first:
+      213: -9081477910140467071
+    second: ChrEvcTX_KarEboshi_Fml_trim_64
+  - first:
+      213: 8917354631191754010
+    second: ChrEvcTX_KarEboshi_Fml_trim_65
+  - first:
+      213: 4412954036465059787
+    second: ChrEvcTX_KarEboshi_Fml_trim_66
+  - first:
+      213: 7552788509990950563
+    second: ChrEvcTX_KarEboshi_Fml_trim_67
+  - first:
+      213: 8759637364287470760
+    second: ChrEvcTX_KarEboshi_Fml_trim_68
+  - first:
+      213: 7694540554050859825
+    second: ChrEvcTX_KarEboshi_Fml_trim_69
+  - first:
+      213: -6534852843885003941
+    second: ChrEvcTX_KarEboshi_Fml_trim_70
+  - first:
+      213: -8490062624126068715
+    second: ChrEvcTX_KarEboshi_Fml_trim_71
+  - first:
+      213: 3764261197593974423
+    second: ChrEvcTX_KarEboshi_Fml_trim_72
+  - first:
+      213: 1438527906783326066
+    second: ChrEvcTX_KarEboshi_Fml_trim_73
+  - first:
+      213: 898886571476210543
+    second: ChrEvcTX_KarEboshi_Fml_trim_74
+  - first:
+      213: -3910809948438605988
+    second: ChrEvcTX_KarEboshi_Fml_trim_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 997
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8798ffa4616e80800000000000000
+      internalID: -8187151940630115134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 966
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f7200aac14e8f0800000000000000
+      internalID: -512252941140757226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 966
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f6d1adeb04d730800000000000000
+      internalID: 4022853482399068395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 966
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30b45aa48990b700800000000000000
+      internalID: 554111549238980667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 965
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94514f0b6696b5b30800000000000000
+      internalID: 4277128160894784841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 957
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02324e2e94a8e0bb0800000000000000
+      internalID: -4967881288999230688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 957
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fcea789006e2d80800000000000000
+      internalID: -8273569871385669840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 957
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d0e46ded88b060800000000000000
+      internalID: 6969476474095063177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 955
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e51fa89c36e842a0800000000000000
+      internalID: -6752894493308021275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 955
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d181e74f8d30e7c50800000000000000
+      internalID: 6664768728904636445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 885
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb38723d51a8780800000000000000
+      internalID: -8680101335157981994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 883
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1427b36e0d7917360800000000000000
+      internalID: 7165675405594817089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 883
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345da1e9b9266cbb0800000000000000
+      internalID: -4916133522716306109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 883
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf4aa30499cbe90800000000000000
+      internalID: -7008558418954487107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 881
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac99748bfec94f350800000000000000
+      internalID: 6049632752868235722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 881
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252c1fe518e09da30800000000000000
+      internalID: 4240436472952504914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 881
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791ec6567a4417250800000000000000
+      internalID: 5940604869230256535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 881
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffc285f5caf53d0800000000000000
+      internalID: -3215662083418030179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 881
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e3b0ef31d6e1670800000000000000
+      internalID: 8511360278410772044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 881
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e2ccf9e348d2a0800000000000000
+      internalID: -6712540572348651196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d8ba98c75a05210800000000000000
+      internalID: 1319736645123804547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 881
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0e45beb78db710800000000000000
+      internalID: 1710672686625983438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 805
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6809cbeae3e240800000000000000
+      internalID: 4819954324627549502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 805
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e8b34fc20b84970800000000000000
+      internalID: 8739428784035040925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 805
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a168bdb5dcd0df0800000000000000
+      internalID: -212287813007828452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 805
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7643a0cc193f4260800000000000000
+      internalID: 7083943534530872954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 805
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a560d299ab44930800000000000000
+      internalID: 4126628325626370677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 805
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea74dc432a2fa360800000000000000
+      internalID: 7183006261780445928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 805
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a5391aa279ab7b0800000000000000
+      internalID: -5207683809745348040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 803
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecd9f4b6fe8faea0800000000000000
+      internalID: -5859307399936353055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 803
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13687f6177bbda4c0800000000000000
+      internalID: -4274554351143909839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 803
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208768000ceafbd10800000000000000
+      internalID: 2143624087317411842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 803
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364121c292497ae0800000000000000
+      internalID: -1551135398579583426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 803
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a513334f7413588d0800000000000000
+      internalID: -2844813404505165478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bdfdadb45a9d160800000000000000
+      internalID: 7050848436838456109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6244fd239a50ef0800000000000000
+      internalID: -142521777233058135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537f3a4c471e5970800000000000000
+      internalID: 8745453142830707538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc10ed7dc859c90800000000000000
+      internalID: -7163664773492388077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5591942460fc9de00800000000000000
+      internalID: 1070114012266043733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 725
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9939626008c58c3c0800000000000000
+      internalID: -4339116536042712167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 725
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b0d5d281111170800000000000000
+      internalID: 8147312454520582148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 725
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e677ff700dd974120800000000000000
+      internalID: 2398058843411019630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 723
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d33de09b715a80800000000000000
+      internalID: -8479860760976828981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 723
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eb72972114d0840800000000000000
+      internalID: 5191877493025914381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_44
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 723
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b68e5d6449b700800000000000000
+      internalID: 556551265484976388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 723
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a7491ebd1b9e800800000000000000
+      internalID: 642239979817564807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ebe12ae649e0a60800000000000000
+      internalID: 7642208820581547627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b69185dc4b493c0800000000000000
+      internalID: -4353656145721070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b44232bca7d7f0800000000000000
+      internalID: -587811345001039568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9a5af7f73a1890800000000000000
+      internalID: -7486609892353335431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5930a5f097f9aa0800000000000000
+      internalID: -6152065459123153421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165d606626c3e830800000000000000
+      internalID: 4099337953966118416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bd2f84d2124d160800000000000000
+      internalID: 7049295795122789260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd7b83b5015b5dc0800000000000000
+      internalID: -3649233988124705292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7231e754c172ae260800000000000000
+      internalID: 7127552362645689127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8b0daae552c8a0800000000000000
+      internalID: -6286367663441868233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44129299cc2a4790800000000000000
+      internalID: -7545168981446749109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 643
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd03dae51df9d4d0800000000000000
+      internalID: -3109175797146776140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525f5abd363566c0800000000000000
+      internalID: -4150851842804329897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e06077eb214030800000000000000
+      internalID: 3477108660329571200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b909f41b84fba6230800000000000000
+      internalID: 3632926368361058459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b02281e4d307610800000000000000
+      internalID: 1616859671847635769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea6de4665fcf820800000000000000
+      internalID: 2953505275406364286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc14fa9b2c51b7c0800000000000000
+      internalID: -4057360446931067705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188458ad4fb18f180800000000000000
+      internalID: -9081477910140467071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_65
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a157e587acec0cb70800000000000000
+      internalID: 8917354631191754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc740a9b056fd3d30800000000000000
+      internalID: 4412954036465059787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a699a92225e0d860800000000000000
+      internalID: 7552788509990950563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_68
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 563
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf793b5cb709970800000000000000
+      internalID: 8759637364287470760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 563
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f902dddf78ca60800000000000000
+      internalID: 7694540554050859825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_70
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 563
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b78cc26f98f45a0800000000000000
+      internalID: -6534852843885003941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181520960d3d2a80800000000000000
+      internalID: -8490062624126068715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 483
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79610648d975d3430800000000000000
+      internalID: 3764261197593974423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 481
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f6e43728da6f310800000000000000
+      internalID: 1438527906783326066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 479
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f635532039c797c00800000000000000
+      internalID: 898886571476210543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KarEboshi_Fml_trim_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 479
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fc04f72130ab9c0800000000000000
+      internalID: -3910809948438605988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KarEboshi_Fml_trim_0: -8187151940630115134
+      ChrEvcTX_KarEboshi_Fml_trim_1: -512252941140757226
+      ChrEvcTX_KarEboshi_Fml_trim_10: -8680101335157981994
+      ChrEvcTX_KarEboshi_Fml_trim_11: 7165675405594817089
+      ChrEvcTX_KarEboshi_Fml_trim_12: -4916133522716306109
+      ChrEvcTX_KarEboshi_Fml_trim_13: -7008558418954487107
+      ChrEvcTX_KarEboshi_Fml_trim_14: 6049632752868235722
+      ChrEvcTX_KarEboshi_Fml_trim_15: 4240436472952504914
+      ChrEvcTX_KarEboshi_Fml_trim_16: 5940604869230256535
+      ChrEvcTX_KarEboshi_Fml_trim_17: -3215662083418030179
+      ChrEvcTX_KarEboshi_Fml_trim_18: 8511360278410772044
+      ChrEvcTX_KarEboshi_Fml_trim_19: -6712540572348651196
+      ChrEvcTX_KarEboshi_Fml_trim_2: 4022853482399068395
+      ChrEvcTX_KarEboshi_Fml_trim_20: 1319736645123804547
+      ChrEvcTX_KarEboshi_Fml_trim_21: 1710672686625983438
+      ChrEvcTX_KarEboshi_Fml_trim_22: 4819954324627549502
+      ChrEvcTX_KarEboshi_Fml_trim_23: 8739428784035040925
+      ChrEvcTX_KarEboshi_Fml_trim_24: -212287813007828452
+      ChrEvcTX_KarEboshi_Fml_trim_25: 7083943534530872954
+      ChrEvcTX_KarEboshi_Fml_trim_26: 4126628325626370677
+      ChrEvcTX_KarEboshi_Fml_trim_27: 7183006261780445928
+      ChrEvcTX_KarEboshi_Fml_trim_28: -5207683809745348040
+      ChrEvcTX_KarEboshi_Fml_trim_29: -5859307399936353055
+      ChrEvcTX_KarEboshi_Fml_trim_3: 554111549238980667
+      ChrEvcTX_KarEboshi_Fml_trim_30: -4274554351143909839
+      ChrEvcTX_KarEboshi_Fml_trim_31: 2143624087317411842
+      ChrEvcTX_KarEboshi_Fml_trim_32: -1551135398579583426
+      ChrEvcTX_KarEboshi_Fml_trim_33: -2844813404505165478
+      ChrEvcTX_KarEboshi_Fml_trim_34: 7050848436838456109
+      ChrEvcTX_KarEboshi_Fml_trim_35: -142521777233058135
+      ChrEvcTX_KarEboshi_Fml_trim_36: 8745453142830707538
+      ChrEvcTX_KarEboshi_Fml_trim_37: -7163664773492388077
+      ChrEvcTX_KarEboshi_Fml_trim_38: 1070114012266043733
+      ChrEvcTX_KarEboshi_Fml_trim_39: -4339116536042712167
+      ChrEvcTX_KarEboshi_Fml_trim_4: 4277128160894784841
+      ChrEvcTX_KarEboshi_Fml_trim_40: 8147312454520582148
+      ChrEvcTX_KarEboshi_Fml_trim_41: 2398058843411019630
+      ChrEvcTX_KarEboshi_Fml_trim_42: -8479860760976828981
+      ChrEvcTX_KarEboshi_Fml_trim_43: 5191877493025914381
+      ChrEvcTX_KarEboshi_Fml_trim_44: 556551265484976388
+      ChrEvcTX_KarEboshi_Fml_trim_45: 642239979817564807
+      ChrEvcTX_KarEboshi_Fml_trim_46: 7642208820581547627
+      ChrEvcTX_KarEboshi_Fml_trim_47: -4353656145721070845
+      ChrEvcTX_KarEboshi_Fml_trim_48: -587811345001039568
+      ChrEvcTX_KarEboshi_Fml_trim_49: -7486609892353335431
+      ChrEvcTX_KarEboshi_Fml_trim_5: -4967881288999230688
+      ChrEvcTX_KarEboshi_Fml_trim_50: -6152065459123153421
+      ChrEvcTX_KarEboshi_Fml_trim_51: 4099337953966118416
+      ChrEvcTX_KarEboshi_Fml_trim_52: 7049295795122789260
+      ChrEvcTX_KarEboshi_Fml_trim_53: -3649233988124705292
+      ChrEvcTX_KarEboshi_Fml_trim_54: 7127552362645689127
+      ChrEvcTX_KarEboshi_Fml_trim_55: -6286367663441868233
+      ChrEvcTX_KarEboshi_Fml_trim_56: -7545168981446749109
+      ChrEvcTX_KarEboshi_Fml_trim_57: -3109175797146776140
+      ChrEvcTX_KarEboshi_Fml_trim_58: -4150851842804329897
+      ChrEvcTX_KarEboshi_Fml_trim_59: 3477108660329571200
+      ChrEvcTX_KarEboshi_Fml_trim_6: -8273569871385669840
+      ChrEvcTX_KarEboshi_Fml_trim_60: 3632926368361058459
+      ChrEvcTX_KarEboshi_Fml_trim_61: 1616859671847635769
+      ChrEvcTX_KarEboshi_Fml_trim_62: 2953505275406364286
+      ChrEvcTX_KarEboshi_Fml_trim_63: -4057360446931067705
+      ChrEvcTX_KarEboshi_Fml_trim_64: -9081477910140467071
+      ChrEvcTX_KarEboshi_Fml_trim_65: 8917354631191754010
+      ChrEvcTX_KarEboshi_Fml_trim_66: 4412954036465059787
+      ChrEvcTX_KarEboshi_Fml_trim_67: 7552788509990950563
+      ChrEvcTX_KarEboshi_Fml_trim_68: 8759637364287470760
+      ChrEvcTX_KarEboshi_Fml_trim_69: 7694540554050859825
+      ChrEvcTX_KarEboshi_Fml_trim_7: 6969476474095063177
+      ChrEvcTX_KarEboshi_Fml_trim_70: -6534852843885003941
+      ChrEvcTX_KarEboshi_Fml_trim_71: -8490062624126068715
+      ChrEvcTX_KarEboshi_Fml_trim_72: 3764261197593974423
+      ChrEvcTX_KarEboshi_Fml_trim_73: 1438527906783326066
+      ChrEvcTX_KarEboshi_Fml_trim_74: 898886571476210543
+      ChrEvcTX_KarEboshi_Fml_trim_75: -3910809948438605988
+      ChrEvcTX_KarEboshi_Fml_trim_8: -6752894493308021275
+      ChrEvcTX_KarEboshi_Fml_trim_9: 6664768728904636445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

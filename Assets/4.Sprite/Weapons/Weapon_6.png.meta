@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: f705f1d0c68a3354c8d475f3b0b5040a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -699929183613464678
+    second: item_wood_sword_001_0
+  - first:
+      213: -3925970756159235008
+    second: item_wood_sword_001_1
+  - first:
+      213: -4989436759976281912
+    second: item_wood_sword_001_2
+  - first:
+      213: 8723529523928114864
+    second: item_wood_sword_001_3
+  - first:
+      213: -1650348716122115474
+    second: item_wood_sword_001_4
+  - first:
+      213: 1413272441307075883
+    second: item_wood_sword_001_5
+  - first:
+      213: 42568556935931746
+    second: item_wood_sword_001_6
+  - first:
+      213: 6644160763864786476
+    second: item_wood_sword_001_7
+  - first:
+      213: -23913635205624414
+    second: item_wood_sword_001_8
+  - first:
+      213: -1333346177351353250
+    second: item_wood_sword_001_9
+  - first:
+      213: -4248900774836816977
+    second: item_wood_sword_001_10
+  - first:
+      213: 6122477032886785312
+    second: item_wood_sword_001_11
+  - first:
+      213: 6238164632611462048
+    second: item_wood_sword_001_12
+  - first:
+      213: -5494006092112131089
+    second: item_wood_sword_001_13
+  - first:
+      213: -3394704595129387307
+    second: item_wood_sword_001_14
+  - first:
+      213: 4333075062172221189
+    second: item_wood_sword_001_15
+  - first:
+      213: -3331738247194117557
+    second: item_wood_sword_001_16
+  - first:
+      213: -6761850012075896978
+    second: item_wood_sword_001_17
+  - first:
+      213: 4000984349440687446
+    second: item_wood_sword_001_18
+  - first:
+      213: -3631392837252411492
+    second: item_wood_sword_001_19
+  - first:
+      213: -8092696808785112863
+    second: item_wood_sword_001_20
+  - first:
+      213: 5846462536104857746
+    second: item_wood_sword_001_21
+  - first:
+      213: 1294563755039761720
+    second: item_wood_sword_001_22
+  - first:
+      213: -3899028933775326281
+    second: item_wood_sword_001_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: item_wood_sword_001_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 261
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f4acaad1a5946f0800000000000000
+      internalID: -699929183613464678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 267
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9e80e5662489c0800000000000000
+      internalID: -3925970756159235008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 267
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87654b3b5f1cab0800000000000000
+      internalID: -4989436759976281912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 268
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b62e5df1e3301970800000000000000
+      internalID: 8723529523928114864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 268
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62f40c2698c819e0800000000000000
+      internalID: -1650348716122115474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 268
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2515fa2cc3fc9310800000000000000
+      internalID: 1413272441307075883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 246
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26764c280eb379000800000000000000
+      internalID: 42568556935931746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 257
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26afb0330dc43c50800000000000000
+      internalID: 6644160763864786476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 239
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc74cecaa0baff0800000000000000
+      internalID: -23913635205624414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf85057b00f7de0800000000000000
+      internalID: -1333346177351353250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 264
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa338f5c14fd805c0800000000000000
+      internalID: -4248900774836816977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02554b25c6867f450800000000000000
+      internalID: 6122477032886785312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab1631aea9629650800000000000000
+      internalID: 6238164632611462048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 60
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb03d5519e51c3b0800000000000000
+      internalID: -5494006092112131089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d63de9182693e0d0800000000000000
+      internalID: -3394704595129387307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff0e9bfcc222c30800000000000000
+      internalID: 4333075062172221189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a796b67b943c1d0800000000000000
+      internalID: -3331738247194117557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 28
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fceb56d351922a0800000000000000
+      internalID: -6761850012075896978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 28
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d3f44511a568730800000000000000
+      internalID: 4000984349440687446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0ca75473ba9dc0800000000000000
+      internalID: -3631392837252411492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e01d6d1127f0bf80800000000000000
+      internalID: -8092696808785112863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d82163bec22150800000000000000
+      internalID: 5846462536104857746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835ad3650e637f110800000000000000
+      internalID: 1294563755039761720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_wood_sword_001_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30a59b7ddd3e9c0800000000000000
+      internalID: -3899028933775326281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      item_wood_sword_001_0: -699929183613464678
+      item_wood_sword_001_1: -3925970756159235008
+      item_wood_sword_001_10: -4248900774836816977
+      item_wood_sword_001_11: 6122477032886785312
+      item_wood_sword_001_12: 6238164632611462048
+      item_wood_sword_001_13: -5494006092112131089
+      item_wood_sword_001_14: -3394704595129387307
+      item_wood_sword_001_15: 4333075062172221189
+      item_wood_sword_001_16: -3331738247194117557
+      item_wood_sword_001_17: -6761850012075896978
+      item_wood_sword_001_18: 4000984349440687446
+      item_wood_sword_001_19: -3631392837252411492
+      item_wood_sword_001_2: -4989436759976281912
+      item_wood_sword_001_20: -8092696808785112863
+      item_wood_sword_001_21: 5846462536104857746
+      item_wood_sword_001_22: 1294563755039761720
+      item_wood_sword_001_23: -3899028933775326281
+      item_wood_sword_001_3: 8723529523928114864
+      item_wood_sword_001_4: -1650348716122115474
+      item_wood_sword_001_5: 1413272441307075883
+      item_wood_sword_001_6: 42568556935931746
+      item_wood_sword_001_7: 6644160763864786476
+      item_wood_sword_001_8: -23913635205624414
+      item_wood_sword_001_9: -1333346177351353250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

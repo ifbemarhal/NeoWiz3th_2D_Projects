@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 940822ab6bb86934798ba198320fca76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8101123576142452163
+    second: ChrEvcTX_KenHikariMother_Fml_trim_0
+  - first:
+      213: -2745888565431431788
+    second: ChrEvcTX_KenHikariMother_Fml_trim_1
+  - first:
+      213: 5710110932095759875
+    second: ChrEvcTX_KenHikariMother_Fml_trim_2
+  - first:
+      213: -971336329316996636
+    second: ChrEvcTX_KenHikariMother_Fml_trim_3
+  - first:
+      213: -2598920596753225078
+    second: ChrEvcTX_KenHikariMother_Fml_trim_4
+  - first:
+      213: 944599782547282294
+    second: ChrEvcTX_KenHikariMother_Fml_trim_5
+  - first:
+      213: 6013048007868717442
+    second: ChrEvcTX_KenHikariMother_Fml_trim_6
+  - first:
+      213: -6864233763749904000
+    second: ChrEvcTX_KenHikariMother_Fml_trim_7
+  - first:
+      213: 5677575616114287538
+    second: ChrEvcTX_KenHikariMother_Fml_trim_8
+  - first:
+      213: 8222472464586251120
+    second: ChrEvcTX_KenHikariMother_Fml_trim_9
+  - first:
+      213: -5913160534513529090
+    second: ChrEvcTX_KenHikariMother_Fml_trim_10
+  - first:
+      213: -7394932092812967383
+    second: ChrEvcTX_KenHikariMother_Fml_trim_11
+  - first:
+      213: -6173733971404802952
+    second: ChrEvcTX_KenHikariMother_Fml_trim_12
+  - first:
+      213: 5476007886710244598
+    second: ChrEvcTX_KenHikariMother_Fml_trim_13
+  - first:
+      213: 7151585441192237832
+    second: ChrEvcTX_KenHikariMother_Fml_trim_14
+  - first:
+      213: -7360414373262840566
+    second: ChrEvcTX_KenHikariMother_Fml_trim_15
+  - first:
+      213: -7470023768548452450
+    second: ChrEvcTX_KenHikariMother_Fml_trim_16
+  - first:
+      213: -8455119807393882126
+    second: ChrEvcTX_KenHikariMother_Fml_trim_17
+  - first:
+      213: -8561934380874705420
+    second: ChrEvcTX_KenHikariMother_Fml_trim_18
+  - first:
+      213: -8304052348049256086
+    second: ChrEvcTX_KenHikariMother_Fml_trim_19
+  - first:
+      213: -8034251022694008745
+    second: ChrEvcTX_KenHikariMother_Fml_trim_20
+  - first:
+      213: -4460657453844522507
+    second: ChrEvcTX_KenHikariMother_Fml_trim_21
+  - first:
+      213: -8442613711894163489
+    second: ChrEvcTX_KenHikariMother_Fml_trim_22
+  - first:
+      213: 5252972813854119240
+    second: ChrEvcTX_KenHikariMother_Fml_trim_23
+  - first:
+      213: 6625258126365469606
+    second: ChrEvcTX_KenHikariMother_Fml_trim_24
+  - first:
+      213: -259594178988242502
+    second: ChrEvcTX_KenHikariMother_Fml_trim_25
+  - first:
+      213: 8326562025392922774
+    second: ChrEvcTX_KenHikariMother_Fml_trim_26
+  - first:
+      213: -8520028494688458047
+    second: ChrEvcTX_KenHikariMother_Fml_trim_27
+  - first:
+      213: 2034487243820719423
+    second: ChrEvcTX_KenHikariMother_Fml_trim_28
+  - first:
+      213: -111773297067476135
+    second: ChrEvcTX_KenHikariMother_Fml_trim_29
+  - first:
+      213: -6631907630898954024
+    second: ChrEvcTX_KenHikariMother_Fml_trim_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5538d88f8fc6070800000000000000
+      internalID: 8101123576142452163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 431
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d07a8e5e4a4e9d0800000000000000
+      internalID: -2745888565431431788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 431
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30674a7a3a36e3f40800000000000000
+      internalID: 5710110932095759875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 431
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e0ad31ce1582f0800000000000000
+      internalID: -971336329316996636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae317ac77ceebd0800000000000000
+      internalID: -2598920596753225078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 433
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67954ad5f74eb1d00800000000000000
+      internalID: 944599782547282294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289926efd43a27350800000000000000
+      internalID: 6013048007868717442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 349
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c17892c75db0a0800000000000000
+      internalID: -6864233763749904000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 349
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b369e711fccace40800000000000000
+      internalID: 5677575616114287538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 349
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b181b54271c1270800000000000000
+      internalID: 8222472464586251120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 349
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4678b2db30fda0800000000000000
+      internalID: -5913160534513529090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 349
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224fbd017cef5990800000000000000
+      internalID: -7394932092812967383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b7a0b9ad725aa0800000000000000
+      internalID: -6173733971404802952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f40a9ae820befb40800000000000000
+      internalID: 5476007886710244598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5e1b61198f3360800000000000000
+      internalID: 7151585441192237832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2df9ef1e8ad990800000000000000
+      internalID: -7360414373262840566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d1fbd5f4255890800000000000000
+      internalID: -7470023768548452450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 267
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1be2155169aa80800000000000000
+      internalID: -8455119807393882126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f552cd2b06ed2980800000000000000
+      internalID: -8561934380874705420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 185
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61964ed26412cc80800000000000000
+      internalID: -8304052348049256086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 185
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758310c134b908090800000000000000
+      internalID: -8034251022694008745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 185
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f916e6edaf8812c0800000000000000
+      internalID: -4460657453844522507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 187
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc4b65f8fc5da80800000000000000
+      internalID: -8442613711894163489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 185
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451f8851fe46e840800000000000000
+      internalID: 5252972813854119240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba84fe925a1fb50800000000000000
+      internalID: 6625258126365469606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab985a7387cb56cf0800000000000000
+      internalID: -259594178988242502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 103
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6906dcbcb04ed8370800000000000000
+      internalID: 8326562025392922774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca63e1a937c2c980800000000000000
+      internalID: -8520028494688458047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 103
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d5ffb7e53fb3c10800000000000000
+      internalID: 2034487243820719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 103
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3bec47c6e27ef0800000000000000
+      internalID: -111773297067476135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenHikariMother_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c015a52bb6f3a0800000000000000
+      internalID: -6631907630898954024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenHikariMother_Fml_trim_0: 8101123576142452163
+      ChrEvcTX_KenHikariMother_Fml_trim_1: -2745888565431431788
+      ChrEvcTX_KenHikariMother_Fml_trim_10: -5913160534513529090
+      ChrEvcTX_KenHikariMother_Fml_trim_11: -7394932092812967383
+      ChrEvcTX_KenHikariMother_Fml_trim_12: -6173733971404802952
+      ChrEvcTX_KenHikariMother_Fml_trim_13: 5476007886710244598
+      ChrEvcTX_KenHikariMother_Fml_trim_14: 7151585441192237832
+      ChrEvcTX_KenHikariMother_Fml_trim_15: -7360414373262840566
+      ChrEvcTX_KenHikariMother_Fml_trim_16: -7470023768548452450
+      ChrEvcTX_KenHikariMother_Fml_trim_17: -8455119807393882126
+      ChrEvcTX_KenHikariMother_Fml_trim_18: -8561934380874705420
+      ChrEvcTX_KenHikariMother_Fml_trim_19: -8304052348049256086
+      ChrEvcTX_KenHikariMother_Fml_trim_2: 5710110932095759875
+      ChrEvcTX_KenHikariMother_Fml_trim_20: -8034251022694008745
+      ChrEvcTX_KenHikariMother_Fml_trim_21: -4460657453844522507
+      ChrEvcTX_KenHikariMother_Fml_trim_22: -8442613711894163489
+      ChrEvcTX_KenHikariMother_Fml_trim_23: 5252972813854119240
+      ChrEvcTX_KenHikariMother_Fml_trim_24: 6625258126365469606
+      ChrEvcTX_KenHikariMother_Fml_trim_25: -259594178988242502
+      ChrEvcTX_KenHikariMother_Fml_trim_26: 8326562025392922774
+      ChrEvcTX_KenHikariMother_Fml_trim_27: -8520028494688458047
+      ChrEvcTX_KenHikariMother_Fml_trim_28: 2034487243820719423
+      ChrEvcTX_KenHikariMother_Fml_trim_29: -111773297067476135
+      ChrEvcTX_KenHikariMother_Fml_trim_3: -971336329316996636
+      ChrEvcTX_KenHikariMother_Fml_trim_30: -6631907630898954024
+      ChrEvcTX_KenHikariMother_Fml_trim_4: -2598920596753225078
+      ChrEvcTX_KenHikariMother_Fml_trim_5: 944599782547282294
+      ChrEvcTX_KenHikariMother_Fml_trim_6: 6013048007868717442
+      ChrEvcTX_KenHikariMother_Fml_trim_7: -6864233763749904000
+      ChrEvcTX_KenHikariMother_Fml_trim_8: 5677575616114287538
+      ChrEvcTX_KenHikariMother_Fml_trim_9: 8222472464586251120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

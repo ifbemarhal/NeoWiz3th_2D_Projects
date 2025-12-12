@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 08067c7e9b68b92449a1df10354fab44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5504456780537738305
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_0
+  - first:
+      213: -6292764199244666516
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_1
+  - first:
+      213: 2403179049835545537
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_2
+  - first:
+      213: 5966823256908321902
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_3
+  - first:
+      213: -4477070210391054969
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_4
+  - first:
+      213: -7230102088807776795
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_5
+  - first:
+      213: -7101515865728719106
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_6
+  - first:
+      213: 6115678835566520316
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_7
+  - first:
+      213: -6736496570423979671
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_8
+  - first:
+      213: 6548375961053241112
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_9
+  - first:
+      213: -1471075923730018325
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_10
+  - first:
+      213: 4852133474208300507
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_11
+  - first:
+      213: 7300958637269289338
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_12
+  - first:
+      213: -9167139150005512979
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_13
+  - first:
+      213: 626544984556877433
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_14
+  - first:
+      213: -3185695687286605565
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_15
+  - first:
+      213: -6677788841219762881
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_16
+  - first:
+      213: 7730173633152004046
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_17
+  - first:
+      213: -7275819655221843598
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_18
+  - first:
+      213: 7001580411634317608
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_19
+  - first:
+      213: -7849499341678705057
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_20
+  - first:
+      213: 816915206893122192
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_21
+  - first:
+      213: 4904424663491269024
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_22
+  - first:
+      213: 5589283824070145356
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_23
+  - first:
+      213: 1556657473070173432
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_24
+  - first:
+      213: 5032265193823970244
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_25
+  - first:
+      213: 1907444276517838952
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_26
+  - first:
+      213: -3492892318396803358
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_27
+  - first:
+      213: 5603161702627073614
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_28
+  - first:
+      213: 2896008858072215869
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_29
+  - first:
+      213: 9107539709960402870
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_30
+  - first:
+      213: 5297263347024066050
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_31
+  - first:
+      213: -4573875468040315247
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_32
+  - first:
+      213: -5772321236519350249
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_33
+  - first:
+      213: -8161790212556638669
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_34
+  - first:
+      213: 3713113222941403574
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_35
+  - first:
+      213: -8145853949082677473
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_36
+  - first:
+      213: 4867728644566603257
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_37
+  - first:
+      213: 7454395627806615984
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_38
+  - first:
+      213: 8638204135379120664
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_39
+  - first:
+      213: -5392814342426406405
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_40
+  - first:
+      213: -1550746485331041677
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_41
+  - first:
+      213: 8092466952731300674
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_42
+  - first:
+      213: 730926457664704737
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_43
+  - first:
+      213: -4033177305846435376
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_44
+  - first:
+      213: 8392196312269102070
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_45
+  - first:
+      213: -5805718879555247362
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_46
+  - first:
+      213: -3993334420411832262
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_47
+  - first:
+      213: 845540118942935807
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_48
+  - first:
+      213: -2030602718236931073
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_49
+  - first:
+      213: 6815650253027796069
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_50
+  - first:
+      213: 3484942439822435102
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_51
+  - first:
+      213: -9053663179666666674
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_52
+  - first:
+      213: -228255467826239993
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_53
+  - first:
+      213: -8609984892133411063
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_54
+  - first:
+      213: 3696302142409768290
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_55
+  - first:
+      213: -9220251138746352897
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_56
+  - first:
+      213: 2389484184732900054
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_57
+  - first:
+      213: 8007594892693849724
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_58
+  - first:
+      213: 5457981297805162629
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_59
+  - first:
+      213: 3349315540987095089
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_60
+  - first:
+      213: 4430760748950937317
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_61
+  - first:
+      213: -7966802246832849834
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_62
+  - first:
+      213: 5675073167369567879
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_63
+  - first:
+      213: -7043939501115937924
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_64
+  - first:
+      213: 4695041350048329589
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_65
+  - first:
+      213: 1649430249391713379
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_66
+  - first:
+      213: -585170694591209595
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_67
+  - first:
+      213: -6004207479279442898
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_68
+  - first:
+      213: 8261730513610849602
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_69
+  - first:
+      213: -2679376296591331458
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_70
+  - first:
+      213: 4859046935568542338
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_71
+  - first:
+      213: 731023482542612361
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_72
+  - first:
+      213: -639088707618299693
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_73
+  - first:
+      213: 1560222201719444576
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_74
+  - first:
+      213: -1514505256623556522
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_75
+  - first:
+      213: 7028313324419366836
+    second: ChrEvcTX_GakLadyClarissa_Fml_trim_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 995
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144317d2742c36c40800000000000000
+      internalID: 5504456780537738305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 964
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69e9b02d4c9ba8a0800000000000000
+      internalID: -6292764199244666516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 964
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3cb1dfc9ec95120800000000000000
+      internalID: 2403179049835545537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 963
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645f89732a6ec250800000000000000
+      internalID: 5966823256908321902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 959
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785682b3d504ed1c0800000000000000
+      internalID: -4477070210391054969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 959
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7dcaf47489ab90800000000000000
+      internalID: -7230102088807776795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 957
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6607012f8527d90800000000000000
+      internalID: -7101515865728719106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 957
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7215aaf714fd450800000000000000
+      internalID: 6115678835566520316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 957
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961dd398f082382a0800000000000000
+      internalID: -6736496570423979671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 955
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1946ed3180ea50800000000000000
+      internalID: 6548375961053241112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 885
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4170dd30b59be0800000000000000
+      internalID: -1471075923730018325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 885
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb7f4efad365340800000000000000
+      internalID: 4852133474208300507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79814ec237325560800000000000000
+      internalID: 7300958637269289338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4585d3387c7c080800000000000000
+      internalID: -9167139150005512979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976b058085fe1b800800000000000000
+      internalID: 626544984556877433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b9c4a6a22ac3d0800000000000000
+      internalID: -3185695687286605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35570aed6ab353a0800000000000000
+      internalID: -6677788841219762881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 883
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfad1096f7174b60800000000000000
+      internalID: 7730173633152004046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 883
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27962b09298170b90800000000000000
+      internalID: -7275819655221843598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 883
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829fbc5d94c9a2160800000000000000
+      internalID: 7001580411634317608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 883
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56049aefe9f01390800000000000000
+      internalID: -7849499341678705057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 883
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ba7e6d04465b00800000000000000
+      internalID: 816915206893122192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1df072f34001440800000000000000
+      internalID: 4904424663491269024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 809
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b9825600219d40800000000000000
+      internalID: 5589283824070145356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 809
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc0e4769bb5a9510800000000000000
+      internalID: 1556657473070173432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 809
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3a07d188236d540800000000000000
+      internalID: 5032265193823970244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 809
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a2b2a67a987a10800000000000000
+      internalID: 1907444276517838952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 809
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6944b41f0c68fc0800000000000000
+      internalID: -3492892318396803358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 809
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ed828b1ed62cd40800000000000000
+      internalID: 5603161702627073614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 807
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3177c376b0b03820800000000000000
+      internalID: 2896008858072215869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 807
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b734f5cc1b746e70800000000000000
+      internalID: 9107539709960402870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 807
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f011b2f8a38940800000000000000
+      internalID: 5297263347024066050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_32
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 807
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5598ce745680c0800000000000000
+      internalID: -4573875468040315247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 807
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71012df1b6894efa0800000000000000
+      internalID: -5772321236519350249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3363d417b0f7bbe80800000000000000
+      internalID: -8161790212556638669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 731
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96a38adc0a78330800000000000000
+      internalID: 3713113222941403574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 731
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc6bcedfc14fe80800000000000000
+      internalID: -8145853949082677473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 731
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d2627965ad8340800000000000000
+      internalID: 4867728644566603257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 731
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b963a21455537760800000000000000
+      internalID: 7454395627806615984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 729
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812359ad4e011e770800000000000000
+      internalID: 8638204135379120664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 729
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1da0c8defd825b0800000000000000
+      internalID: -5392814342426406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 729
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372682da944aa7ae0800000000000000
+      internalID: -1550746485331041677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 729
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243132a51d73e4070800000000000000
+      internalID: 8092466952731300674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 729
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e01a0a9db5c42a00800000000000000
+      internalID: 730926457664704737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 729
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13bd8eb964708c0800000000000000
+      internalID: -4033177305846435376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_45
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 729
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb942e0512177470800000000000000
+      internalID: 8392196312269102070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a4566071fd6fa0800000000000000
+      internalID: -5805718879555247362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 651
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3823029083d498c0800000000000000
+      internalID: -3993334420411832262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 651
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6fe02246fbbb00800000000000000
+      internalID: 845540118942935807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 651
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb8b8b1699d1d3e0800000000000000
+      internalID: -2030602718236931073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 651
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e5055bcd069e50800000000000000
+      internalID: 6815650253027796069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 651
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ac4c5fa00d5030800000000000000
+      internalID: 3484942439822435102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_52
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 651
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4fe37e4dea5280800000000000000
+      internalID: -9053663179666666674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 651
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062d228cd215dcf0800000000000000
+      internalID: -228255467826239993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 651
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90778e6bb50338880800000000000000
+      internalID: -8609984892133411063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 651
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d79d4f637eb4330800000000000000
+      internalID: 3696302142409768290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 651
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaf127b0761b0080800000000000000
+      internalID: -9220251138746352897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1b6bb437292120800000000000000
+      internalID: 2389484184732900054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76cf3cf021b02f60800000000000000
+      internalID: 8007594892693849724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f66e9215aebb40800000000000000
+      internalID: 5457981297805162629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382b353db82b7e20800000000000000
+      internalID: 3349315540987095089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed6fd0d693d7d30800000000000000
+      internalID: 4430760748950937317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c7eb1019b307190800000000000000
+      internalID: -7966802246832849834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef9675af8e1ce40800000000000000
+      internalID: 5675073167369567879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b64a81856ee3e90800000000000000
+      internalID: -7043939501115937924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa6638b33282140800000000000000
+      internalID: 4695041350048329589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_66
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce6c0a214f3e610800000000000000
+      internalID: 1649430249391713379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1ce78a5e01e7f0800000000000000
+      internalID: -585170694591209595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_68
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 573
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e242ec7fb15ccaca0800000000000000
+      internalID: -6004207479279442898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db7cd212097a270800000000000000
+      internalID: 8261730513610849602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 495
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f62164471f0dad0800000000000000
+      internalID: -2679376296591331458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 495
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a638d817dce6340800000000000000
+      internalID: 4859046935568542338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 495
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fdb67fbfd152a00800000000000000
+      internalID: 731023482542612361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 495
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a27ad4308127f0800000000000000
+      internalID: -639088707618299693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 495
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645a2873d507a510800000000000000
+      internalID: 1560222201719444576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 491
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658bd784e756bfae0800000000000000
+      internalID: -1514505256623556522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_GakLadyClarissa_Fml_trim_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 491
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf39202bb5998160800000000000000
+      internalID: 7028313324419366836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_GakLadyClarissa_Fml_trim_0: 5504456780537738305
+      ChrEvcTX_GakLadyClarissa_Fml_trim_1: -6292764199244666516
+      ChrEvcTX_GakLadyClarissa_Fml_trim_10: -1471075923730018325
+      ChrEvcTX_GakLadyClarissa_Fml_trim_11: 4852133474208300507
+      ChrEvcTX_GakLadyClarissa_Fml_trim_12: 7300958637269289338
+      ChrEvcTX_GakLadyClarissa_Fml_trim_13: -9167139150005512979
+      ChrEvcTX_GakLadyClarissa_Fml_trim_14: 626544984556877433
+      ChrEvcTX_GakLadyClarissa_Fml_trim_15: -3185695687286605565
+      ChrEvcTX_GakLadyClarissa_Fml_trim_16: -6677788841219762881
+      ChrEvcTX_GakLadyClarissa_Fml_trim_17: 7730173633152004046
+      ChrEvcTX_GakLadyClarissa_Fml_trim_18: -7275819655221843598
+      ChrEvcTX_GakLadyClarissa_Fml_trim_19: 7001580411634317608
+      ChrEvcTX_GakLadyClarissa_Fml_trim_2: 2403179049835545537
+      ChrEvcTX_GakLadyClarissa_Fml_trim_20: -7849499341678705057
+      ChrEvcTX_GakLadyClarissa_Fml_trim_21: 816915206893122192
+      ChrEvcTX_GakLadyClarissa_Fml_trim_22: 4904424663491269024
+      ChrEvcTX_GakLadyClarissa_Fml_trim_23: 5589283824070145356
+      ChrEvcTX_GakLadyClarissa_Fml_trim_24: 1556657473070173432
+      ChrEvcTX_GakLadyClarissa_Fml_trim_25: 5032265193823970244
+      ChrEvcTX_GakLadyClarissa_Fml_trim_26: 1907444276517838952
+      ChrEvcTX_GakLadyClarissa_Fml_trim_27: -3492892318396803358
+      ChrEvcTX_GakLadyClarissa_Fml_trim_28: 5603161702627073614
+      ChrEvcTX_GakLadyClarissa_Fml_trim_29: 2896008858072215869
+      ChrEvcTX_GakLadyClarissa_Fml_trim_3: 5966823256908321902
+      ChrEvcTX_GakLadyClarissa_Fml_trim_30: 9107539709960402870
+      ChrEvcTX_GakLadyClarissa_Fml_trim_31: 5297263347024066050
+      ChrEvcTX_GakLadyClarissa_Fml_trim_32: -4573875468040315247
+      ChrEvcTX_GakLadyClarissa_Fml_trim_33: -5772321236519350249
+      ChrEvcTX_GakLadyClarissa_Fml_trim_34: -8161790212556638669
+      ChrEvcTX_GakLadyClarissa_Fml_trim_35: 3713113222941403574
+      ChrEvcTX_GakLadyClarissa_Fml_trim_36: -8145853949082677473
+      ChrEvcTX_GakLadyClarissa_Fml_trim_37: 4867728644566603257
+      ChrEvcTX_GakLadyClarissa_Fml_trim_38: 7454395627806615984
+      ChrEvcTX_GakLadyClarissa_Fml_trim_39: 8638204135379120664
+      ChrEvcTX_GakLadyClarissa_Fml_trim_4: -4477070210391054969
+      ChrEvcTX_GakLadyClarissa_Fml_trim_40: -5392814342426406405
+      ChrEvcTX_GakLadyClarissa_Fml_trim_41: -1550746485331041677
+      ChrEvcTX_GakLadyClarissa_Fml_trim_42: 8092466952731300674
+      ChrEvcTX_GakLadyClarissa_Fml_trim_43: 730926457664704737
+      ChrEvcTX_GakLadyClarissa_Fml_trim_44: -4033177305846435376
+      ChrEvcTX_GakLadyClarissa_Fml_trim_45: 8392196312269102070
+      ChrEvcTX_GakLadyClarissa_Fml_trim_46: -5805718879555247362
+      ChrEvcTX_GakLadyClarissa_Fml_trim_47: -3993334420411832262
+      ChrEvcTX_GakLadyClarissa_Fml_trim_48: 845540118942935807
+      ChrEvcTX_GakLadyClarissa_Fml_trim_49: -2030602718236931073
+      ChrEvcTX_GakLadyClarissa_Fml_trim_5: -7230102088807776795
+      ChrEvcTX_GakLadyClarissa_Fml_trim_50: 6815650253027796069
+      ChrEvcTX_GakLadyClarissa_Fml_trim_51: 3484942439822435102
+      ChrEvcTX_GakLadyClarissa_Fml_trim_52: -9053663179666666674
+      ChrEvcTX_GakLadyClarissa_Fml_trim_53: -228255467826239993
+      ChrEvcTX_GakLadyClarissa_Fml_trim_54: -8609984892133411063
+      ChrEvcTX_GakLadyClarissa_Fml_trim_55: 3696302142409768290
+      ChrEvcTX_GakLadyClarissa_Fml_trim_56: -9220251138746352897
+      ChrEvcTX_GakLadyClarissa_Fml_trim_57: 2389484184732900054
+      ChrEvcTX_GakLadyClarissa_Fml_trim_58: 8007594892693849724
+      ChrEvcTX_GakLadyClarissa_Fml_trim_59: 5457981297805162629
+      ChrEvcTX_GakLadyClarissa_Fml_trim_6: -7101515865728719106
+      ChrEvcTX_GakLadyClarissa_Fml_trim_60: 3349315540987095089
+      ChrEvcTX_GakLadyClarissa_Fml_trim_61: 4430760748950937317
+      ChrEvcTX_GakLadyClarissa_Fml_trim_62: -7966802246832849834
+      ChrEvcTX_GakLadyClarissa_Fml_trim_63: 5675073167369567879
+      ChrEvcTX_GakLadyClarissa_Fml_trim_64: -7043939501115937924
+      ChrEvcTX_GakLadyClarissa_Fml_trim_65: 4695041350048329589
+      ChrEvcTX_GakLadyClarissa_Fml_trim_66: 1649430249391713379
+      ChrEvcTX_GakLadyClarissa_Fml_trim_67: -585170694591209595
+      ChrEvcTX_GakLadyClarissa_Fml_trim_68: -6004207479279442898
+      ChrEvcTX_GakLadyClarissa_Fml_trim_69: 8261730513610849602
+      ChrEvcTX_GakLadyClarissa_Fml_trim_7: 6115678835566520316
+      ChrEvcTX_GakLadyClarissa_Fml_trim_70: -2679376296591331458
+      ChrEvcTX_GakLadyClarissa_Fml_trim_71: 4859046935568542338
+      ChrEvcTX_GakLadyClarissa_Fml_trim_72: 731023482542612361
+      ChrEvcTX_GakLadyClarissa_Fml_trim_73: -639088707618299693
+      ChrEvcTX_GakLadyClarissa_Fml_trim_74: 1560222201719444576
+      ChrEvcTX_GakLadyClarissa_Fml_trim_75: -1514505256623556522
+      ChrEvcTX_GakLadyClarissa_Fml_trim_76: 7028313324419366836
+      ChrEvcTX_GakLadyClarissa_Fml_trim_8: -6736496570423979671
+      ChrEvcTX_GakLadyClarissa_Fml_trim_9: 6548375961053241112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

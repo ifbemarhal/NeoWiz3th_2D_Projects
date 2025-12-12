@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 76f48f43b4439a944a4e47b02a5da397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1342564204958905813
+    second: ChrEvcTX_SinCaldina_Fml_trim_0
+  - first:
+      213: 5054801080320327464
+    second: ChrEvcTX_SinCaldina_Fml_trim_1
+  - first:
+      213: -6402160572056007837
+    second: ChrEvcTX_SinCaldina_Fml_trim_2
+  - first:
+      213: -1808332944141500881
+    second: ChrEvcTX_SinCaldina_Fml_trim_3
+  - first:
+      213: 8003233832730645817
+    second: ChrEvcTX_SinCaldina_Fml_trim_4
+  - first:
+      213: 7021802766608883578
+    second: ChrEvcTX_SinCaldina_Fml_trim_5
+  - first:
+      213: -2085271319525983193
+    second: ChrEvcTX_SinCaldina_Fml_trim_6
+  - first:
+      213: -7692973168817368060
+    second: ChrEvcTX_SinCaldina_Fml_trim_7
+  - first:
+      213: 8340605076738125775
+    second: ChrEvcTX_SinCaldina_Fml_trim_8
+  - first:
+      213: -2806049096875377346
+    second: ChrEvcTX_SinCaldina_Fml_trim_9
+  - first:
+      213: -7650619182143845629
+    second: ChrEvcTX_SinCaldina_Fml_trim_10
+  - first:
+      213: 9027070464054468405
+    second: ChrEvcTX_SinCaldina_Fml_trim_11
+  - first:
+      213: -8141935583217835655
+    second: ChrEvcTX_SinCaldina_Fml_trim_12
+  - first:
+      213: -6433108934449847877
+    second: ChrEvcTX_SinCaldina_Fml_trim_13
+  - first:
+      213: -357903124186707419
+    second: ChrEvcTX_SinCaldina_Fml_trim_14
+  - first:
+      213: 2462189128105812114
+    second: ChrEvcTX_SinCaldina_Fml_trim_15
+  - first:
+      213: 1818066007668011075
+    second: ChrEvcTX_SinCaldina_Fml_trim_16
+  - first:
+      213: -1190374991311990187
+    second: ChrEvcTX_SinCaldina_Fml_trim_17
+  - first:
+      213: 398074713269506699
+    second: ChrEvcTX_SinCaldina_Fml_trim_18
+  - first:
+      213: 8350402624478123268
+    second: ChrEvcTX_SinCaldina_Fml_trim_19
+  - first:
+      213: 4627206540671884848
+    second: ChrEvcTX_SinCaldina_Fml_trim_20
+  - first:
+      213: 3399117543656288343
+    second: ChrEvcTX_SinCaldina_Fml_trim_21
+  - first:
+      213: -7383919296380166338
+    second: ChrEvcTX_SinCaldina_Fml_trim_22
+  - first:
+      213: -7027979487607062664
+    second: ChrEvcTX_SinCaldina_Fml_trim_23
+  - first:
+      213: 3420330049919374190
+    second: ChrEvcTX_SinCaldina_Fml_trim_24
+  - first:
+      213: 7715664103896914165
+    second: ChrEvcTX_SinCaldina_Fml_trim_25
+  - first:
+      213: -2662406647371834852
+    second: ChrEvcTX_SinCaldina_Fml_trim_26
+  - first:
+      213: 8395179410854965053
+    second: ChrEvcTX_SinCaldina_Fml_trim_27
+  - first:
+      213: -2484867457096936934
+    second: ChrEvcTX_SinCaldina_Fml_trim_28
+  - first:
+      213: 8447963682237520988
+    second: ChrEvcTX_SinCaldina_Fml_trim_29
+  - first:
+      213: -8847901360870645537
+    second: ChrEvcTX_SinCaldina_Fml_trim_30
+  - first:
+      213: 6044865104634946739
+    second: ChrEvcTX_SinCaldina_Fml_trim_31
+  - first:
+      213: 2888031820796513471
+    second: ChrEvcTX_SinCaldina_Fml_trim_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5fabcf70fb1a210800000000000000
+      internalID: 1342564204958905813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 181
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff0c21dc2462640800000000000000
+      internalID: 5054801080320327464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 181
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b079b31e4f627a0800000000000000
+      internalID: -6402160572056007837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e3fcca4c287e6e0800000000000000
+      internalID: -1808332944141500881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355c4694c2311f60800000000000000
+      internalID: 8003233832730645817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 181
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd392c964727160800000000000000
+      internalID: 7021802766608883578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 181
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cf75b78c0af03e0800000000000000
+      internalID: -2085271319525983193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 181
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404970e79a11d3590800000000000000
+      internalID: -7692973168817368060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 181
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfabca7028cfb370800000000000000
+      internalID: 8340605076738125775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 179
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dff66a639ee09d0800000000000000
+      internalID: -2806049096875377346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 179
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bc688736a83d590800000000000000
+      internalID: -7650619182143845629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f136472c8964d70800000000000000
+      internalID: 9027070464054468405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971203299b8020f80800000000000000
+      internalID: -8141935583217835655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a9b8128109b6a0800000000000000
+      internalID: -6433108934449847877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a49da3109780bf0800000000000000
+      internalID: -357903124186707419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290639e77f37b2220800000000000000
+      internalID: 2462189128105812114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b345c6611b3910800000000000000
+      internalID: 1818066007668011075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55217559040fa7fe0800000000000000
+      internalID: -1190374991311990187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829e76b7de368500800000000000000
+      internalID: 398074713269506699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051283d1f692e370800000000000000
+      internalID: 8350402624478123268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e9c1f25d3273040800000000000000
+      internalID: 4627206540671884848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 101
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507e6b85671c2f20800000000000000
+      internalID: 3399117543656288343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f9b19858c078990800000000000000
+      internalID: -7383919296380166338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 23
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff27054e9977e90800000000000000
+      internalID: -7027979487607062664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d9080f04777f20800000000000000
+      internalID: 3420330049919374190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f812078f9b831b60800000000000000
+      internalID: 7715664103896914165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a53cf924b3d0bd0800000000000000
+      internalID: -2662406647371834852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3feea1d13ba18470800000000000000
+      internalID: 8395179410854965053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121fc1963af38dd0800000000000000
+      internalID: -2484867457096936934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1b23b5323d3570800000000000000
+      internalID: 8447963682237520988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 23
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02c992790f53580800000000000000
+      internalID: -8847901360870645537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 23
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4abec19cca3e350800000000000000
+      internalID: 6044865104634946739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinCaldina_Fml_trim_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc99ab3a9541820800000000000000
+      internalID: 2888031820796513471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_SinCaldina_Fml_trim_0: 1342564204958905813
+      ChrEvcTX_SinCaldina_Fml_trim_1: 5054801080320327464
+      ChrEvcTX_SinCaldina_Fml_trim_10: -7650619182143845629
+      ChrEvcTX_SinCaldina_Fml_trim_11: 9027070464054468405
+      ChrEvcTX_SinCaldina_Fml_trim_12: -8141935583217835655
+      ChrEvcTX_SinCaldina_Fml_trim_13: -6433108934449847877
+      ChrEvcTX_SinCaldina_Fml_trim_14: -357903124186707419
+      ChrEvcTX_SinCaldina_Fml_trim_15: 2462189128105812114
+      ChrEvcTX_SinCaldina_Fml_trim_16: 1818066007668011075
+      ChrEvcTX_SinCaldina_Fml_trim_17: -1190374991311990187
+      ChrEvcTX_SinCaldina_Fml_trim_18: 398074713269506699
+      ChrEvcTX_SinCaldina_Fml_trim_19: 8350402624478123268
+      ChrEvcTX_SinCaldina_Fml_trim_2: -6402160572056007837
+      ChrEvcTX_SinCaldina_Fml_trim_20: 4627206540671884848
+      ChrEvcTX_SinCaldina_Fml_trim_21: 3399117543656288343
+      ChrEvcTX_SinCaldina_Fml_trim_22: -7383919296380166338
+      ChrEvcTX_SinCaldina_Fml_trim_23: -7027979487607062664
+      ChrEvcTX_SinCaldina_Fml_trim_24: 3420330049919374190
+      ChrEvcTX_SinCaldina_Fml_trim_25: 7715664103896914165
+      ChrEvcTX_SinCaldina_Fml_trim_26: -2662406647371834852
+      ChrEvcTX_SinCaldina_Fml_trim_27: 8395179410854965053
+      ChrEvcTX_SinCaldina_Fml_trim_28: -2484867457096936934
+      ChrEvcTX_SinCaldina_Fml_trim_29: 8447963682237520988
+      ChrEvcTX_SinCaldina_Fml_trim_3: -1808332944141500881
+      ChrEvcTX_SinCaldina_Fml_trim_30: -8847901360870645537
+      ChrEvcTX_SinCaldina_Fml_trim_31: 6044865104634946739
+      ChrEvcTX_SinCaldina_Fml_trim_32: 2888031820796513471
+      ChrEvcTX_SinCaldina_Fml_trim_4: 8003233832730645817
+      ChrEvcTX_SinCaldina_Fml_trim_5: 7021802766608883578
+      ChrEvcTX_SinCaldina_Fml_trim_6: -2085271319525983193
+      ChrEvcTX_SinCaldina_Fml_trim_7: -7692973168817368060
+      ChrEvcTX_SinCaldina_Fml_trim_8: 8340605076738125775
+      ChrEvcTX_SinCaldina_Fml_trim_9: -2806049096875377346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

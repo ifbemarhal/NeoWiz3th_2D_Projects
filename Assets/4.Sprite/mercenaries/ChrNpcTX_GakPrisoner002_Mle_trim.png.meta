@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 8d4e2111719f41e418423519fda2609e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4459750146621209478
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_0
+  - first:
+      213: -4271417214062025431
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_1
+  - first:
+      213: 1568573843344628686
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_2
+  - first:
+      213: 1955619093586079579
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_3
+  - first:
+      213: -5739941881058488975
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_4
+  - first:
+      213: 4665505577106541290
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_5
+  - first:
+      213: -235088967994243731
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_6
+  - first:
+      213: -1624695533215518219
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_7
+  - first:
+      213: 5568148607089792656
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_8
+  - first:
+      213: 3467397244248795556
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_9
+  - first:
+      213: -6906438828211613756
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_10
+  - first:
+      213: -4102335857539500976
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_11
+  - first:
+      213: 8325581440484436647
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_12
+  - first:
+      213: -4937214700330109161
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_13
+  - first:
+      213: 8435827918498720278
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_14
+  - first:
+      213: 8561516293200492481
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_15
+  - first:
+      213: -2935471908382253972
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_16
+  - first:
+      213: 7673086280012496232
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_17
+  - first:
+      213: -8345621389544121706
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_18
+  - first:
+      213: -5843221721329773769
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_19
+  - first:
+      213: -6775317260072423562
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_20
+  - first:
+      213: 2546289971530990627
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_21
+  - first:
+      213: -2033622898316205221
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_22
+  - first:
+      213: 5173753257925050293
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_23
+  - first:
+      213: 9183023690265797546
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_24
+  - first:
+      213: 2614823778623584186
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_25
+  - first:
+      213: -2004649932863301430
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_26
+  - first:
+      213: 4724475592836975470
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_27
+  - first:
+      213: -2694529874108254328
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_28
+  - first:
+      213: 6760829446092272261
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_29
+  - first:
+      213: 2993519244511794348
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_30
+  - first:
+      213: 4388116751992808979
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_31
+  - first:
+      213: -1316879295093551137
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_32
+  - first:
+      213: 8966740321331184219
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_33
+  - first:
+      213: -9008459817276787873
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_34
+  - first:
+      213: 7705241949103454931
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_35
+  - first:
+      213: 7923788992636770198
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_36
+  - first:
+      213: -6638701289699376578
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_37
+  - first:
+      213: 5893325281614465116
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_38
+  - first:
+      213: 5292942730278588262
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_39
+  - first:
+      213: 409046723712619497
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_40
+  - first:
+      213: -727150597283909489
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_41
+  - first:
+      213: 4051458940304867139
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_42
+  - first:
+      213: 5204345352456536488
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_43
+  - first:
+      213: 3203623160517537353
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_44
+  - first:
+      213: -2727600526999382520
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_45
+  - first:
+      213: -1395815701280525336
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_46
+  - first:
+      213: -6398643143728815746
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_47
+  - first:
+      213: -3789977048206613618
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_48
+  - first:
+      213: -1477195882615195967
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_49
+  - first:
+      213: -3776998345175095354
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_50
+  - first:
+      213: 3130717429544538735
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_51
+  - first:
+      213: 6283854015649725359
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_52
+  - first:
+      213: 2331774962857479655
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_53
+  - first:
+      213: -4591061872061371891
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_54
+  - first:
+      213: -6535965124878943203
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_55
+  - first:
+      213: -9149947642287658592
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_56
+  - first:
+      213: -2303718589255925556
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_57
+  - first:
+      213: 3784840347493260201
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_58
+  - first:
+      213: -6184179516729488236
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_59
+  - first:
+      213: -7805253422640694847
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_60
+  - first:
+      213: -1704737965016125880
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_61
+  - first:
+      213: -4757428434769400599
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_62
+  - first:
+      213: 38531305436599840
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_63
+  - first:
+      213: 2240601581295355508
+    second: ChrNpcTX_GakPrisoner002_Mle_trim_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7a5c212734ed30800000000000000
+      internalID: 4459750146621209478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 485
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925285cbca0e8b4c0800000000000000
+      internalID: -4271417214062025431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 453
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb96809991b4c510800000000000000
+      internalID: 1568573843344628686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 439
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f6b2d4431c32b10800000000000000
+      internalID: 1955619093586079579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 439
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d0f1c4541a750b0800000000000000
+      internalID: -5739941881058488975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 437
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0a0d7a943fb040800000000000000
+      internalID: 4665505577106541290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 437
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65071444dbccbcf0800000000000000
+      internalID: -235088967994243731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 437
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f17682450ce379e0800000000000000
+      internalID: -1624695533215518219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 437
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965c2628a9064d40800000000000000
+      internalID: 5568148607089792656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 437
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a92e9e2c6bae1030800000000000000
+      internalID: 3467397244248795556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf4b754a766720a0800000000000000
+      internalID: -6906438828211613756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 361
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b20ec5439117c0800000000000000
+      internalID: -4102335857539500976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 361
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae8a495386a8370800000000000000
+      internalID: 8325581440484436647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 361
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717bcf6736d7b7bb0800000000000000
+      internalID: -4937214700330109161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 361
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a60740cc4121570800000000000000
+      internalID: 8435827918498720278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 359
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c73fe235bd90d670800000000000000
+      internalID: 8561516293200492481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 359
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cdcb42adb1347d0800000000000000
+      internalID: -2935471908382253972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 359
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d711361574c7a60800000000000000
+      internalID: 7673086280012496232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 359
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a125e20956e2c80800000000000000
+      internalID: -8345621389544121706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 359
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733da4c9dc4b8eea0800000000000000
+      internalID: -5843221721329773769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 359
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f6fc069dc39f1a0800000000000000
+      internalID: -6775317260072423562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248e300d3d365320800000000000000
+      internalID: 2546289971530990627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 281
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5323c2afbe17c3e0800000000000000
+      internalID: -2033622898316205221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 281
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf74262d2ddcc740800000000000000
+      internalID: 5173753257925050293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 281
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa32a4e7467a07f70800000000000000
+      internalID: 9183023690265797546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab77a1b6f58b94420800000000000000
+      internalID: 2614823778623584186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 279
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac81ca4d18d0e24e0800000000000000
+      internalID: -2004649932863301430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 279
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0d053585b09140800000000000000
+      internalID: 4724475592836975470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88779111b5b1b9ad0800000000000000
+      internalID: -2694529874108254328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b4519f8a43dd50800000000000000
+      internalID: 6760829446092272261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 279
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4db6d74ed1b8920800000000000000
+      internalID: 2993519244511794348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 279
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e87bcfe8b5ec30800000000000000
+      internalID: 4388116751992808979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc1eb124189bde0800000000000000
+      internalID: -1316879295093551137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520e1e70d2407c70800000000000000
+      internalID: 8966740321331184219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5336d966858bf280800000000000000
+      internalID: -9008459817276787873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daffb48ab48eea60800000000000000
+      internalID: 7705241949103454931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 199
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d3455b14f6fd60800000000000000
+      internalID: 7923788992636770198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 197
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e328a81b9589ed3a0800000000000000
+      internalID: -6638701289699376578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 197
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5885749e1c49c150800000000000000
+      internalID: 5893325281614465116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 197
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fcdb6be5f447940800000000000000
+      internalID: 5292942730278588262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 197
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39d67f3d93da500800000000000000
+      internalID: 409046723712619497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 197
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80fda66264a8e5f0800000000000000
+      internalID: -727150597283909489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 197
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fb3fec07ca93830800000000000000
+      internalID: 4051458940304867139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 197
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a180a5368c893840800000000000000
+      internalID: 5204345352456536488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eacdc7a4e857c20800000000000000
+      internalID: 3203623160517537353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806980ba5cd952ad0800000000000000
+      internalID: -2727600526999382520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3f249d30111ace0800000000000000
+      internalID: -1395815701280525336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712e8556f37337a0800000000000000
+      internalID: -6398643143728815746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e2ce64fb476bc0800000000000000
+      internalID: -3789977048206613618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 115
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c63d09db22ff7be0800000000000000
+      internalID: -1477195882615195967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 115
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7a9963408659bc0800000000000000
+      internalID: -3776998345175095354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 115
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6250283aea827b20800000000000000
+      internalID: 3130717429544538735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 115
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb6371febb43750800000000000000
+      internalID: 6283854015649725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 115
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed054579f02c5020800000000000000
+      internalID: 2331774962857479655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 115
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a21f54d854940c0800000000000000
+      internalID: -4591061872061371891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 115
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cbf3319569b45a0800000000000000
+      internalID: -6535965124878943203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9650c091bd40180800000000000000
+      internalID: -9149947642287658592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0cfe0162c8700e0800000000000000
+      internalID: -2303718589255925556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd6eb3e34768430800000000000000
+      internalID: 3784840347493260201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c8716ae716d2aa0800000000000000
+      internalID: -6184179516729488236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c97999bd5b2ea390800000000000000
+      internalID: -7805253422640694847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e67185add8758e0800000000000000
+      internalID: -1704737965016125880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 33
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2a356b083afdb0800000000000000
+      internalID: -4757428434769400599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d745a404e88000800000000000000
+      internalID: 38531305436599840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_GakPrisoner002_Mle_trim_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 31
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476c9485447381f10800000000000000
+      internalID: 2240601581295355508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrNpcTX_GakPrisoner002_Mle_trim_0: 4459750146621209478
+      ChrNpcTX_GakPrisoner002_Mle_trim_1: -4271417214062025431
+      ChrNpcTX_GakPrisoner002_Mle_trim_10: -6906438828211613756
+      ChrNpcTX_GakPrisoner002_Mle_trim_11: -4102335857539500976
+      ChrNpcTX_GakPrisoner002_Mle_trim_12: 8325581440484436647
+      ChrNpcTX_GakPrisoner002_Mle_trim_13: -4937214700330109161
+      ChrNpcTX_GakPrisoner002_Mle_trim_14: 8435827918498720278
+      ChrNpcTX_GakPrisoner002_Mle_trim_15: 8561516293200492481
+      ChrNpcTX_GakPrisoner002_Mle_trim_16: -2935471908382253972
+      ChrNpcTX_GakPrisoner002_Mle_trim_17: 7673086280012496232
+      ChrNpcTX_GakPrisoner002_Mle_trim_18: -8345621389544121706
+      ChrNpcTX_GakPrisoner002_Mle_trim_19: -5843221721329773769
+      ChrNpcTX_GakPrisoner002_Mle_trim_2: 1568573843344628686
+      ChrNpcTX_GakPrisoner002_Mle_trim_20: -6775317260072423562
+      ChrNpcTX_GakPrisoner002_Mle_trim_21: 2546289971530990627
+      ChrNpcTX_GakPrisoner002_Mle_trim_22: -2033622898316205221
+      ChrNpcTX_GakPrisoner002_Mle_trim_23: 5173753257925050293
+      ChrNpcTX_GakPrisoner002_Mle_trim_24: 9183023690265797546
+      ChrNpcTX_GakPrisoner002_Mle_trim_25: 2614823778623584186
+      ChrNpcTX_GakPrisoner002_Mle_trim_26: -2004649932863301430
+      ChrNpcTX_GakPrisoner002_Mle_trim_27: 4724475592836975470
+      ChrNpcTX_GakPrisoner002_Mle_trim_28: -2694529874108254328
+      ChrNpcTX_GakPrisoner002_Mle_trim_29: 6760829446092272261
+      ChrNpcTX_GakPrisoner002_Mle_trim_3: 1955619093586079579
+      ChrNpcTX_GakPrisoner002_Mle_trim_30: 2993519244511794348
+      ChrNpcTX_GakPrisoner002_Mle_trim_31: 4388116751992808979
+      ChrNpcTX_GakPrisoner002_Mle_trim_32: -1316879295093551137
+      ChrNpcTX_GakPrisoner002_Mle_trim_33: 8966740321331184219
+      ChrNpcTX_GakPrisoner002_Mle_trim_34: -9008459817276787873
+      ChrNpcTX_GakPrisoner002_Mle_trim_35: 7705241949103454931
+      ChrNpcTX_GakPrisoner002_Mle_trim_36: 7923788992636770198
+      ChrNpcTX_GakPrisoner002_Mle_trim_37: -6638701289699376578
+      ChrNpcTX_GakPrisoner002_Mle_trim_38: 5893325281614465116
+      ChrNpcTX_GakPrisoner002_Mle_trim_39: 5292942730278588262
+      ChrNpcTX_GakPrisoner002_Mle_trim_4: -5739941881058488975
+      ChrNpcTX_GakPrisoner002_Mle_trim_40: 409046723712619497
+      ChrNpcTX_GakPrisoner002_Mle_trim_41: -727150597283909489
+      ChrNpcTX_GakPrisoner002_Mle_trim_42: 4051458940304867139
+      ChrNpcTX_GakPrisoner002_Mle_trim_43: 5204345352456536488
+      ChrNpcTX_GakPrisoner002_Mle_trim_44: 3203623160517537353
+      ChrNpcTX_GakPrisoner002_Mle_trim_45: -2727600526999382520
+      ChrNpcTX_GakPrisoner002_Mle_trim_46: -1395815701280525336
+      ChrNpcTX_GakPrisoner002_Mle_trim_47: -6398643143728815746
+      ChrNpcTX_GakPrisoner002_Mle_trim_48: -3789977048206613618
+      ChrNpcTX_GakPrisoner002_Mle_trim_49: -1477195882615195967
+      ChrNpcTX_GakPrisoner002_Mle_trim_5: 4665505577106541290
+      ChrNpcTX_GakPrisoner002_Mle_trim_50: -3776998345175095354
+      ChrNpcTX_GakPrisoner002_Mle_trim_51: 3130717429544538735
+      ChrNpcTX_GakPrisoner002_Mle_trim_52: 6283854015649725359
+      ChrNpcTX_GakPrisoner002_Mle_trim_53: 2331774962857479655
+      ChrNpcTX_GakPrisoner002_Mle_trim_54: -4591061872061371891
+      ChrNpcTX_GakPrisoner002_Mle_trim_55: -6535965124878943203
+      ChrNpcTX_GakPrisoner002_Mle_trim_56: -9149947642287658592
+      ChrNpcTX_GakPrisoner002_Mle_trim_57: -2303718589255925556
+      ChrNpcTX_GakPrisoner002_Mle_trim_58: 3784840347493260201
+      ChrNpcTX_GakPrisoner002_Mle_trim_59: -6184179516729488236
+      ChrNpcTX_GakPrisoner002_Mle_trim_6: -235088967994243731
+      ChrNpcTX_GakPrisoner002_Mle_trim_60: -7805253422640694847
+      ChrNpcTX_GakPrisoner002_Mle_trim_61: -1704737965016125880
+      ChrNpcTX_GakPrisoner002_Mle_trim_62: -4757428434769400599
+      ChrNpcTX_GakPrisoner002_Mle_trim_63: 38531305436599840
+      ChrNpcTX_GakPrisoner002_Mle_trim_64: 2240601581295355508
+      ChrNpcTX_GakPrisoner002_Mle_trim_7: -1624695533215518219
+      ChrNpcTX_GakPrisoner002_Mle_trim_8: 5568148607089792656
+      ChrNpcTX_GakPrisoner002_Mle_trim_9: 3467397244248795556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

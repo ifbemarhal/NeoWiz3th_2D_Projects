@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 020b7ed35b6771849a88b8f8282130d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8417182319979167162
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_0
+  - first:
+      213: -3142346579583563856
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_1
+  - first:
+      213: -3738706060230475988
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_2
+  - first:
+      213: -5251410959213473833
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_3
+  - first:
+      213: -5284012367503368479
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_4
+  - first:
+      213: -2160015515625046061
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_5
+  - first:
+      213: -6916844403582882449
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_6
+  - first:
+      213: -6106304968335554625
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_7
+  - first:
+      213: 6884888443586681528
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_8
+  - first:
+      213: -7342379092223169569
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_9
+  - first:
+      213: -5219068393154633567
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_10
+  - first:
+      213: 9136198166818889052
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_11
+  - first:
+      213: 1753128071430887859
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_12
+  - first:
+      213: 4317933453487116846
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_13
+  - first:
+      213: 5520190864541603153
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_14
+  - first:
+      213: -1922255198816080099
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_15
+  - first:
+      213: 189360580105555454
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_16
+  - first:
+      213: -5444524229217078096
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_17
+  - first:
+      213: -524496131726118463
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_18
+  - first:
+      213: -5972861460859989434
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_19
+  - first:
+      213: -5729379582536793033
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_20
+  - first:
+      213: 8685529539355770125
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_21
+  - first:
+      213: 4840259503051297843
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_22
+  - first:
+      213: 5271972722322396184
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_23
+  - first:
+      213: 1132949838893665864
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_24
+  - first:
+      213: 2503701343049290580
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_25
+  - first:
+      213: -8286902257916177873
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_26
+  - first:
+      213: -8055217510215001315
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_27
+  - first:
+      213: 6145187206443292664
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_28
+  - first:
+      213: -3459094133970861430
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_29
+  - first:
+      213: -2719345743173312392
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_30
+  - first:
+      213: -8098104032682948711
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_31
+  - first:
+      213: -4472383918349440917
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_32
+  - first:
+      213: 681244049673878888
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_33
+  - first:
+      213: -3328273802684761538
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_34
+  - first:
+      213: -4613162631843934160
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_35
+  - first:
+      213: 1068322518926755897
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_36
+  - first:
+      213: 1790165620681022770
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_37
+  - first:
+      213: 1438021135702971212
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_38
+  - first:
+      213: 5034000705743855118
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_39
+  - first:
+      213: -1295779497784052509
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_40
+  - first:
+      213: -4521069468158742219
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_41
+  - first:
+      213: 8170050653706153216
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_42
+  - first:
+      213: 3604471163197558493
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_43
+  - first:
+      213: 1287115832684805805
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_44
+  - first:
+      213: 3757923325196735992
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_45
+  - first:
+      213: -1329597965286805779
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_46
+  - first:
+      213: 7160718802087146219
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_47
+  - first:
+      213: -674656703988395665
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_48
+  - first:
+      213: 3908810082164032053
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_49
+  - first:
+      213: 3283619988201737312
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_50
+  - first:
+      213: 4872969636611816302
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_51
+  - first:
+      213: 2019863512425330449
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_52
+  - first:
+      213: -7197216768498729609
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_53
+  - first:
+      213: -9032237906477946153
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_54
+  - first:
+      213: 2889359682212310291
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_55
+  - first:
+      213: 4963330314474055833
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_56
+  - first:
+      213: -3001272167998700506
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_57
+  - first:
+      213: -7925640805487458129
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_58
+  - first:
+      213: -8896885745605207671
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_59
+  - first:
+      213: -4232526664301816158
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_60
+  - first:
+      213: 3068383497258644771
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_61
+  - first:
+      213: 1170961021053411030
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_62
+  - first:
+      213: 8991368645891209909
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_63
+  - first:
+      213: -2904406526180228235
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_64
+  - first:
+      213: 3172603376440919544
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_65
+  - first:
+      213: -3657614642372478742
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_66
+  - first:
+      213: -8017806358628806135
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_67
+  - first:
+      213: 6068143496233724764
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_68
+  - first:
+      213: -3911936910727884271
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_69
+  - first:
+      213: 9120038484756921394
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_70
+  - first:
+      213: -5024412252272864848
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_71
+  - first:
+      213: 1301061965123772230
+    second: ChrEvcTX_KusHiredRobber_Fml_trim_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 953
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7e0059b6dfc470800000000000000
+      internalID: 8417182319979167162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 949
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b702ca4f642464d0800000000000000
+      internalID: -3142346579583563856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 951
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fbc5095a27d1cc0800000000000000
+      internalID: -3738706060230475988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 947
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfcc764e8d3f17b0800000000000000
+      internalID: -5251410959213473833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 955
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eed0366fba6ba6b0800000000000000
+      internalID: -5284012367503368479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 949
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df36d135551602e0800000000000000
+      internalID: -2160015515625046061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 953
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d2bc579ae6200a0800000000000000
+      internalID: -6916844403582882449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 875
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb70820ebfb024ba0800000000000000
+      internalID: -6106304968335554625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 873
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba1d2ecf890c8f50800000000000000
+      internalID: 6884888443586681528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 875
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb68c10e11aa1a90800000000000000
+      internalID: -7342379092223169569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 869
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ac8fb2f42297b0800000000000000
+      internalID: -5219068393154633567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 869
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d90dab3db4ace70800000000000000
+      internalID: 9136198166818889052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 871
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9576741bc545810800000000000000
+      internalID: 1753128071430887859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 871
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2210ea39916ceb30800000000000000
+      internalID: 4317933453487116846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155db551858ab9c40800000000000000
+      internalID: 5520190864541603153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 797
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f6beac417c255e0800000000000000
+      internalID: -1922255198816080099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 795
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd47afb17eb0a200800000000000000
+      internalID: 189360580105555454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 799
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b432825f0a2174b0800000000000000
+      internalID: -5444524229217078096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 793
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f56e0c8d98b8f0800000000000000
+      internalID: -524496131726118463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 793
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d1dc95222c1da0800000000000000
+      internalID: -5972861460859989434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c48f00a72d70b0800000000000000
+      internalID: -5729379582536793033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 715
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d767f1913398870800000000000000
+      internalID: 8685529539355770125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d41c8f5e0c2340800000000000000
+      internalID: 4840259503051297843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 715
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145393424fc92940800000000000000
+      internalID: 5271972722322396184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 715
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec79730eb09bf00800000000000000
+      internalID: 1132949838893665864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 715
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531f183b1feeb220800000000000000
+      internalID: 2503701343049290580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 637
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2216846d420ffc80800000000000000
+      internalID: -8286902257916177873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 637
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd0235a5e163090800000000000000
+      internalID: -8055217510215001315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 637
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d356a437184550800000000000000
+      internalID: 6145187206443292664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 637
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8287045634deffc0800000000000000
+      internalID: -3459094133970861430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 633
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8702fac4471f24ad0800000000000000
+      internalID: -2719345743173312392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 637
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99746c1b941cd9f80800000000000000
+      internalID: -8098104032682948711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 555
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ac9f9586eee1c0800000000000000
+      internalID: -4472383918349440917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 551
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df8229ad3447900800000000000000
+      internalID: 681244049673878888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 555
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a7cb34c989fc1d0800000000000000
+      internalID: -3328273802684761538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 561
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03016d52701caffb0800000000000000
+      internalID: -4613162631843934160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 555
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9380e26bba173de00800000000000000
+      internalID: 1068322518926755897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 555
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d1fc5b522f7d810800000000000000
+      internalID: 1790165620681022770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43541d9a90e4f310800000000000000
+      internalID: 1438021135702971212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 473
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e9de878fc5cd540800000000000000
+      internalID: 5034000705743855118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 473
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f85f7967740ee0800000000000000
+      internalID: -1295779497784052509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 473
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b889b54fe141c0800000000000000
+      internalID: -4521069468158742219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 473
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6a1368c9d16170800000000000000
+      internalID: 8170050653706153216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 475
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8785fc67a50230800000000000000
+      internalID: 3604471163197558493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae75f7c701ccd110800000000000000
+      internalID: 1287115832684805805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 395
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5918b9a53d62430800000000000000
+      internalID: 3757923325196735992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 397
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee6ff0f1b15c8de0800000000000000
+      internalID: -1329597965286805779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 395
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27dd6bfcbff5360800000000000000
+      internalID: 7160718802087146219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 397
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f619f6d5d4323a6f0800000000000000
+      internalID: -674656703988395665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 411
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324ad95f02ee3630800000000000000
+      internalID: 3908810082164032053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c032e5bf2c19d20800000000000000
+      internalID: 3283619988201737312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 327
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf28ff01440a340800000000000000
+      internalID: 4872969636611816302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 323
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11772e0b92ff70c10800000000000000
+      internalID: 2019863512425330449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df5264b795e1c90800000000000000
+      internalID: -7197216768498729609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 317
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da60999a7b07a280800000000000000
+      internalID: -9032237906477946153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da99e8251191820800000000000000
+      internalID: 2889359682212310291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986729cf9a41e440800000000000000
+      internalID: 4963330314474055833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 239
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624cb285dd65956d0800000000000000
+      internalID: -3001272167998700506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 239
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84493eda7720290800000000000000
+      internalID: -7925640805487458129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 239
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98917f55d89e78480800000000000000
+      internalID: -8896885745605207671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6dbe77c6b0345c0800000000000000
+      internalID: -4232526664301816158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b5c4a886159a20800000000000000
+      internalID: 3068383497258644771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 171
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de97b938d6104010800000000000000
+      internalID: 1170961021053411030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 166
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3ee62522c7cc70800000000000000
+      internalID: 8991368645891209909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 165
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57383b317a971b7d0800000000000000
+      internalID: -2904406526180228235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f547f136f9570c20800000000000000
+      internalID: 3172603376440919544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fe149cda8d3dc0800000000000000
+      internalID: -3657614642372478742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902df04d8970bb090800000000000000
+      internalID: -8017806358628806135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_68
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 99
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bab130c50663450800000000000000
+      internalID: 6068143496233724764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11253542b1206b9c0800000000000000
+      internalID: -3911936910727884271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_70
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf3dd8ea2e09e70800000000000000
+      internalID: 9120038484756921394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d7225da3b54ab0800000000000000
+      internalID: -5024412252272864848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KusHiredRobber_Fml_trim_72
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 57
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f59f5c6fc4e0210800000000000000
+      internalID: 1301061965123772230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KusHiredRobber_Fml_trim_0: 8417182319979167162
+      ChrEvcTX_KusHiredRobber_Fml_trim_1: -3142346579583563856
+      ChrEvcTX_KusHiredRobber_Fml_trim_10: -5219068393154633567
+      ChrEvcTX_KusHiredRobber_Fml_trim_11: 9136198166818889052
+      ChrEvcTX_KusHiredRobber_Fml_trim_12: 1753128071430887859
+      ChrEvcTX_KusHiredRobber_Fml_trim_13: 4317933453487116846
+      ChrEvcTX_KusHiredRobber_Fml_trim_14: 5520190864541603153
+      ChrEvcTX_KusHiredRobber_Fml_trim_15: -1922255198816080099
+      ChrEvcTX_KusHiredRobber_Fml_trim_16: 189360580105555454
+      ChrEvcTX_KusHiredRobber_Fml_trim_17: -5444524229217078096
+      ChrEvcTX_KusHiredRobber_Fml_trim_18: -524496131726118463
+      ChrEvcTX_KusHiredRobber_Fml_trim_19: -5972861460859989434
+      ChrEvcTX_KusHiredRobber_Fml_trim_2: -3738706060230475988
+      ChrEvcTX_KusHiredRobber_Fml_trim_20: -5729379582536793033
+      ChrEvcTX_KusHiredRobber_Fml_trim_21: 8685529539355770125
+      ChrEvcTX_KusHiredRobber_Fml_trim_22: 4840259503051297843
+      ChrEvcTX_KusHiredRobber_Fml_trim_23: 5271972722322396184
+      ChrEvcTX_KusHiredRobber_Fml_trim_24: 1132949838893665864
+      ChrEvcTX_KusHiredRobber_Fml_trim_25: 2503701343049290580
+      ChrEvcTX_KusHiredRobber_Fml_trim_26: -8286902257916177873
+      ChrEvcTX_KusHiredRobber_Fml_trim_27: -8055217510215001315
+      ChrEvcTX_KusHiredRobber_Fml_trim_28: 6145187206443292664
+      ChrEvcTX_KusHiredRobber_Fml_trim_29: -3459094133970861430
+      ChrEvcTX_KusHiredRobber_Fml_trim_3: -5251410959213473833
+      ChrEvcTX_KusHiredRobber_Fml_trim_30: -2719345743173312392
+      ChrEvcTX_KusHiredRobber_Fml_trim_31: -8098104032682948711
+      ChrEvcTX_KusHiredRobber_Fml_trim_32: -4472383918349440917
+      ChrEvcTX_KusHiredRobber_Fml_trim_33: 681244049673878888
+      ChrEvcTX_KusHiredRobber_Fml_trim_34: -3328273802684761538
+      ChrEvcTX_KusHiredRobber_Fml_trim_35: -4613162631843934160
+      ChrEvcTX_KusHiredRobber_Fml_trim_36: 1068322518926755897
+      ChrEvcTX_KusHiredRobber_Fml_trim_37: 1790165620681022770
+      ChrEvcTX_KusHiredRobber_Fml_trim_38: 1438021135702971212
+      ChrEvcTX_KusHiredRobber_Fml_trim_39: 5034000705743855118
+      ChrEvcTX_KusHiredRobber_Fml_trim_4: -5284012367503368479
+      ChrEvcTX_KusHiredRobber_Fml_trim_40: -1295779497784052509
+      ChrEvcTX_KusHiredRobber_Fml_trim_41: -4521069468158742219
+      ChrEvcTX_KusHiredRobber_Fml_trim_42: 8170050653706153216
+      ChrEvcTX_KusHiredRobber_Fml_trim_43: 3604471163197558493
+      ChrEvcTX_KusHiredRobber_Fml_trim_44: 1287115832684805805
+      ChrEvcTX_KusHiredRobber_Fml_trim_45: 3757923325196735992
+      ChrEvcTX_KusHiredRobber_Fml_trim_46: -1329597965286805779
+      ChrEvcTX_KusHiredRobber_Fml_trim_47: 7160718802087146219
+      ChrEvcTX_KusHiredRobber_Fml_trim_48: -674656703988395665
+      ChrEvcTX_KusHiredRobber_Fml_trim_49: 3908810082164032053
+      ChrEvcTX_KusHiredRobber_Fml_trim_5: -2160015515625046061
+      ChrEvcTX_KusHiredRobber_Fml_trim_50: 3283619988201737312
+      ChrEvcTX_KusHiredRobber_Fml_trim_51: 4872969636611816302
+      ChrEvcTX_KusHiredRobber_Fml_trim_52: 2019863512425330449
+      ChrEvcTX_KusHiredRobber_Fml_trim_53: -7197216768498729609
+      ChrEvcTX_KusHiredRobber_Fml_trim_54: -9032237906477946153
+      ChrEvcTX_KusHiredRobber_Fml_trim_55: 2889359682212310291
+      ChrEvcTX_KusHiredRobber_Fml_trim_56: 4963330314474055833
+      ChrEvcTX_KusHiredRobber_Fml_trim_57: -3001272167998700506
+      ChrEvcTX_KusHiredRobber_Fml_trim_58: -7925640805487458129
+      ChrEvcTX_KusHiredRobber_Fml_trim_59: -8896885745605207671
+      ChrEvcTX_KusHiredRobber_Fml_trim_6: -6916844403582882449
+      ChrEvcTX_KusHiredRobber_Fml_trim_60: -4232526664301816158
+      ChrEvcTX_KusHiredRobber_Fml_trim_61: 3068383497258644771
+      ChrEvcTX_KusHiredRobber_Fml_trim_62: 1170961021053411030
+      ChrEvcTX_KusHiredRobber_Fml_trim_63: 8991368645891209909
+      ChrEvcTX_KusHiredRobber_Fml_trim_64: -2904406526180228235
+      ChrEvcTX_KusHiredRobber_Fml_trim_65: 3172603376440919544
+      ChrEvcTX_KusHiredRobber_Fml_trim_66: -3657614642372478742
+      ChrEvcTX_KusHiredRobber_Fml_trim_67: -8017806358628806135
+      ChrEvcTX_KusHiredRobber_Fml_trim_68: 6068143496233724764
+      ChrEvcTX_KusHiredRobber_Fml_trim_69: -3911936910727884271
+      ChrEvcTX_KusHiredRobber_Fml_trim_7: -6106304968335554625
+      ChrEvcTX_KusHiredRobber_Fml_trim_70: 9120038484756921394
+      ChrEvcTX_KusHiredRobber_Fml_trim_71: -5024412252272864848
+      ChrEvcTX_KusHiredRobber_Fml_trim_72: 1301061965123772230
+      ChrEvcTX_KusHiredRobber_Fml_trim_8: 6884888443586681528
+      ChrEvcTX_KusHiredRobber_Fml_trim_9: -7342379092223169569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

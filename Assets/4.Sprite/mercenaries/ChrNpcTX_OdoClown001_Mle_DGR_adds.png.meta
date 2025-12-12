@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: cc8ac6bd0980d464e996e676326e6afd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1703607698483986916
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_0
+  - first:
+      213: -8280656291448431389
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_1
+  - first:
+      213: 8557301426114846578
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_2
+  - first:
+      213: 6934538727083821460
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_3
+  - first:
+      213: 8525507540439180072
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_4
+  - first:
+      213: -4878428570710746028
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_5
+  - first:
+      213: -1270462812395108333
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_6
+  - first:
+      213: -7494205106102569440
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_7
+  - first:
+      213: 1008994435028928715
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_8
+  - first:
+      213: -8092669420552769489
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_9
+  - first:
+      213: 1920721563420246979
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_10
+  - first:
+      213: 7902158291921323722
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_11
+  - first:
+      213: -7163684211105446893
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_12
+  - first:
+      213: -626462946906718731
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_13
+  - first:
+      213: -2527445232249331435
+    second: ChrNpcTX_OdoClown001_Mle_DGR_adds_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 897
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e142c8fc2e64a710800000000000000
+      internalID: 1703607698483986916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecdc19c9f2351d80800000000000000
+      internalID: -8280656291448431389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 769
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd48bfe44a1c670800000000000000
+      internalID: 8557301426114846578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 769
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49945054b3e6c3060800000000000000
+      internalID: 6934538727083821460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 641
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823aacd10ffa05670800000000000000
+      internalID: 8525507540439180072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 641
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5bacdf075c4cb0800000000000000
+      internalID: -4878428570710746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 513
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31888d6adc86e5ee0800000000000000
+      internalID: -1270462812395108333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 513
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02676d8792c3ff790800000000000000
+      internalID: -7494205106102569440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 385
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ce30c71ba00e00800000000000000
+      internalID: 1008994435028928715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 385
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20394fe90011bf80800000000000000
+      internalID: -8092669420552769489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3c814e516c7aa10800000000000000
+      internalID: 1920721563420246979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 257
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6c0ec591b1aad60800000000000000
+      internalID: 7902158291921323722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 257
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3144cf13a2b759c90800000000000000
+      internalID: -7163684211105446893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3ea8d44b5e47f0800000000000000
+      internalID: -626462946906718731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_OdoClown001_Mle_DGR_adds_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5112686c3f5bcecd0800000000000000
+      internalID: -2527445232249331435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_0: 1703607698483986916
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_1: -8280656291448431389
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_10: 1920721563420246979
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_11: 7902158291921323722
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_12: -7163684211105446893
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_13: -626462946906718731
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_14: -2527445232249331435
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_2: 8557301426114846578
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_3: 6934538727083821460
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_4: 8525507540439180072
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_5: -4878428570710746028
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_6: -1270462812395108333
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_7: -7494205106102569440
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_8: 1008994435028928715
+      ChrNpcTX_OdoClown001_Mle_DGR_adds_9: -8092669420552769489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

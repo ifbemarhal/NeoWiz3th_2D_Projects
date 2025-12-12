@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 6035b5b17d81c08498227437098946fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8989991860674028326
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_0
+  - first:
+      213: -4594205383783872540
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_1
+  - first:
+      213: 7426398374799223699
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_2
+  - first:
+      213: 4138373008624712385
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_3
+  - first:
+      213: -5231742904746981831
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_4
+  - first:
+      213: 4182898243568882666
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_5
+  - first:
+      213: -1229155000226564117
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_6
+  - first:
+      213: 922239658036933415
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_7
+  - first:
+      213: -2643605866458871210
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_8
+  - first:
+      213: 1022143998717439473
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_9
+  - first:
+      213: -8886439607386009063
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_10
+  - first:
+      213: -793734465563961555
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_11
+  - first:
+      213: -4336166040172581646
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_12
+  - first:
+      213: -5387475450691348622
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_13
+  - first:
+      213: -5239473205490538999
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_14
+  - first:
+      213: -4684804169994985633
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_15
+  - first:
+      213: -5993578262347452411
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_16
+  - first:
+      213: 6364777204911927900
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_17
+  - first:
+      213: 4177278763412990651
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_18
+  - first:
+      213: 644663197500544251
+    second: ChrEvcTX_SinAelfric_Mle_trimBtl_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e02d57fdd2cc70800000000000000
+      internalID: 8989991860674028326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 454
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7006a6b8a1e30c0800000000000000
+      internalID: -4594205383783872540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 454
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b2272a9fddf0760800000000000000
+      internalID: 7426398374799223699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 453
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf32743547e6930800000000000000
+      internalID: 4138373008624712385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c26e0c8d1567b0800000000000000
+      internalID: -5231742904746981831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 385
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae357836ac3ac0a30800000000000000
+      internalID: 4182898243568882666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 385
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b9952a0a21fee0800000000000000
+      internalID: -1229155000226564117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 384
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b11f25147ccc00800000000000000
+      internalID: 922239658036933415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a849b8876005bd0800000000000000
+      internalID: -2643605866458871210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 315
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fda9d02d826f2e00800000000000000
+      internalID: 1022143998717439473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 315
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9129bcb62460da480800000000000000
+      internalID: -8886439607386009063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 314
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27531e75b61cf4f0800000000000000
+      internalID: -793734465563961555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 314
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca660e5f7d2d3c0800000000000000
+      internalID: -4336166040172581646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27797652f97db35b0800000000000000
+      internalID: -5387475450691348622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 244
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062f8821e6a947b0800000000000000
+      internalID: -5239473205490538999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 244
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1e25bd6b3cfeb0800000000000000
+      internalID: -4684804169994985633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 242
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f643635882dca0800000000000000
+      internalID: -5993578262347452411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527745552b345850800000000000000
+      internalID: 6364777204911927900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 166
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa30537eca8f930800000000000000
+      internalID: 4177278763412990651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinAelfric_Mle_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 166
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf499c633cd42f800800000000000000
+      internalID: 644663197500544251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_SinAelfric_Mle_trimBtl_0: 8989991860674028326
+      ChrEvcTX_SinAelfric_Mle_trimBtl_1: -4594205383783872540
+      ChrEvcTX_SinAelfric_Mle_trimBtl_10: -8886439607386009063
+      ChrEvcTX_SinAelfric_Mle_trimBtl_11: -793734465563961555
+      ChrEvcTX_SinAelfric_Mle_trimBtl_12: -4336166040172581646
+      ChrEvcTX_SinAelfric_Mle_trimBtl_13: -5387475450691348622
+      ChrEvcTX_SinAelfric_Mle_trimBtl_14: -5239473205490538999
+      ChrEvcTX_SinAelfric_Mle_trimBtl_15: -4684804169994985633
+      ChrEvcTX_SinAelfric_Mle_trimBtl_16: -5993578262347452411
+      ChrEvcTX_SinAelfric_Mle_trimBtl_17: 6364777204911927900
+      ChrEvcTX_SinAelfric_Mle_trimBtl_18: 4177278763412990651
+      ChrEvcTX_SinAelfric_Mle_trimBtl_19: 644663197500544251
+      ChrEvcTX_SinAelfric_Mle_trimBtl_2: 7426398374799223699
+      ChrEvcTX_SinAelfric_Mle_trimBtl_3: 4138373008624712385
+      ChrEvcTX_SinAelfric_Mle_trimBtl_4: -5231742904746981831
+      ChrEvcTX_SinAelfric_Mle_trimBtl_5: 4182898243568882666
+      ChrEvcTX_SinAelfric_Mle_trimBtl_6: -1229155000226564117
+      ChrEvcTX_SinAelfric_Mle_trimBtl_7: 922239658036933415
+      ChrEvcTX_SinAelfric_Mle_trimBtl_8: -2643605866458871210
+      ChrEvcTX_SinAelfric_Mle_trimBtl_9: 1022143998717439473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

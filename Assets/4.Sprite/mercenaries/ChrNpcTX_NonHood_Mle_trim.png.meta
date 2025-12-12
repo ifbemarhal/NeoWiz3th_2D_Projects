@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 9db6895364032e8498a32e4128b3ce50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -609823723337669594
+    second: ChrNpcTX_NonHood_Mle_trim_0
+  - first:
+      213: -7185084179396045313
+    second: ChrNpcTX_NonHood_Mle_trim_1
+  - first:
+      213: -2094619527565509471
+    second: ChrNpcTX_NonHood_Mle_trim_2
+  - first:
+      213: -186981593151422361
+    second: ChrNpcTX_NonHood_Mle_trim_3
+  - first:
+      213: 8568748428719574147
+    second: ChrNpcTX_NonHood_Mle_trim_4
+  - first:
+      213: 4167322982779810065
+    second: ChrNpcTX_NonHood_Mle_trim_5
+  - first:
+      213: 3381610675056048679
+    second: ChrNpcTX_NonHood_Mle_trim_6
+  - first:
+      213: -7968980307871880283
+    second: ChrNpcTX_NonHood_Mle_trim_7
+  - first:
+      213: -2849220822037486757
+    second: ChrNpcTX_NonHood_Mle_trim_8
+  - first:
+      213: -1999345808336845858
+    second: ChrNpcTX_NonHood_Mle_trim_9
+  - first:
+      213: -6709410713613581774
+    second: ChrNpcTX_NonHood_Mle_trim_10
+  - first:
+      213: -1006398475944825614
+    second: ChrNpcTX_NonHood_Mle_trim_11
+  - first:
+      213: -6427819925602968245
+    second: ChrNpcTX_NonHood_Mle_trim_12
+  - first:
+      213: 4340348486310607542
+    second: ChrNpcTX_NonHood_Mle_trim_13
+  - first:
+      213: -1334210244462490404
+    second: ChrNpcTX_NonHood_Mle_trim_14
+  - first:
+      213: 1618821114916703163
+    second: ChrNpcTX_NonHood_Mle_trim_15
+  - first:
+      213: 3976790570502059964
+    second: ChrNpcTX_NonHood_Mle_trim_16
+  - first:
+      213: -6248760419107476784
+    second: ChrNpcTX_NonHood_Mle_trim_17
+  - first:
+      213: 1669574165427439686
+    second: ChrNpcTX_NonHood_Mle_trim_18
+  - first:
+      213: -6810873937588803607
+    second: ChrNpcTX_NonHood_Mle_trim_19
+  - first:
+      213: -8984655572568069045
+    second: ChrNpcTX_NonHood_Mle_trim_20
+  - first:
+      213: 4530841929660074528
+    second: ChrNpcTX_NonHood_Mle_trim_21
+  - first:
+      213: -1775556134388374186
+    second: ChrNpcTX_NonHood_Mle_trim_22
+  - first:
+      213: -9043475543525559699
+    second: ChrNpcTX_NonHood_Mle_trim_23
+  - first:
+      213: -5683452903423949622
+    second: ChrNpcTX_NonHood_Mle_trim_24
+  - first:
+      213: -7097785012422087350
+    second: ChrNpcTX_NonHood_Mle_trim_25
+  - first:
+      213: -4745605590984174255
+    second: ChrNpcTX_NonHood_Mle_trim_26
+  - first:
+      213: -5506422766415073803
+    second: ChrNpcTX_NonHood_Mle_trim_27
+  - first:
+      213: -2855643700463630658
+    second: ChrNpcTX_NonHood_Mle_trim_28
+  - first:
+      213: 2579722337649276094
+    second: ChrNpcTX_NonHood_Mle_trim_29
+  - first:
+      213: 2475831198553750006
+    second: ChrNpcTX_NonHood_Mle_trim_30
+  - first:
+      213: 7605076731113309604
+    second: ChrNpcTX_NonHood_Mle_trim_31
+  - first:
+      213: 2267656744363118994
+    second: ChrNpcTX_NonHood_Mle_trim_32
+  - first:
+      213: 5092763951941302169
+    second: ChrNpcTX_NonHood_Mle_trim_33
+  - first:
+      213: 7352102468640643995
+    second: ChrNpcTX_NonHood_Mle_trim_34
+  - first:
+      213: -641351679546398068
+    second: ChrNpcTX_NonHood_Mle_trim_35
+  - first:
+      213: 2223597902059792444
+    second: ChrNpcTX_NonHood_Mle_trim_36
+  - first:
+      213: 1032744305567723639
+    second: ChrNpcTX_NonHood_Mle_trim_37
+  - first:
+      213: -3525566659023304959
+    second: ChrNpcTX_NonHood_Mle_trim_38
+  - first:
+      213: 6667003097041277982
+    second: ChrNpcTX_NonHood_Mle_trim_39
+  - first:
+      213: 6956613313299774866
+    second: ChrNpcTX_NonHood_Mle_trim_40
+  - first:
+      213: 6378776760558671942
+    second: ChrNpcTX_NonHood_Mle_trim_41
+  - first:
+      213: 6095552681600698248
+    second: ChrNpcTX_NonHood_Mle_trim_42
+  - first:
+      213: -2499715933274811665
+    second: ChrNpcTX_NonHood_Mle_trim_43
+  - first:
+      213: 2024410087218722329
+    second: ChrNpcTX_NonHood_Mle_trim_44
+  - first:
+      213: 1746485577785594764
+    second: ChrNpcTX_NonHood_Mle_trim_45
+  - first:
+      213: 478712524976457361
+    second: ChrNpcTX_NonHood_Mle_trim_46
+  - first:
+      213: 7498768533016331777
+    second: ChrNpcTX_NonHood_Mle_trim_47
+  - first:
+      213: 5118923208359318239
+    second: ChrNpcTX_NonHood_Mle_trim_48
+  - first:
+      213: 4455490968599299540
+    second: ChrNpcTX_NonHood_Mle_trim_49
+  - first:
+      213: 4577043708445662673
+    second: ChrNpcTX_NonHood_Mle_trim_50
+  - first:
+      213: -3117694377771319549
+    second: ChrNpcTX_NonHood_Mle_trim_51
+  - first:
+      213: 6385926353317749535
+    second: ChrNpcTX_NonHood_Mle_trim_52
+  - first:
+      213: -2525674375664655888
+    second: ChrNpcTX_NonHood_Mle_trim_53
+  - first:
+      213: 3427386209115630531
+    second: ChrNpcTX_NonHood_Mle_trim_54
+  - first:
+      213: 6842432952254859554
+    second: ChrNpcTX_NonHood_Mle_trim_55
+  - first:
+      213: -5009422048286330859
+    second: ChrNpcTX_NonHood_Mle_trim_56
+  - first:
+      213: -4212686727380639573
+    second: ChrNpcTX_NonHood_Mle_trim_57
+  - first:
+      213: 5497500528539272432
+    second: ChrNpcTX_NonHood_Mle_trim_58
+  - first:
+      213: 687794848449367042
+    second: ChrNpcTX_NonHood_Mle_trim_59
+  - first:
+      213: 2520337785516398192
+    second: ChrNpcTX_NonHood_Mle_trim_60
+  - first:
+      213: -1092522757446377294
+    second: ChrNpcTX_NonHood_Mle_trim_61
+  - first:
+      213: -3756007509762624127
+    second: ChrNpcTX_NonHood_Mle_trim_62
+  - first:
+      213: -1551759908518498775
+    second: ChrNpcTX_NonHood_Mle_trim_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6242adafd887987f0800000000000000
+      internalID: -609823723337669594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 455
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d1ddc104794c90800000000000000
+      internalID: -7185084179396045313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 454
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac7cdf23aa6ee2e0800000000000000
+      internalID: -2094619527565509471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 454
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7604ca05b35b76df0800000000000000
+      internalID: -186981593151422361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 453
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c4487fb4f4ae670800000000000000
+      internalID: 8568748428719574147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 439
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11179e46c2e45d930800000000000000
+      internalID: 4167322982779810065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 439
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a726f0ef4edee20800000000000000
+      internalID: 3381610675056048679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 439
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba637a1ae786190800000000000000
+      internalID: -7968980307871880283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 437
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b532fc712c88578d0800000000000000
+      internalID: -2849220822037486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 479
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed38aee8495e044e0800000000000000
+      internalID: -1999345808336845858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 441
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ccd2018263e2a0800000000000000
+      internalID: -6709410713613581774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 363
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc60d21bed8802f0800000000000000
+      internalID: -1006398475944825614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 365
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd14e65dbcbc6a0800000000000000
+      internalID: -6427819925602968245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 363
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bab2ffb3f30c3c30800000000000000
+      internalID: 4340348486310607542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 361
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc40230adeeb7de0800000000000000
+      internalID: -1334210244462490404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 363
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb03852a35377610800000000000000
+      internalID: 1618821114916703163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 361
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f5e434f5603730800000000000000
+      internalID: 3976790570502059964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 361
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae3949181f749a0800000000000000
+      internalID: -6248760419107476784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c8709bd48b2710800000000000000
+      internalID: 1669574165427439686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ad044d3aea71a0800000000000000
+      internalID: -6810873937588803607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca8d70c57105380800000000000000
+      internalID: -8984655572568069045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a85d6cab8c0ee30800000000000000
+      internalID: 4530841929660074528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 359
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e3036a15fb57e0800000000000000
+      internalID: -1775556134388374186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f93558ee1f7280800000000000000
+      internalID: -9043475543525559699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 281
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c0c152b15021b0800000000000000
+      internalID: -5683452903423949622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d6d7a032a9f7d90800000000000000
+      internalID: -7097785012422087350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d749bbd8342eb0800000000000000
+      internalID: -4745605590984174255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda4b01ba14593b0800000000000000
+      internalID: -5506422766415073803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb688cc2f27be58d0800000000000000
+      internalID: -2855643700463630658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b9b25cc30dc320800000000000000
+      internalID: 2579722337649276094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f930a98b5beb5220800000000000000
+      internalID: 2475831198553750006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a509975ef8aa8960800000000000000
+      internalID: 7605076731113309604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 279
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29158406bc5587f10800000000000000
+      internalID: 2267656744363118994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 281
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973068e4d12da640800000000000000
+      internalID: 5092763951941302169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 281
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b199bfd3ae70660800000000000000
+      internalID: 7352102468640643995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6984ab067917f0800000000000000
+      internalID: -641351679546398068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 201
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e393c28ecbde10800000000000000
+      internalID: 2223597902059792444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770fb25697b055e00800000000000000
+      internalID: 1032744305567723639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10784f88dcba21fc0800000000000000
+      internalID: -3525566659023304959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1413935ef3f58c50800000000000000
+      internalID: 6667003097041277982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d7cf263fada8060800000000000000
+      internalID: 6956613313299774866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648dd92eaa7f58850800000000000000
+      internalID: 6378776760558671942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 199
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874d784ed0c79450800000000000000
+      internalID: 6095552681600698248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 201
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe255cd4a993f4dd0800000000000000
+      internalID: -2499715933274811665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 199
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916b360af36281c10800000000000000
+      internalID: 2024410087218722329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 199
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d0453163cc3810800000000000000
+      internalID: 1746485577785594764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 199
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19680c0518ab4a600800000000000000
+      internalID: 478712524976457361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106c057204af01860800000000000000
+      internalID: 7498768533016331777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 125
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd292ca69811a0740800000000000000
+      internalID: 5118923208359318239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 119
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d582530e6515dd30800000000000000
+      internalID: 4455490968599299540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 119
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd175ba00de48f30800000000000000
+      internalID: 4577043708445662673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 123
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f35be4b79bbb4d0800000000000000
+      internalID: -3117694377771319549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 121
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136f4b2f2e5f9850800000000000000
+      internalID: 6385926353317749535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 124
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a334798003fcd0800000000000000
+      internalID: -2525674375664655888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 117
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe86e1995809f20800000000000000
+      internalID: 3427386209115630531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 121
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229049e648435fe50800000000000000
+      internalID: 6842432952254859554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 117
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51032e92035fa7ab0800000000000000
+      internalID: -5009422048286330859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba06970cdb78985c0800000000000000
+      internalID: -4212686727380639573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f40b1c8a9b0b4c40800000000000000
+      internalID: 5497500528539272432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c0b2445c98b8900800000000000000
+      internalID: 687794848449367042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07613b3dcd90af220800000000000000
+      internalID: 2520337785516398192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 41
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e06d275496d0f0800000000000000
+      internalID: -1092522757446377294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 37
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18536eee11bffdbc0800000000000000
+      internalID: -3756007509762624127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrNpcTX_NonHood_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 37
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eef04b59a077ae0800000000000000
+      internalID: -1551759908518498775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrNpcTX_NonHood_Mle_trim_0: -609823723337669594
+      ChrNpcTX_NonHood_Mle_trim_1: -7185084179396045313
+      ChrNpcTX_NonHood_Mle_trim_10: -6709410713613581774
+      ChrNpcTX_NonHood_Mle_trim_11: -1006398475944825614
+      ChrNpcTX_NonHood_Mle_trim_12: -6427819925602968245
+      ChrNpcTX_NonHood_Mle_trim_13: 4340348486310607542
+      ChrNpcTX_NonHood_Mle_trim_14: -1334210244462490404
+      ChrNpcTX_NonHood_Mle_trim_15: 1618821114916703163
+      ChrNpcTX_NonHood_Mle_trim_16: 3976790570502059964
+      ChrNpcTX_NonHood_Mle_trim_17: -6248760419107476784
+      ChrNpcTX_NonHood_Mle_trim_18: 1669574165427439686
+      ChrNpcTX_NonHood_Mle_trim_19: -6810873937588803607
+      ChrNpcTX_NonHood_Mle_trim_2: -2094619527565509471
+      ChrNpcTX_NonHood_Mle_trim_20: -8984655572568069045
+      ChrNpcTX_NonHood_Mle_trim_21: 4530841929660074528
+      ChrNpcTX_NonHood_Mle_trim_22: -1775556134388374186
+      ChrNpcTX_NonHood_Mle_trim_23: -9043475543525559699
+      ChrNpcTX_NonHood_Mle_trim_24: -5683452903423949622
+      ChrNpcTX_NonHood_Mle_trim_25: -7097785012422087350
+      ChrNpcTX_NonHood_Mle_trim_26: -4745605590984174255
+      ChrNpcTX_NonHood_Mle_trim_27: -5506422766415073803
+      ChrNpcTX_NonHood_Mle_trim_28: -2855643700463630658
+      ChrNpcTX_NonHood_Mle_trim_29: 2579722337649276094
+      ChrNpcTX_NonHood_Mle_trim_3: -186981593151422361
+      ChrNpcTX_NonHood_Mle_trim_30: 2475831198553750006
+      ChrNpcTX_NonHood_Mle_trim_31: 7605076731113309604
+      ChrNpcTX_NonHood_Mle_trim_32: 2267656744363118994
+      ChrNpcTX_NonHood_Mle_trim_33: 5092763951941302169
+      ChrNpcTX_NonHood_Mle_trim_34: 7352102468640643995
+      ChrNpcTX_NonHood_Mle_trim_35: -641351679546398068
+      ChrNpcTX_NonHood_Mle_trim_36: 2223597902059792444
+      ChrNpcTX_NonHood_Mle_trim_37: 1032744305567723639
+      ChrNpcTX_NonHood_Mle_trim_38: -3525566659023304959
+      ChrNpcTX_NonHood_Mle_trim_39: 6667003097041277982
+      ChrNpcTX_NonHood_Mle_trim_4: 8568748428719574147
+      ChrNpcTX_NonHood_Mle_trim_40: 6956613313299774866
+      ChrNpcTX_NonHood_Mle_trim_41: 6378776760558671942
+      ChrNpcTX_NonHood_Mle_trim_42: 6095552681600698248
+      ChrNpcTX_NonHood_Mle_trim_43: -2499715933274811665
+      ChrNpcTX_NonHood_Mle_trim_44: 2024410087218722329
+      ChrNpcTX_NonHood_Mle_trim_45: 1746485577785594764
+      ChrNpcTX_NonHood_Mle_trim_46: 478712524976457361
+      ChrNpcTX_NonHood_Mle_trim_47: 7498768533016331777
+      ChrNpcTX_NonHood_Mle_trim_48: 5118923208359318239
+      ChrNpcTX_NonHood_Mle_trim_49: 4455490968599299540
+      ChrNpcTX_NonHood_Mle_trim_5: 4167322982779810065
+      ChrNpcTX_NonHood_Mle_trim_50: 4577043708445662673
+      ChrNpcTX_NonHood_Mle_trim_51: -3117694377771319549
+      ChrNpcTX_NonHood_Mle_trim_52: 6385926353317749535
+      ChrNpcTX_NonHood_Mle_trim_53: -2525674375664655888
+      ChrNpcTX_NonHood_Mle_trim_54: 3427386209115630531
+      ChrNpcTX_NonHood_Mle_trim_55: 6842432952254859554
+      ChrNpcTX_NonHood_Mle_trim_56: -5009422048286330859
+      ChrNpcTX_NonHood_Mle_trim_57: -4212686727380639573
+      ChrNpcTX_NonHood_Mle_trim_58: 5497500528539272432
+      ChrNpcTX_NonHood_Mle_trim_59: 687794848449367042
+      ChrNpcTX_NonHood_Mle_trim_6: 3381610675056048679
+      ChrNpcTX_NonHood_Mle_trim_60: 2520337785516398192
+      ChrNpcTX_NonHood_Mle_trim_61: -1092522757446377294
+      ChrNpcTX_NonHood_Mle_trim_62: -3756007509762624127
+      ChrNpcTX_NonHood_Mle_trim_63: -1551759908518498775
+      ChrNpcTX_NonHood_Mle_trim_7: -7968980307871880283
+      ChrNpcTX_NonHood_Mle_trim_8: -2849220822037486757
+      ChrNpcTX_NonHood_Mle_trim_9: -1999345808336845858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

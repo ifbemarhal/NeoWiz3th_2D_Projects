@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: ad2ebf505139c9a40877b44d89d01580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7117363671167955105
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_0
+  - first:
+      213: -6516538805936260438
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_1
+  - first:
+      213: -4324827418982248379
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_2
+  - first:
+      213: 4975615771157898189
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_3
+  - first:
+      213: -3607597123130284046
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_4
+  - first:
+      213: 2370896924341552640
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_5
+  - first:
+      213: -2532527025019783937
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_6
+  - first:
+      213: -8229483009321781306
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_7
+  - first:
+      213: 62098582856506138
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_8
+  - first:
+      213: -4551055715955863797
+    second: ChrEvcTX_KenKuKing_Mle_trimBtl_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07c3dac84f5c260800000000000000
+      internalID: 7117363671167955105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 431
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaafe1b6b7a9095a0800000000000000
+      internalID: -6516538805936260438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 419
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54091b850602bf3c0800000000000000
+      internalID: -4324827418982248379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 413
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3a2b29e20fc0540800000000000000
+      internalID: 4975615771157898189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 327
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72917c78d3fedc0800000000000000
+      internalID: -3607597123130284046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 345
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c17ee03e17e020800000000000000
+      internalID: 2370896924341552640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff47e91b618aadcd0800000000000000
+      internalID: -2532527025019783937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 259
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c733400ec00bcd80800000000000000
+      internalID: -8229483009321781306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9734055e9cd000800000000000000
+      internalID: 62098582856506138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuKing_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 187
+        width: 136
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f807950f667d0c0800000000000000
+      internalID: -4551055715955863797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenKuKing_Mle_trimBtl_0: 7117363671167955105
+      ChrEvcTX_KenKuKing_Mle_trimBtl_1: -6516538805936260438
+      ChrEvcTX_KenKuKing_Mle_trimBtl_2: -4324827418982248379
+      ChrEvcTX_KenKuKing_Mle_trimBtl_3: 4975615771157898189
+      ChrEvcTX_KenKuKing_Mle_trimBtl_4: -3607597123130284046
+      ChrEvcTX_KenKuKing_Mle_trimBtl_5: 2370896924341552640
+      ChrEvcTX_KenKuKing_Mle_trimBtl_6: -2532527025019783937
+      ChrEvcTX_KenKuKing_Mle_trimBtl_7: -8229483009321781306
+      ChrEvcTX_KenKuKing_Mle_trimBtl_8: 62098582856506138
+      ChrEvcTX_KenKuKing_Mle_trimBtl_9: -4551055715955863797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

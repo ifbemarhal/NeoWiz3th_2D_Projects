@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 0e2d641303f7c2944a0d2f5eb14a0a18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1356741554343196409
+    second: ChrEvcTX_TouPirlo_Mle_trim_0
+  - first:
+      213: 1017294752625745668
+    second: ChrEvcTX_TouPirlo_Mle_trim_1
+  - first:
+      213: 7669647890604737127
+    second: ChrEvcTX_TouPirlo_Mle_trim_2
+  - first:
+      213: -7405983301384202547
+    second: ChrEvcTX_TouPirlo_Mle_trim_3
+  - first:
+      213: -1900230806292270119
+    second: ChrEvcTX_TouPirlo_Mle_trim_4
+  - first:
+      213: 923185314511057265
+    second: ChrEvcTX_TouPirlo_Mle_trim_5
+  - first:
+      213: -4089656318280309972
+    second: ChrEvcTX_TouPirlo_Mle_trim_6
+  - first:
+      213: -5041360897372146848
+    second: ChrEvcTX_TouPirlo_Mle_trim_7
+  - first:
+      213: 8731795905438383821
+    second: ChrEvcTX_TouPirlo_Mle_trim_8
+  - first:
+      213: -8048148515421465871
+    second: ChrEvcTX_TouPirlo_Mle_trim_9
+  - first:
+      213: -810342001526515674
+    second: ChrEvcTX_TouPirlo_Mle_trim_10
+  - first:
+      213: -542424486450926151
+    second: ChrEvcTX_TouPirlo_Mle_trim_11
+  - first:
+      213: -6413955035121077304
+    second: ChrEvcTX_TouPirlo_Mle_trim_12
+  - first:
+      213: 875229143747560091
+    second: ChrEvcTX_TouPirlo_Mle_trim_13
+  - first:
+      213: -7424953604840754231
+    second: ChrEvcTX_TouPirlo_Mle_trim_14
+  - first:
+      213: 7196030637144515332
+    second: ChrEvcTX_TouPirlo_Mle_trim_15
+  - first:
+      213: 6461836654183347355
+    second: ChrEvcTX_TouPirlo_Mle_trim_16
+  - first:
+      213: -8665282991481893398
+    second: ChrEvcTX_TouPirlo_Mle_trim_17
+  - first:
+      213: -8435647360078893262
+    second: ChrEvcTX_TouPirlo_Mle_trim_18
+  - first:
+      213: 1827298050080613424
+    second: ChrEvcTX_TouPirlo_Mle_trim_19
+  - first:
+      213: -6994721126808473075
+    second: ChrEvcTX_TouPirlo_Mle_trim_20
+  - first:
+      213: 3285028153206630108
+    second: ChrEvcTX_TouPirlo_Mle_trim_21
+  - first:
+      213: -8765338227630166088
+    second: ChrEvcTX_TouPirlo_Mle_trim_22
+  - first:
+      213: -5314246020306368485
+    second: ChrEvcTX_TouPirlo_Mle_trim_23
+  - first:
+      213: 3077303107043706271
+    second: ChrEvcTX_TouPirlo_Mle_trim_24
+  - first:
+      213: 4087729899581840649
+    second: ChrEvcTX_TouPirlo_Mle_trim_25
+  - first:
+      213: 774437427691074749
+    second: ChrEvcTX_TouPirlo_Mle_trim_26
+  - first:
+      213: 3957083258836131975
+    second: ChrEvcTX_TouPirlo_Mle_trim_27
+  - first:
+      213: -1057106847726844113
+    second: ChrEvcTX_TouPirlo_Mle_trim_28
+  - first:
+      213: -8020102128859617703
+    second: ChrEvcTX_TouPirlo_Mle_trim_29
+  - first:
+      213: 3474134878495015399
+    second: ChrEvcTX_TouPirlo_Mle_trim_30
+  - first:
+      213: -7162574464145412193
+    second: ChrEvcTX_TouPirlo_Mle_trim_31
+  - first:
+      213: 6349965369628566949
+    second: ChrEvcTX_TouPirlo_Mle_trim_32
+  - first:
+      213: -8474349425273598624
+    second: ChrEvcTX_TouPirlo_Mle_trim_33
+  - first:
+      213: -5238571466078672208
+    second: ChrEvcTX_TouPirlo_Mle_trim_34
+  - first:
+      213: 8314504703040289960
+    second: ChrEvcTX_TouPirlo_Mle_trim_35
+  - first:
+      213: -9007222113609380077
+    second: ChrEvcTX_TouPirlo_Mle_trim_36
+  - first:
+      213: -7728277719123718156
+    second: ChrEvcTX_TouPirlo_Mle_trim_37
+  - first:
+      213: 2461337293897313762
+    second: ChrEvcTX_TouPirlo_Mle_trim_38
+  - first:
+      213: 1601709563121124652
+    second: ChrEvcTX_TouPirlo_Mle_trim_39
+  - first:
+      213: 4018391268179986102
+    second: ChrEvcTX_TouPirlo_Mle_trim_40
+  - first:
+      213: -6904275611611955403
+    second: ChrEvcTX_TouPirlo_Mle_trim_41
+  - first:
+      213: -4292675443171634314
+    second: ChrEvcTX_TouPirlo_Mle_trim_42
+  - first:
+      213: -5906721804074178192
+    second: ChrEvcTX_TouPirlo_Mle_trim_43
+  - first:
+      213: -8820919108758985623
+    second: ChrEvcTX_TouPirlo_Mle_trim_44
+  - first:
+      213: 7251470284452827713
+    second: ChrEvcTX_TouPirlo_Mle_trim_45
+  - first:
+      213: 8501669619819357163
+    second: ChrEvcTX_TouPirlo_Mle_trim_46
+  - first:
+      213: 6892604737746671130
+    second: ChrEvcTX_TouPirlo_Mle_trim_47
+  - first:
+      213: -2024332011783794321
+    second: ChrEvcTX_TouPirlo_Mle_trim_48
+  - first:
+      213: 7418142579083342340
+    second: ChrEvcTX_TouPirlo_Mle_trim_49
+  - first:
+      213: -3468524763987736138
+    second: ChrEvcTX_TouPirlo_Mle_trim_50
+  - first:
+      213: -8873603392799730935
+    second: ChrEvcTX_TouPirlo_Mle_trim_51
+  - first:
+      213: 4329277116114789659
+    second: ChrEvcTX_TouPirlo_Mle_trim_52
+  - first:
+      213: 5324093123628286841
+    second: ChrEvcTX_TouPirlo_Mle_trim_53
+  - first:
+      213: 6786113023828445202
+    second: ChrEvcTX_TouPirlo_Mle_trim_54
+  - first:
+      213: -8682164281278823415
+    second: ChrEvcTX_TouPirlo_Mle_trim_55
+  - first:
+      213: 8745348894419611690
+    second: ChrEvcTX_TouPirlo_Mle_trim_56
+  - first:
+      213: -2049007451467972821
+    second: ChrEvcTX_TouPirlo_Mle_trim_57
+  - first:
+      213: 3691759619754760106
+    second: ChrEvcTX_TouPirlo_Mle_trim_58
+  - first:
+      213: 3937963847544848494
+    second: ChrEvcTX_TouPirlo_Mle_trim_59
+  - first:
+      213: -5619708672136541
+    second: ChrEvcTX_TouPirlo_Mle_trim_60
+  - first:
+      213: 1724224991160754053
+    second: ChrEvcTX_TouPirlo_Mle_trim_61
+  - first:
+      213: 1551930296758621342
+    second: ChrEvcTX_TouPirlo_Mle_trim_62
+  - first:
+      213: -6180696950285613275
+    second: ChrEvcTX_TouPirlo_Mle_trim_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709cc51aeb2eb2de0800000000000000
+      internalID: -1356741554343196409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 433
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f502a00382e1e00800000000000000
+      internalID: 1017294752625745668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 455
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c1d7fe10107a60800000000000000
+      internalID: 7669647890604737127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 437
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6158c0d69a83990800000000000000
+      internalID: -7405983301384202547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 437
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3f1b7462601a5e0800000000000000
+      internalID: -1900230806292270119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 435
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171f94df620dfcc00800000000000000
+      internalID: 923185314511057265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 433
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2368771f3f9e37c0800000000000000
+      internalID: -4089656318280309972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 437
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063b69f59fc790ab0800000000000000
+      internalID: -5041360897372146848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 433
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7ddaec129d2970800000000000000
+      internalID: 8731795905438383821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 437
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f257bee09b3f4090800000000000000
+      internalID: -8048148515421465871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 433
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628de643e3611c4f0800000000000000
+      internalID: -810342001526515674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 439
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6e9fadcbe878f0800000000000000
+      internalID: -542424486450926151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 437
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b74ec0ed0df6a0800000000000000
+      internalID: -6413955035121077304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 439
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b928422e440752c00800000000000000
+      internalID: 875229143747560091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 437
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f5b5190445f890800000000000000
+      internalID: -7424953604840754231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403a3dffcbf6dd360800000000000000
+      internalID: 7196030637144515332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 355
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b947231633e0da950800000000000000
+      internalID: 6461836654183347355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 357
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcc76a70bbeb780800000000000000
+      internalID: -8665282991481893398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 357
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f29048b6f8eea80800000000000000
+      internalID: -8435647360078893262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 359
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a1d525eddb5910800000000000000
+      internalID: 1827298050080613424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 359
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0239add132cdee90800000000000000
+      internalID: -6994721126808473075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 353
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e90553b3c69d20800000000000000
+      internalID: 3285028153206630108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 359
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa3fd92534b5680800000000000000
+      internalID: -8765338227630166088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 359
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b180b9e86610046b0800000000000000
+      internalID: -5314246020306368485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 357
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95cb812fd6c4ba20800000000000000
+      internalID: 3077303107043706271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 355
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d915a9fa88ab830800000000000000
+      internalID: 4087729899581840649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 355
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db43b42ccba5fba00800000000000000
+      internalID: 774437427691074749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 355
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780a29522426ae630800000000000000
+      internalID: 3957083258836131975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27cb9b3ce66451f0800000000000000
+      internalID: -1057106847726844113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e7fa2b9fd2b090800000000000000
+      internalID: -8020102128859617703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18d76e34b963030800000000000000
+      internalID: 3474134878495015399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f245b497c699c90800000000000000
+      internalID: -7162574464145412193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52eb03cdb9f1850800000000000000
+      internalID: 6349965369628566949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d0804c810156a80800000000000000
+      internalID: -8474349425273598624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba22e9b10bdc47b0800000000000000
+      internalID: -5238571466078672208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf70ca9fd036370800000000000000
+      internalID: 8314504703040289960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 269
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0541c53beff280800000000000000
+      internalID: -9007222113609380077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff80125c54afb490800000000000000
+      internalID: -7728277719123718156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edab236a3d682220800000000000000
+      internalID: 2461337293897313762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 269
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254e278c5a6a3610800000000000000
+      internalID: 1601709563121124652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6466c619134c730800000000000000
+      internalID: 4018391268179986102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff97269e51f20a0800000000000000
+      internalID: -6904275611611955403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67356b19d6a5d64c0800000000000000
+      internalID: -4292675443171634314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079aa1970db170ea0800000000000000
+      internalID: -5906721804074178192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96427f94eccc59580800000000000000
+      internalID: -8820919108758985623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429c14cdc562a460800000000000000
+      internalID: 7251470284452827713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32017b97ffbf570800000000000000
+      internalID: 8501669619819357163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16909a8d7377af50800000000000000
+      internalID: 6892604737746671130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61dc2ab2c028e3e0800000000000000
+      internalID: -2024332011783794321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40276776f5982f660800000000000000
+      internalID: 7418142579083342340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 189
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b98ddbaa135ddfc0800000000000000
+      internalID: -3468524763987736138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 191
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90398768ab0aad480800000000000000
+      internalID: -8873603392799730935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15ef30899ea41c30800000000000000
+      internalID: 4329277116114789659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 111
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c6f8dc7af2e940800000000000000
+      internalID: 5324093123628286841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21842fe37dd1d2e50800000000000000
+      internalID: 6786113023828445202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 115
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048ac41691c28780800000000000000
+      internalID: -8682164281278823415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 113
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a207cb01c78bd5970800000000000000
+      internalID: 8745348894419611690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 113
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7f1934967093e0800000000000000
+      internalID: -2049007451467972821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa71d9b70d3cb3330800000000000000
+      internalID: 3691759619754760106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60cd3f414576a630800000000000000
+      internalID: 3937963847544848494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 115
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa2bdc97e80ceff0800000000000000
+      internalID: -5619708672136541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 115
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fdcfe7e7dade710800000000000000
+      internalID: 1724224991160754053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d676e160998510800000000000000
+      internalID: 1551930296758621342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouPirlo_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c2e5ded0c93aa0800000000000000
+      internalID: -6180696950285613275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_TouPirlo_Mle_trim_0: -1356741554343196409
+      ChrEvcTX_TouPirlo_Mle_trim_1: 1017294752625745668
+      ChrEvcTX_TouPirlo_Mle_trim_10: -810342001526515674
+      ChrEvcTX_TouPirlo_Mle_trim_11: -542424486450926151
+      ChrEvcTX_TouPirlo_Mle_trim_12: -6413955035121077304
+      ChrEvcTX_TouPirlo_Mle_trim_13: 875229143747560091
+      ChrEvcTX_TouPirlo_Mle_trim_14: -7424953604840754231
+      ChrEvcTX_TouPirlo_Mle_trim_15: 7196030637144515332
+      ChrEvcTX_TouPirlo_Mle_trim_16: 6461836654183347355
+      ChrEvcTX_TouPirlo_Mle_trim_17: -8665282991481893398
+      ChrEvcTX_TouPirlo_Mle_trim_18: -8435647360078893262
+      ChrEvcTX_TouPirlo_Mle_trim_19: 1827298050080613424
+      ChrEvcTX_TouPirlo_Mle_trim_2: 7669647890604737127
+      ChrEvcTX_TouPirlo_Mle_trim_20: -6994721126808473075
+      ChrEvcTX_TouPirlo_Mle_trim_21: 3285028153206630108
+      ChrEvcTX_TouPirlo_Mle_trim_22: -8765338227630166088
+      ChrEvcTX_TouPirlo_Mle_trim_23: -5314246020306368485
+      ChrEvcTX_TouPirlo_Mle_trim_24: 3077303107043706271
+      ChrEvcTX_TouPirlo_Mle_trim_25: 4087729899581840649
+      ChrEvcTX_TouPirlo_Mle_trim_26: 774437427691074749
+      ChrEvcTX_TouPirlo_Mle_trim_27: 3957083258836131975
+      ChrEvcTX_TouPirlo_Mle_trim_28: -1057106847726844113
+      ChrEvcTX_TouPirlo_Mle_trim_29: -8020102128859617703
+      ChrEvcTX_TouPirlo_Mle_trim_3: -7405983301384202547
+      ChrEvcTX_TouPirlo_Mle_trim_30: 3474134878495015399
+      ChrEvcTX_TouPirlo_Mle_trim_31: -7162574464145412193
+      ChrEvcTX_TouPirlo_Mle_trim_32: 6349965369628566949
+      ChrEvcTX_TouPirlo_Mle_trim_33: -8474349425273598624
+      ChrEvcTX_TouPirlo_Mle_trim_34: -5238571466078672208
+      ChrEvcTX_TouPirlo_Mle_trim_35: 8314504703040289960
+      ChrEvcTX_TouPirlo_Mle_trim_36: -9007222113609380077
+      ChrEvcTX_TouPirlo_Mle_trim_37: -7728277719123718156
+      ChrEvcTX_TouPirlo_Mle_trim_38: 2461337293897313762
+      ChrEvcTX_TouPirlo_Mle_trim_39: 1601709563121124652
+      ChrEvcTX_TouPirlo_Mle_trim_4: -1900230806292270119
+      ChrEvcTX_TouPirlo_Mle_trim_40: 4018391268179986102
+      ChrEvcTX_TouPirlo_Mle_trim_41: -6904275611611955403
+      ChrEvcTX_TouPirlo_Mle_trim_42: -4292675443171634314
+      ChrEvcTX_TouPirlo_Mle_trim_43: -5906721804074178192
+      ChrEvcTX_TouPirlo_Mle_trim_44: -8820919108758985623
+      ChrEvcTX_TouPirlo_Mle_trim_45: 7251470284452827713
+      ChrEvcTX_TouPirlo_Mle_trim_46: 8501669619819357163
+      ChrEvcTX_TouPirlo_Mle_trim_47: 6892604737746671130
+      ChrEvcTX_TouPirlo_Mle_trim_48: -2024332011783794321
+      ChrEvcTX_TouPirlo_Mle_trim_49: 7418142579083342340
+      ChrEvcTX_TouPirlo_Mle_trim_5: 923185314511057265
+      ChrEvcTX_TouPirlo_Mle_trim_50: -3468524763987736138
+      ChrEvcTX_TouPirlo_Mle_trim_51: -8873603392799730935
+      ChrEvcTX_TouPirlo_Mle_trim_52: 4329277116114789659
+      ChrEvcTX_TouPirlo_Mle_trim_53: 5324093123628286841
+      ChrEvcTX_TouPirlo_Mle_trim_54: 6786113023828445202
+      ChrEvcTX_TouPirlo_Mle_trim_55: -8682164281278823415
+      ChrEvcTX_TouPirlo_Mle_trim_56: 8745348894419611690
+      ChrEvcTX_TouPirlo_Mle_trim_57: -2049007451467972821
+      ChrEvcTX_TouPirlo_Mle_trim_58: 3691759619754760106
+      ChrEvcTX_TouPirlo_Mle_trim_59: 3937963847544848494
+      ChrEvcTX_TouPirlo_Mle_trim_6: -4089656318280309972
+      ChrEvcTX_TouPirlo_Mle_trim_60: -5619708672136541
+      ChrEvcTX_TouPirlo_Mle_trim_61: 1724224991160754053
+      ChrEvcTX_TouPirlo_Mle_trim_62: 1551930296758621342
+      ChrEvcTX_TouPirlo_Mle_trim_63: -6180696950285613275
+      ChrEvcTX_TouPirlo_Mle_trim_7: -5041360897372146848
+      ChrEvcTX_TouPirlo_Mle_trim_8: 8731795905438383821
+      ChrEvcTX_TouPirlo_Mle_trim_9: -8048148515421465871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c1801119f1a942745b6e019c6ee3dbc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8608156432815368804
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_0
+  - first:
+      213: 2862997110945551827
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_1
+  - first:
+      213: -7300740546640898971
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_2
+  - first:
+      213: -8211546403935846485
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_3
+  - first:
+      213: -4472920888263820903
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_4
+  - first:
+      213: -5937066710967667717
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_5
+  - first:
+      213: -850754818656662236
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_6
+  - first:
+      213: 5435326028939006227
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_7
+  - first:
+      213: -6714079140909892612
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_8
+  - first:
+      213: 3343670326928724791
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_9
+  - first:
+      213: -9128045995701307935
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_10
+  - first:
+      213: 4614711086416848727
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_11
+  - first:
+      213: 6811764437454698494
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_12
+  - first:
+      213: -4677259697460919953
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_13
+  - first:
+      213: 6175113008945542122
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_14
+  - first:
+      213: -7444931881583742180
+    second: ChrEvcTX_KenLuo_Mlb_trimUnq_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 56
+        height: 110
+      alignment: 9
+      pivot: {x: 0.40858316, y: 0.57562643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a24fceaa0567770800000000000000
+      internalID: 8608156432815368804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 401
+        width: 58
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3896692, y: 0.57562643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d511ee14b86bb720800000000000000
+      internalID: 2862997110945551827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 401
+        width: 60
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43600795, y: 0.4301902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5649d20672f8eaa90800000000000000
+      internalID: -7300740546640898971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 415
+        width: 68
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49058914, y: 0.4200096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf74c06d0aba0e80800000000000000
+      internalID: -8211546403935846485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 401
+        width: 118
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51626843, y: 0.632595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9993c92962efce1c0800000000000000
+      internalID: -4472920888263820903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 401
+        width: 116
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.65125287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b9f4484d4b9da0800000000000000
+      internalID: -5937066710967667717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 283
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d840bfff28134f0800000000000000
+      internalID: -850754818656662236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 281
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3111859c9382e6b40800000000000000
+      internalID: 5435326028939006227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 281
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb434189cc2d2a0800000000000000
+      internalID: -6714079140909892612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 281
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d992627a176e20800000000000000
+      internalID: 3343670326928724791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 279
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5fbc4878aa25180800000000000000
+      internalID: -9128045995701307935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 279
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757eee6884fba0040800000000000000
+      internalID: 4614711086416848727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef730246aaf388e50800000000000000
+      internalID: 6811764437454698494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 193
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61479a1619071fb0800000000000000
+      internalID: -4677259697460919953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 193
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b712809862b550800000000000000
+      internalID: 6175113008945542122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenLuo_Mlb_trimUnq_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 193
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13783d06e94ea890800000000000000
+      internalID: -7444931881583742180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c1961061e9dfee4ab971da3ffc9e93c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenLuo_Mlb_trimUnq_0: 8608156432815368804
+      ChrEvcTX_KenLuo_Mlb_trimUnq_1: 2862997110945551827
+      ChrEvcTX_KenLuo_Mlb_trimUnq_10: -9128045995701307935
+      ChrEvcTX_KenLuo_Mlb_trimUnq_11: 4614711086416848727
+      ChrEvcTX_KenLuo_Mlb_trimUnq_12: 6811764437454698494
+      ChrEvcTX_KenLuo_Mlb_trimUnq_13: -4677259697460919953
+      ChrEvcTX_KenLuo_Mlb_trimUnq_14: 6175113008945542122
+      ChrEvcTX_KenLuo_Mlb_trimUnq_15: -7444931881583742180
+      ChrEvcTX_KenLuo_Mlb_trimUnq_2: -7300740546640898971
+      ChrEvcTX_KenLuo_Mlb_trimUnq_3: -8211546403935846485
+      ChrEvcTX_KenLuo_Mlb_trimUnq_4: -4472920888263820903
+      ChrEvcTX_KenLuo_Mlb_trimUnq_5: -5937066710967667717
+      ChrEvcTX_KenLuo_Mlb_trimUnq_6: -850754818656662236
+      ChrEvcTX_KenLuo_Mlb_trimUnq_7: 5435326028939006227
+      ChrEvcTX_KenLuo_Mlb_trimUnq_8: -6714079140909892612
+      ChrEvcTX_KenLuo_Mlb_trimUnq_9: 3343670326928724791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

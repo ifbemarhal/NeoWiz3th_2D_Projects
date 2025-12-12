@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: b883413dbddabb44d80cfa5632bce18a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6905754206797215582
+    second: ChrEvcTX_SinLieza_Fml_trim_0
+  - first:
+      213: 2243586426634549746
+    second: ChrEvcTX_SinLieza_Fml_trim_1
+  - first:
+      213: 7559952874997512761
+    second: ChrEvcTX_SinLieza_Fml_trim_2
+  - first:
+      213: -806739527035964649
+    second: ChrEvcTX_SinLieza_Fml_trim_3
+  - first:
+      213: -226610905753057204
+    second: ChrEvcTX_SinLieza_Fml_trim_4
+  - first:
+      213: -7046821176429079473
+    second: ChrEvcTX_SinLieza_Fml_trim_5
+  - first:
+      213: -879791003999177199
+    second: ChrEvcTX_SinLieza_Fml_trim_6
+  - first:
+      213: 5225369714493068077
+    second: ChrEvcTX_SinLieza_Fml_trim_7
+  - first:
+      213: 6281594111724643878
+    second: ChrEvcTX_SinLieza_Fml_trim_8
+  - first:
+      213: 2134678564388973207
+    second: ChrEvcTX_SinLieza_Fml_trim_9
+  - first:
+      213: -8689704847129235594
+    second: ChrEvcTX_SinLieza_Fml_trim_10
+  - first:
+      213: 4786769705750860349
+    second: ChrEvcTX_SinLieza_Fml_trim_11
+  - first:
+      213: -3416589265167723266
+    second: ChrEvcTX_SinLieza_Fml_trim_12
+  - first:
+      213: -445207816534441027
+    second: ChrEvcTX_SinLieza_Fml_trim_13
+  - first:
+      213: 2283909595412324337
+    second: ChrEvcTX_SinLieza_Fml_trim_14
+  - first:
+      213: 4556565009385295256
+    second: ChrEvcTX_SinLieza_Fml_trim_15
+  - first:
+      213: -4461266003202927816
+    second: ChrEvcTX_SinLieza_Fml_trim_16
+  - first:
+      213: 973913818314186967
+    second: ChrEvcTX_SinLieza_Fml_trim_17
+  - first:
+      213: -102287600407012325
+    second: ChrEvcTX_SinLieza_Fml_trim_18
+  - first:
+      213: 3867724630790114562
+    second: ChrEvcTX_SinLieza_Fml_trim_19
+  - first:
+      213: -931956901201523825
+    second: ChrEvcTX_SinLieza_Fml_trim_20
+  - first:
+      213: -6905730393288730767
+    second: ChrEvcTX_SinLieza_Fml_trim_21
+  - first:
+      213: 6389357938510568363
+    second: ChrEvcTX_SinLieza_Fml_trim_22
+  - first:
+      213: -1947150754933606299
+    second: ChrEvcTX_SinLieza_Fml_trim_23
+  - first:
+      213: -3246235647376603640
+    second: ChrEvcTX_SinLieza_Fml_trim_24
+  - first:
+      213: 8357611926849961572
+    second: ChrEvcTX_SinLieza_Fml_trim_25
+  - first:
+      213: 6757225577733317859
+    second: ChrEvcTX_SinLieza_Fml_trim_26
+  - first:
+      213: -6863203517731387703
+    second: ChrEvcTX_SinLieza_Fml_trim_27
+  - first:
+      213: -2361765999635329851
+    second: ChrEvcTX_SinLieza_Fml_trim_28
+  - first:
+      213: 9006612157185741321
+    second: ChrEvcTX_SinLieza_Fml_trim_29
+  - first:
+      213: -8652246986346123310
+    second: ChrEvcTX_SinLieza_Fml_trim_30
+  - first:
+      213: 8640657050643465201
+    second: ChrEvcTX_SinLieza_Fml_trim_31
+  - first:
+      213: -4578111219025028181
+    second: ChrEvcTX_SinLieza_Fml_trim_32
+  - first:
+      213: 8600652987625222597
+    second: ChrEvcTX_SinLieza_Fml_trim_33
+  - first:
+      213: 338302009806684651
+    second: ChrEvcTX_SinLieza_Fml_trim_34
+  - first:
+      213: 1290986088802205062
+    second: ChrEvcTX_SinLieza_Fml_trim_35
+  - first:
+      213: -2922745309088494693
+    second: ChrEvcTX_SinLieza_Fml_trim_36
+  - first:
+      213: -8767189046702525807
+    second: ChrEvcTX_SinLieza_Fml_trim_37
+  - first:
+      213: -9156109003058231100
+    second: ChrEvcTX_SinLieza_Fml_trim_38
+  - first:
+      213: 8666792756542951556
+    second: ChrEvcTX_SinLieza_Fml_trim_39
+  - first:
+      213: -1290321217217798351
+    second: ChrEvcTX_SinLieza_Fml_trim_40
+  - first:
+      213: -1803018473114890582
+    second: ChrEvcTX_SinLieza_Fml_trim_41
+  - first:
+      213: -3213835299588216717
+    second: ChrEvcTX_SinLieza_Fml_trim_42
+  - first:
+      213: 8835725770978408769
+    second: ChrEvcTX_SinLieza_Fml_trim_43
+  - first:
+      213: -7511565509245734898
+    second: ChrEvcTX_SinLieza_Fml_trim_44
+  - first:
+      213: 324187189865890015
+    second: ChrEvcTX_SinLieza_Fml_trim_45
+  - first:
+      213: -37954852486998304
+    second: ChrEvcTX_SinLieza_Fml_trim_46
+  - first:
+      213: 7058035258424546507
+    second: ChrEvcTX_SinLieza_Fml_trim_47
+  - first:
+      213: -6408059832335383962
+    second: ChrEvcTX_SinLieza_Fml_trim_48
+  - first:
+      213: 8261258503476024523
+    second: ChrEvcTX_SinLieza_Fml_trim_49
+  - first:
+      213: -2469735965775775490
+    second: ChrEvcTX_SinLieza_Fml_trim_50
+  - first:
+      213: 5260437369467615290
+    second: ChrEvcTX_SinLieza_Fml_trim_51
+  - first:
+      213: -3338060164601594167
+    second: ChrEvcTX_SinLieza_Fml_trim_52
+  - first:
+      213: -6122946590516783187
+    second: ChrEvcTX_SinLieza_Fml_trim_53
+  - first:
+      213: 6629209283171670238
+    second: ChrEvcTX_SinLieza_Fml_trim_54
+  - first:
+      213: 214088512759045418
+    second: ChrEvcTX_SinLieza_Fml_trim_55
+  - first:
+      213: 5135552500453889561
+    second: ChrEvcTX_SinLieza_Fml_trim_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57be42ecda26df50800000000000000
+      internalID: 6905754206797215582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 435
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b07ec7f1d22f10800000000000000
+      internalID: 2243586426634549746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 435
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7be0e5195ae860800000000000000
+      internalID: 7559952874997512761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71331c8aca2edc4f0800000000000000
+      internalID: -806739527035964649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c480c54f49aeadcf0800000000000000
+      internalID: -226610905753057204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 437
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f449e37c979a43e90800000000000000
+      internalID: -7046821176429079473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 435
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167b024eba5ac3f0800000000000000
+      internalID: -879791003999177199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239174f11e348840800000000000000
+      internalID: 5225369714493068077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62668843094bc2750800000000000000
+      internalID: 6281594111724643878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aab0428d6ef9d10800000000000000
+      internalID: 2134678564388973207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2fd74b77f76780800000000000000
+      internalID: -8689704847129235594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3291ec9fa50e6240800000000000000
+      internalID: 4786769705750860349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d34a4a26d590d0800000000000000
+      internalID: -3416589265167723266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3cc3489dd42d9f0800000000000000
+      internalID: -445207816534441027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff58a52da312bf10800000000000000
+      internalID: 2283909595412324337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d826cfbbb2c3f30800000000000000
+      internalID: 4556565009385295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 353
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8331096f4366612c0800000000000000
+      internalID: -4461266003202927816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0267e2579048d00800000000000000
+      internalID: 973913818314186967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c10d828f9949ef0800000000000000
+      internalID: -102287600407012325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d06434f0beca530800000000000000
+      internalID: 3867724630790114562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bc8e5d2260113f0800000000000000
+      internalID: -931956901201523825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 365
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1771861abcae920a0800000000000000
+      internalID: -6905730393288730767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 363
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab9ebb513f8ba850800000000000000
+      internalID: 6389357938510568363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687c0074b45af4e0800000000000000
+      internalID: -1947150754933606299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 283
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80648e4c0ed03f2d0800000000000000
+      internalID: -3246235647376603640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 281
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb57654c33cf370800000000000000
+      internalID: 8357611926849961572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 277
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46af39cdc76cd50800000000000000
+      internalID: 6757225577733317859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 281
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c86073c001c0a0800000000000000
+      internalID: -6863203517731387703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 281
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc04252652593fd0800000000000000
+      internalID: -2361765999635329851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 279
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90255c2b90aedfc70800000000000000
+      internalID: 9006612157185741321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 281
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df25ed153b0de780800000000000000
+      internalID: -8652246986346123310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 281
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f30491bec7c9e770800000000000000
+      internalID: 8640657050643465201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 279
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab58c72a184770c0800000000000000
+      internalID: -4578111219025028181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 281
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1bdc3f258ab5770800000000000000
+      internalID: 8600652987625222597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 281
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10451b2e3e1b400800000000000000
+      internalID: 338302009806684651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db60102018ae110800000000000000
+      internalID: 1290986088802205062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 205
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b47d270a25077d0800000000000000
+      internalID: -2922745309088494693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 205
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b9983300b45680800000000000000
+      internalID: -8767189046702525807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 203
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c845f37f57fee080800000000000000
+      internalID: -9156109003058231100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480dbabe712a64870800000000000000
+      internalID: 8666792756542951556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f559970bbd71ee0800000000000000
+      internalID: -1290321217217798351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae058260446af6e0800000000000000
+      internalID: -1803018473114890582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ee6992d92663d0800000000000000
+      internalID: -3213835299588216717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149bee766cdce9a70800000000000000
+      internalID: 8835725770978408769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f452a7fe81c790800000000000000
+      internalID: -7511565509245734898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 199
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd040b4188ebf7400800000000000000
+      internalID: 324187189865890015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e692044348297ff0800000000000000
+      internalID: -37954852486998304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 121
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d3962cad23f160800000000000000
+      internalID: 7058035258424546507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662433aa88ff117a0800000000000000
+      internalID: -6408059832335383962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 123
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41d51c6d2e5a270800000000000000
+      internalID: 8261258503476024523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 121
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8bdee693cb9bdd0800000000000000
+      internalID: -2469735965775775490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 121
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38be42aae3d00940800000000000000
+      internalID: 5260437369467615290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_52
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 121
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3a0257f3dca1d0800000000000000
+      internalID: -3338060164601594167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 125
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7de85448ce60ba0800000000000000
+      internalID: -6122946590516783187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_54
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 123
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed85b2158beaffb50800000000000000
+      internalID: 6629209283171670238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 123
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d9e793e5898f200800000000000000
+      internalID: 214088512759045418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trim_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 123
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165ce23ac5254740800000000000000
+      internalID: 5135552500453889561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_SinLieza_Fml_trim_0: 6905754206797215582
+      ChrEvcTX_SinLieza_Fml_trim_1: 2243586426634549746
+      ChrEvcTX_SinLieza_Fml_trim_10: -8689704847129235594
+      ChrEvcTX_SinLieza_Fml_trim_11: 4786769705750860349
+      ChrEvcTX_SinLieza_Fml_trim_12: -3416589265167723266
+      ChrEvcTX_SinLieza_Fml_trim_13: -445207816534441027
+      ChrEvcTX_SinLieza_Fml_trim_14: 2283909595412324337
+      ChrEvcTX_SinLieza_Fml_trim_15: 4556565009385295256
+      ChrEvcTX_SinLieza_Fml_trim_16: -4461266003202927816
+      ChrEvcTX_SinLieza_Fml_trim_17: 973913818314186967
+      ChrEvcTX_SinLieza_Fml_trim_18: -102287600407012325
+      ChrEvcTX_SinLieza_Fml_trim_19: 3867724630790114562
+      ChrEvcTX_SinLieza_Fml_trim_2: 7559952874997512761
+      ChrEvcTX_SinLieza_Fml_trim_20: -931956901201523825
+      ChrEvcTX_SinLieza_Fml_trim_21: -6905730393288730767
+      ChrEvcTX_SinLieza_Fml_trim_22: 6389357938510568363
+      ChrEvcTX_SinLieza_Fml_trim_23: -1947150754933606299
+      ChrEvcTX_SinLieza_Fml_trim_24: -3246235647376603640
+      ChrEvcTX_SinLieza_Fml_trim_25: 8357611926849961572
+      ChrEvcTX_SinLieza_Fml_trim_26: 6757225577733317859
+      ChrEvcTX_SinLieza_Fml_trim_27: -6863203517731387703
+      ChrEvcTX_SinLieza_Fml_trim_28: -2361765999635329851
+      ChrEvcTX_SinLieza_Fml_trim_29: 9006612157185741321
+      ChrEvcTX_SinLieza_Fml_trim_3: -806739527035964649
+      ChrEvcTX_SinLieza_Fml_trim_30: -8652246986346123310
+      ChrEvcTX_SinLieza_Fml_trim_31: 8640657050643465201
+      ChrEvcTX_SinLieza_Fml_trim_32: -4578111219025028181
+      ChrEvcTX_SinLieza_Fml_trim_33: 8600652987625222597
+      ChrEvcTX_SinLieza_Fml_trim_34: 338302009806684651
+      ChrEvcTX_SinLieza_Fml_trim_35: 1290986088802205062
+      ChrEvcTX_SinLieza_Fml_trim_36: -2922745309088494693
+      ChrEvcTX_SinLieza_Fml_trim_37: -8767189046702525807
+      ChrEvcTX_SinLieza_Fml_trim_38: -9156109003058231100
+      ChrEvcTX_SinLieza_Fml_trim_39: 8666792756542951556
+      ChrEvcTX_SinLieza_Fml_trim_4: -226610905753057204
+      ChrEvcTX_SinLieza_Fml_trim_40: -1290321217217798351
+      ChrEvcTX_SinLieza_Fml_trim_41: -1803018473114890582
+      ChrEvcTX_SinLieza_Fml_trim_42: -3213835299588216717
+      ChrEvcTX_SinLieza_Fml_trim_43: 8835725770978408769
+      ChrEvcTX_SinLieza_Fml_trim_44: -7511565509245734898
+      ChrEvcTX_SinLieza_Fml_trim_45: 324187189865890015
+      ChrEvcTX_SinLieza_Fml_trim_46: -37954852486998304
+      ChrEvcTX_SinLieza_Fml_trim_47: 7058035258424546507
+      ChrEvcTX_SinLieza_Fml_trim_48: -6408059832335383962
+      ChrEvcTX_SinLieza_Fml_trim_49: 8261258503476024523
+      ChrEvcTX_SinLieza_Fml_trim_5: -7046821176429079473
+      ChrEvcTX_SinLieza_Fml_trim_50: -2469735965775775490
+      ChrEvcTX_SinLieza_Fml_trim_51: 5260437369467615290
+      ChrEvcTX_SinLieza_Fml_trim_52: -3338060164601594167
+      ChrEvcTX_SinLieza_Fml_trim_53: -6122946590516783187
+      ChrEvcTX_SinLieza_Fml_trim_54: 6629209283171670238
+      ChrEvcTX_SinLieza_Fml_trim_55: 214088512759045418
+      ChrEvcTX_SinLieza_Fml_trim_56: 5135552500453889561
+      ChrEvcTX_SinLieza_Fml_trim_6: -879791003999177199
+      ChrEvcTX_SinLieza_Fml_trim_7: 5225369714493068077
+      ChrEvcTX_SinLieza_Fml_trim_8: 6281594111724643878
+      ChrEvcTX_SinLieza_Fml_trim_9: 2134678564388973207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

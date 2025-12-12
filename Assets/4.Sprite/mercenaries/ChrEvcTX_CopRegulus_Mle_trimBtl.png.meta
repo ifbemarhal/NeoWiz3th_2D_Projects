@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 3a3a9e29c13914d4c899c4024a79cd32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8867772095890056779
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_0
+  - first:
+      213: -2113920793024823178
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_1
+  - first:
+      213: 5503575231912812870
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_2
+  - first:
+      213: -2209776016386333080
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_3
+  - first:
+      213: -2095336768107436095
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_4
+  - first:
+      213: 4955507467449687468
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_5
+  - first:
+      213: -3304741773952294073
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_6
+  - first:
+      213: -9023754775440771234
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_7
+  - first:
+      213: 940603464979292407
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_8
+  - first:
+      213: -7970082735195702128
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_9
+  - first:
+      213: -3237045760360007767
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_10
+  - first:
+      213: 6125278180415621629
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_11
+  - first:
+      213: -652989703825001538
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_12
+  - first:
+      213: 5082808617661780187
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_13
+  - first:
+      213: -1254349265311652643
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_14
+  - first:
+      213: -886807435544011776
+    second: ChrEvcTX_CopRegulus_Mle_trimBtl_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b91a5323485fe480800000000000000
+      internalID: -8867772095890056779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67081702d38d9a2e0800000000000000
+      internalID: -2113920793024823178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412dc4a380a06c40800000000000000
+      internalID: 5503575231912812870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 227
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666d16cb6c4551e0800000000000000
+      internalID: -2209776016386333080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 185
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7242c9f4edbe2e0800000000000000
+      internalID: -2095336768107436095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad522749cf75c440800000000000000
+      internalID: 4955507467449687468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 115
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743ed29add23322d0800000000000000
+      internalID: -3304741773952294073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 115
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e573e9577de25c280800000000000000
+      internalID: -9023754775440771234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 117
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a79c2ed1bd0d00800000000000000
+      internalID: 940603464979292407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 117
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cbf2acaf3946190800000000000000
+      internalID: -7970082735195702128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7be041804b313d0800000000000000
+      internalID: -3237045760360007767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9cf1e4d0c510550800000000000000
+      internalID: 6125278180415621629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f585f25d10f6f0800000000000000
+      internalID: -652989703825001538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd056050283c98640800000000000000
+      internalID: 5082808617661780187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a3d03df7a79ee0800000000000000
+      internalID: -1254349265311652643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_CopRegulus_Mle_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c593cf55d61b3f0800000000000000
+      internalID: -886807435544011776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_CopRegulus_Mle_trimBtl_0: -8867772095890056779
+      ChrEvcTX_CopRegulus_Mle_trimBtl_1: -2113920793024823178
+      ChrEvcTX_CopRegulus_Mle_trimBtl_10: -3237045760360007767
+      ChrEvcTX_CopRegulus_Mle_trimBtl_11: 6125278180415621629
+      ChrEvcTX_CopRegulus_Mle_trimBtl_12: -652989703825001538
+      ChrEvcTX_CopRegulus_Mle_trimBtl_13: 5082808617661780187
+      ChrEvcTX_CopRegulus_Mle_trimBtl_14: -1254349265311652643
+      ChrEvcTX_CopRegulus_Mle_trimBtl_15: -886807435544011776
+      ChrEvcTX_CopRegulus_Mle_trimBtl_2: 5503575231912812870
+      ChrEvcTX_CopRegulus_Mle_trimBtl_3: -2209776016386333080
+      ChrEvcTX_CopRegulus_Mle_trimBtl_4: -2095336768107436095
+      ChrEvcTX_CopRegulus_Mle_trimBtl_5: 4955507467449687468
+      ChrEvcTX_CopRegulus_Mle_trimBtl_6: -3304741773952294073
+      ChrEvcTX_CopRegulus_Mle_trimBtl_7: -9023754775440771234
+      ChrEvcTX_CopRegulus_Mle_trimBtl_8: 940603464979292407
+      ChrEvcTX_CopRegulus_Mle_trimBtl_9: -7970082735195702128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

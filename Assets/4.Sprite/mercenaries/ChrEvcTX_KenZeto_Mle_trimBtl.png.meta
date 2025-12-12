@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: e585d5cc58b3a9f48a75a6b14178b98c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2634293273565927312
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_0
+  - first:
+      213: -8251837461511118427
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_1
+  - first:
+      213: 5061782864462280552
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_2
+  - first:
+      213: 2667335403611429934
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_3
+  - first:
+      213: -7830681569288596111
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_4
+  - first:
+      213: -5865309109561667553
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_5
+  - first:
+      213: -5388055280021905464
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_6
+  - first:
+      213: 5707814408531845546
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_7
+  - first:
+      213: 2556969980964126407
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_8
+  - first:
+      213: -8969962789120832192
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_9
+  - first:
+      213: -722748921198801798
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_10
+  - first:
+      213: 3400228821570281559
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_11
+  - first:
+      213: 9095785105619177
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_12
+  - first:
+      213: -6544182711663462164
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_13
+  - first:
+      213: -7647204380281216611
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_14
+  - first:
+      213: 8744696271048496020
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_15
+  - first:
+      213: 6030513057706279306
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_16
+  - first:
+      213: 977483299483832369
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_17
+  - first:
+      213: -2668357077131515909
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_18
+  - first:
+      213: -3743660202143495992
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_19
+  - first:
+      213: -4988159877487197084
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_20
+  - first:
+      213: 3147512735268934999
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_21
+  - first:
+      213: 8127521136836347592
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_22
+  - first:
+      213: -2834973043278566689
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_23
+  - first:
+      213: 1620106438746314374
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_24
+  - first:
+      213: 826667513941173608
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_25
+  - first:
+      213: -7799084225424914826
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_26
+  - first:
+      213: 6680087581615347426
+    second: ChrEvcTX_KenZeto_Mle_trimBtl_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e6ea893c117bd0800000000000000
+      internalID: -2634293273565927312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 452
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a16e528c859b7d80800000000000000
+      internalID: -8251837461511118427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 452
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fe6e52b01f3640800000000000000
+      internalID: 5061782864462280552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 451
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c151dda67440520800000000000000
+      internalID: 2667335403611429934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175da59f994d35390800000000000000
+      internalID: -7830681569288596111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 451
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d6bac07c3a9ea0800000000000000
+      internalID: -5865309109561667553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 450
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf502c1548c935b0800000000000000
+      internalID: -5388055280021905464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 450
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a56896fa363f40800000000000000
+      internalID: 5707814408531845546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce34b876ae2c7320800000000000000
+      internalID: 2556969980964126407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 386
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d0bf14e5a448380800000000000000
+      internalID: -8969962789120832192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 382
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c062a7fa748f5f0800000000000000
+      internalID: -722748921198801798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 380
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750edb8191a003f20800000000000000
+      internalID: 3400228821570281559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 380
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87c208190502000800000000000000
+      internalID: 9095785105619177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 378
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8fb0e0f746e25a0800000000000000
+      internalID: -6544182711663462164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 378
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e68cf12cafd590800000000000000
+      internalID: -7647204380281216611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 378
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49357885de66b5970800000000000000
+      internalID: 8744696271048496020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8100f9ccafa0b350800000000000000
+      internalID: 6030513057706279306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1305c97c1e7b09d00800000000000000
+      internalID: 977483299483832369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 304
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf72dab306718fad0800000000000000
+      internalID: -2668357077131515909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 304
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8487381e8db0cc0800000000000000
+      internalID: -3743660202143495992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 302
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640583150f76cab0800000000000000
+      internalID: -4988159877487197084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 300
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75519bf08263eab20800000000000000
+      internalID: 3147512735268934999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 296
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60c999961cac070800000000000000
+      internalID: 8127521136836347592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 296
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa297990728a8d0800000000000000
+      internalID: -2834973043278566689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 296
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6861ccbe836cb7610800000000000000
+      internalID: 1620106438746314374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865a1db59b9e87b00800000000000000
+      internalID: 826667513941173608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 214
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6760232e73614c390800000000000000
+      internalID: -7799084225424914826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenZeto_Mle_trimBtl_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 214
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e65eaa434074bc50800000000000000
+      internalID: 6680087581615347426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenZeto_Mle_trimBtl_0: -2634293273565927312
+      ChrEvcTX_KenZeto_Mle_trimBtl_1: -8251837461511118427
+      ChrEvcTX_KenZeto_Mle_trimBtl_10: -722748921198801798
+      ChrEvcTX_KenZeto_Mle_trimBtl_11: 3400228821570281559
+      ChrEvcTX_KenZeto_Mle_trimBtl_12: 9095785105619177
+      ChrEvcTX_KenZeto_Mle_trimBtl_13: -6544182711663462164
+      ChrEvcTX_KenZeto_Mle_trimBtl_14: -7647204380281216611
+      ChrEvcTX_KenZeto_Mle_trimBtl_15: 8744696271048496020
+      ChrEvcTX_KenZeto_Mle_trimBtl_16: 6030513057706279306
+      ChrEvcTX_KenZeto_Mle_trimBtl_17: 977483299483832369
+      ChrEvcTX_KenZeto_Mle_trimBtl_18: -2668357077131515909
+      ChrEvcTX_KenZeto_Mle_trimBtl_19: -3743660202143495992
+      ChrEvcTX_KenZeto_Mle_trimBtl_2: 5061782864462280552
+      ChrEvcTX_KenZeto_Mle_trimBtl_20: -4988159877487197084
+      ChrEvcTX_KenZeto_Mle_trimBtl_21: 3147512735268934999
+      ChrEvcTX_KenZeto_Mle_trimBtl_22: 8127521136836347592
+      ChrEvcTX_KenZeto_Mle_trimBtl_23: -2834973043278566689
+      ChrEvcTX_KenZeto_Mle_trimBtl_24: 1620106438746314374
+      ChrEvcTX_KenZeto_Mle_trimBtl_25: 826667513941173608
+      ChrEvcTX_KenZeto_Mle_trimBtl_26: -7799084225424914826
+      ChrEvcTX_KenZeto_Mle_trimBtl_27: 6680087581615347426
+      ChrEvcTX_KenZeto_Mle_trimBtl_3: 2667335403611429934
+      ChrEvcTX_KenZeto_Mle_trimBtl_4: -7830681569288596111
+      ChrEvcTX_KenZeto_Mle_trimBtl_5: -5865309109561667553
+      ChrEvcTX_KenZeto_Mle_trimBtl_6: -5388055280021905464
+      ChrEvcTX_KenZeto_Mle_trimBtl_7: 5707814408531845546
+      ChrEvcTX_KenZeto_Mle_trimBtl_8: 2556969980964126407
+      ChrEvcTX_KenZeto_Mle_trimBtl_9: -8969962789120832192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

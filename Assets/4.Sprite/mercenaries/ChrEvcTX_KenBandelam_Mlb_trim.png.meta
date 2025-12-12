@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: ac73392db524be04b94101fc47b386a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6168682420981569354
+    second: ChrEvcTX_KenBandelam_Mlb_trim_0
+  - first:
+      213: 678044955721727988
+    second: ChrEvcTX_KenBandelam_Mlb_trim_1
+  - first:
+      213: -6527907600463229077
+    second: ChrEvcTX_KenBandelam_Mlb_trim_2
+  - first:
+      213: 4376919967145714602
+    second: ChrEvcTX_KenBandelam_Mlb_trim_3
+  - first:
+      213: -699192807102089635
+    second: ChrEvcTX_KenBandelam_Mlb_trim_4
+  - first:
+      213: 4861051024032264327
+    second: ChrEvcTX_KenBandelam_Mlb_trim_5
+  - first:
+      213: 3920109681258349805
+    second: ChrEvcTX_KenBandelam_Mlb_trim_6
+  - first:
+      213: 5757858381986879983
+    second: ChrEvcTX_KenBandelam_Mlb_trim_7
+  - first:
+      213: 490089994378819980
+    second: ChrEvcTX_KenBandelam_Mlb_trim_8
+  - first:
+      213: 1299362437842126817
+    second: ChrEvcTX_KenBandelam_Mlb_trim_9
+  - first:
+      213: -2888658899372267378
+    second: ChrEvcTX_KenBandelam_Mlb_trim_10
+  - first:
+      213: 7411590610958653910
+    second: ChrEvcTX_KenBandelam_Mlb_trim_11
+  - first:
+      213: 959146665650598782
+    second: ChrEvcTX_KenBandelam_Mlb_trim_12
+  - first:
+      213: 2667288195938988635
+    second: ChrEvcTX_KenBandelam_Mlb_trim_13
+  - first:
+      213: 2723748123433811088
+    second: ChrEvcTX_KenBandelam_Mlb_trim_14
+  - first:
+      213: -2806138456965044928
+    second: ChrEvcTX_KenBandelam_Mlb_trim_15
+  - first:
+      213: -4560045896742194288
+    second: ChrEvcTX_KenBandelam_Mlb_trim_16
+  - first:
+      213: 3220326704345188388
+    second: ChrEvcTX_KenBandelam_Mlb_trim_17
+  - first:
+      213: -2673223331230819651
+    second: ChrEvcTX_KenBandelam_Mlb_trim_18
+  - first:
+      213: 1252409848445432527
+    second: ChrEvcTX_KenBandelam_Mlb_trim_19
+  - first:
+      213: 8959902824987924540
+    second: ChrEvcTX_KenBandelam_Mlb_trim_20
+  - first:
+      213: -4073617246396974401
+    second: ChrEvcTX_KenBandelam_Mlb_trim_21
+  - first:
+      213: 4041618556701341316
+    second: ChrEvcTX_KenBandelam_Mlb_trim_22
+  - first:
+      213: 7311703521582585453
+    second: ChrEvcTX_KenBandelam_Mlb_trim_23
+  - first:
+      213: 7643425513875569925
+    second: ChrEvcTX_KenBandelam_Mlb_trim_24
+  - first:
+      213: -3438974449311844779
+    second: ChrEvcTX_KenBandelam_Mlb_trim_25
+  - first:
+      213: -7362574966958166618
+    second: ChrEvcTX_KenBandelam_Mlb_trim_26
+  - first:
+      213: 1314176605903189315
+    second: ChrEvcTX_KenBandelam_Mlb_trim_27
+  - first:
+      213: -3488228863131126038
+    second: ChrEvcTX_KenBandelam_Mlb_trim_28
+  - first:
+      213: -9034528501196342745
+    second: ChrEvcTX_KenBandelam_Mlb_trim_29
+  - first:
+      213: -4724431230184401884
+    second: ChrEvcTX_KenBandelam_Mlb_trim_30
+  - first:
+      213: -6381042819193478008
+    second: ChrEvcTX_KenBandelam_Mlb_trim_31
+  - first:
+      213: 2763806313838700747
+    second: ChrEvcTX_KenBandelam_Mlb_trim_32
+  - first:
+      213: -2653280010335005191
+    second: ChrEvcTX_KenBandelam_Mlb_trim_33
+  - first:
+      213: 6355317935008037863
+    second: ChrEvcTX_KenBandelam_Mlb_trim_34
+  - first:
+      213: -4072732023195655628
+    second: ChrEvcTX_KenBandelam_Mlb_trim_35
+  - first:
+      213: 376816206941558805
+    second: ChrEvcTX_KenBandelam_Mlb_trim_36
+  - first:
+      213: -4566369744152295513
+    second: ChrEvcTX_KenBandelam_Mlb_trim_37
+  - first:
+      213: 8455797757492864886
+    second: ChrEvcTX_KenBandelam_Mlb_trim_38
+  - first:
+      213: 710991227114184718
+    second: ChrEvcTX_KenBandelam_Mlb_trim_39
+  - first:
+      213: 2357594123142916811
+    second: ChrEvcTX_KenBandelam_Mlb_trim_40
+  - first:
+      213: -5252916166054346609
+    second: ChrEvcTX_KenBandelam_Mlb_trim_41
+  - first:
+      213: 5053371861706824662
+    second: ChrEvcTX_KenBandelam_Mlb_trim_42
+  - first:
+      213: -6513066428978632084
+    second: ChrEvcTX_KenBandelam_Mlb_trim_43
+  - first:
+      213: -4917119486382318037
+    second: ChrEvcTX_KenBandelam_Mlb_trim_44
+  - first:
+      213: -1084604580053649824
+    second: ChrEvcTX_KenBandelam_Mlb_trim_45
+  - first:
+      213: 2241284327266722921
+    second: ChrEvcTX_KenBandelam_Mlb_trim_46
+  - first:
+      213: -7596463123840922465
+    second: ChrEvcTX_KenBandelam_Mlb_trim_47
+  - first:
+      213: 2921823000017832496
+    second: ChrEvcTX_KenBandelam_Mlb_trim_48
+  - first:
+      213: -86043750987248178
+    second: ChrEvcTX_KenBandelam_Mlb_trim_49
+  - first:
+      213: 5254264541623974386
+    second: ChrEvcTX_KenBandelam_Mlb_trim_50
+  - first:
+      213: -5294475337110858934
+    second: ChrEvcTX_KenBandelam_Mlb_trim_51
+  - first:
+      213: 6985840648119961721
+    second: ChrEvcTX_KenBandelam_Mlb_trim_52
+  - first:
+      213: -2462529566530815586
+    second: ChrEvcTX_KenBandelam_Mlb_trim_53
+  - first:
+      213: -8693660192957329407
+    second: ChrEvcTX_KenBandelam_Mlb_trim_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8623d6500746aa0800000000000000
+      internalID: -6168682420981569354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 435
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff9877b46e86900800000000000000
+      internalID: 678044955721727988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 435
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f01dbaf963865a0800000000000000
+      internalID: -6527907600463229077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 433
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3e80c2581fdbc30800000000000000
+      internalID: 4376919967145714602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 433
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56fb2fa8d7fb46f0800000000000000
+      internalID: -699192807102089635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 433
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fd72c62ce57340800000000000000
+      internalID: 4861051024032264327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 433
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de449f74cf6076630800000000000000
+      internalID: 3920109681258349805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 433
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9555521b508ef40800000000000000
+      internalID: 5757858381986879983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 433
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893ce6d0462dc600800000000000000
+      internalID: 490089994378819980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c01eb043480210800000000000000
+      internalID: 1299362437842126817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 353
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8825a9290c69e7d0800000000000000
+      internalID: -2888658899372267378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99fc274624bd660800000000000000
+      internalID: 7411590610958653910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 353
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ba958fc29f4d00800000000000000
+      internalID: 959146665650598782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 353
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5239887b7c140520800000000000000
+      internalID: 2667288195938988635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 352
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb8eabc72bcc520800000000000000
+      internalID: 2723748123433811088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 353
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452902e0f79e09d0800000000000000
+      internalID: -2806138456965044928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0933435ca6677b0c0800000000000000
+      internalID: -4560045896742194288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42803395316e0bc20800000000000000
+      internalID: 3220326704345188388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 351
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba53b82b8dc6ead0800000000000000
+      internalID: -2673223331230819651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27ac12f14716110800000000000000
+      internalID: 1252409848445432527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389c61d528f75c70800000000000000
+      internalID: 8959902824987924540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7a9582ba9777c0800000000000000
+      internalID: -4073617246396974401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867fc5f9a6b61830800000000000000
+      internalID: 4041618556701341316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6617e22d93687560800000000000000
+      internalID: 7311703521582585453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df5bd1207e21a60800000000000000
+      internalID: 7643425513875569925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 267
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5567f1575fe4640d0800000000000000
+      internalID: -3438974449311844779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 267
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad664e7311e2d990800000000000000
+      internalID: -7362574966958166618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 267
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345fcf609a4ec3210800000000000000
+      internalID: 1314176605903189315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 267
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6fdc59452579fc0800000000000000
+      internalID: -3488228863131126038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 265
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72abc05f138ee9280800000000000000
+      internalID: -9034528501196342745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d817c3d27f6eb0800000000000000
+      internalID: -4724431230184401884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8846a693d5bf177a0800000000000000
+      internalID: -6381042819193478008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8665cf2330b5620800000000000000
+      internalID: 2763806313838700747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5565663e7ad2bd0800000000000000
+      internalID: -2653280010335005191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb2de6dff923850800000000000000
+      internalID: 6355317935008037863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432a01c9dcfba77c0800000000000000
+      internalID: -4072732023195655628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189c500858ba3500800000000000000
+      internalID: 376816206941558805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a706be49eef0a0c0800000000000000
+      internalID: -4566369744152295513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67728eb7247095570800000000000000
+      internalID: 8455797757492864886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 179
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006f8a01c2fdd900800000000000000
+      internalID: 710991227114184718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6b7a2d5bd7b020800000000000000
+      internalID: 2357594123142916811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f808c6ff394e917b0800000000000000
+      internalID: -5252916166054346609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5dfe2fee212640800000000000000
+      internalID: 5053371861706824662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae43e2790fc95a0800000000000000
+      internalID: -6513066428978632084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed70011e1e2cbb0800000000000000
+      internalID: -4917119486382318037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f32481e5b2f0f0800000000000000
+      internalID: -1084604580053649824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96422678834aa1f10800000000000000
+      internalID: 2241284327266722921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c8b126901f39690800000000000000
+      internalID: -7596463123840922465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a01acb9866c8820800000000000000
+      internalID: 2921823000017832496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 93
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd43431aaf4ecef0800000000000000
+      internalID: -86043750987248178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97d6723c5eae840800000000000000
+      internalID: 5254264541623974386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d0737bbe3686b0800000000000000
+      internalID: -5294475337110858934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978cca09e01b2f060800000000000000
+      internalID: 6985840648119961721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b802086653ddd0800000000000000
+      internalID: -2462529566530815586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenBandelam_Mlb_trim_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10013d09d1ae95780800000000000000
+      internalID: -8693660192957329407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenBandelam_Mlb_trim_0: -6168682420981569354
+      ChrEvcTX_KenBandelam_Mlb_trim_1: 678044955721727988
+      ChrEvcTX_KenBandelam_Mlb_trim_10: -2888658899372267378
+      ChrEvcTX_KenBandelam_Mlb_trim_11: 7411590610958653910
+      ChrEvcTX_KenBandelam_Mlb_trim_12: 959146665650598782
+      ChrEvcTX_KenBandelam_Mlb_trim_13: 2667288195938988635
+      ChrEvcTX_KenBandelam_Mlb_trim_14: 2723748123433811088
+      ChrEvcTX_KenBandelam_Mlb_trim_15: -2806138456965044928
+      ChrEvcTX_KenBandelam_Mlb_trim_16: -4560045896742194288
+      ChrEvcTX_KenBandelam_Mlb_trim_17: 3220326704345188388
+      ChrEvcTX_KenBandelam_Mlb_trim_18: -2673223331230819651
+      ChrEvcTX_KenBandelam_Mlb_trim_19: 1252409848445432527
+      ChrEvcTX_KenBandelam_Mlb_trim_2: -6527907600463229077
+      ChrEvcTX_KenBandelam_Mlb_trim_20: 8959902824987924540
+      ChrEvcTX_KenBandelam_Mlb_trim_21: -4073617246396974401
+      ChrEvcTX_KenBandelam_Mlb_trim_22: 4041618556701341316
+      ChrEvcTX_KenBandelam_Mlb_trim_23: 7311703521582585453
+      ChrEvcTX_KenBandelam_Mlb_trim_24: 7643425513875569925
+      ChrEvcTX_KenBandelam_Mlb_trim_25: -3438974449311844779
+      ChrEvcTX_KenBandelam_Mlb_trim_26: -7362574966958166618
+      ChrEvcTX_KenBandelam_Mlb_trim_27: 1314176605903189315
+      ChrEvcTX_KenBandelam_Mlb_trim_28: -3488228863131126038
+      ChrEvcTX_KenBandelam_Mlb_trim_29: -9034528501196342745
+      ChrEvcTX_KenBandelam_Mlb_trim_3: 4376919967145714602
+      ChrEvcTX_KenBandelam_Mlb_trim_30: -4724431230184401884
+      ChrEvcTX_KenBandelam_Mlb_trim_31: -6381042819193478008
+      ChrEvcTX_KenBandelam_Mlb_trim_32: 2763806313838700747
+      ChrEvcTX_KenBandelam_Mlb_trim_33: -2653280010335005191
+      ChrEvcTX_KenBandelam_Mlb_trim_34: 6355317935008037863
+      ChrEvcTX_KenBandelam_Mlb_trim_35: -4072732023195655628
+      ChrEvcTX_KenBandelam_Mlb_trim_36: 376816206941558805
+      ChrEvcTX_KenBandelam_Mlb_trim_37: -4566369744152295513
+      ChrEvcTX_KenBandelam_Mlb_trim_38: 8455797757492864886
+      ChrEvcTX_KenBandelam_Mlb_trim_39: 710991227114184718
+      ChrEvcTX_KenBandelam_Mlb_trim_4: -699192807102089635
+      ChrEvcTX_KenBandelam_Mlb_trim_40: 2357594123142916811
+      ChrEvcTX_KenBandelam_Mlb_trim_41: -5252916166054346609
+      ChrEvcTX_KenBandelam_Mlb_trim_42: 5053371861706824662
+      ChrEvcTX_KenBandelam_Mlb_trim_43: -6513066428978632084
+      ChrEvcTX_KenBandelam_Mlb_trim_44: -4917119486382318037
+      ChrEvcTX_KenBandelam_Mlb_trim_45: -1084604580053649824
+      ChrEvcTX_KenBandelam_Mlb_trim_46: 2241284327266722921
+      ChrEvcTX_KenBandelam_Mlb_trim_47: -7596463123840922465
+      ChrEvcTX_KenBandelam_Mlb_trim_48: 2921823000017832496
+      ChrEvcTX_KenBandelam_Mlb_trim_49: -86043750987248178
+      ChrEvcTX_KenBandelam_Mlb_trim_5: 4861051024032264327
+      ChrEvcTX_KenBandelam_Mlb_trim_50: 5254264541623974386
+      ChrEvcTX_KenBandelam_Mlb_trim_51: -5294475337110858934
+      ChrEvcTX_KenBandelam_Mlb_trim_52: 6985840648119961721
+      ChrEvcTX_KenBandelam_Mlb_trim_53: -2462529566530815586
+      ChrEvcTX_KenBandelam_Mlb_trim_54: -8693660192957329407
+      ChrEvcTX_KenBandelam_Mlb_trim_6: 3920109681258349805
+      ChrEvcTX_KenBandelam_Mlb_trim_7: 5757858381986879983
+      ChrEvcTX_KenBandelam_Mlb_trim_8: 490089994378819980
+      ChrEvcTX_KenBandelam_Mlb_trim_9: 1299362437842126817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

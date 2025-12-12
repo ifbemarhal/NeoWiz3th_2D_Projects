@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d1cca2029b12d7c47a63d99818ecf794
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2439997308064028757
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_0
+  - first:
+      213: 5341837434517820557
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_1
+  - first:
+      213: -5552108581770612782
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_2
+  - first:
+      213: 4871506876566098237
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_3
+  - first:
+      213: 997876964218973131
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_4
+  - first:
+      213: 4242508839714371397
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_5
+  - first:
+      213: 1101510116651391604
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_6
+  - first:
+      213: 4885339725045786878
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_7
+  - first:
+      213: 5845107479583847745
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_8
+  - first:
+      213: -472357601815247632
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_9
+  - first:
+      213: 6609448835491867673
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_10
+  - first:
+      213: -2504967188758848302
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_11
+  - first:
+      213: -683432481730116930
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_12
+  - first:
+      213: -2517976410930385339
+    second: ChrEvcTX_SinLieza_Fml_trimUnq_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 457
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba72fef3063632ed0800000000000000
+      internalID: -2439997308064028757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 457
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84915c28d4022a40800000000000000
+      internalID: 5341837434517820557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2a2549a2f2f2b0800000000000000
+      internalID: -5552108581770612782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 397
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315892a1b11b9340800000000000000
+      internalID: 4871506876566098237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb21dddfcb29dd00800000000000000
+      internalID: 997876964218973131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 337
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54731abdf4b60ea30800000000000000
+      internalID: 4242508839714371397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a51837d99594f00800000000000000
+      internalID: 1101510116651391604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86576a8963cc340800000000000000
+      internalID: 4885339725045786878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 213
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f292b84efd1150800000000000000
+      internalID: 5845107479583847745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4c8d88349d179f0800000000000000
+      internalID: -472357601815247632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cac9092ba79bb50800000000000000
+      internalID: 6609448835491867673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc150c1d919c3dd0800000000000000
+      internalID: -2504967188758848302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 79
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2438267c5f386f0800000000000000
+      internalID: -683432481730116930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_SinLieza_Fml_trimUnq_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6ea98bc95e0dd0800000000000000
+      internalID: -2517976410930385339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_SinLieza_Fml_trimUnq_0: -2439997308064028757
+      ChrEvcTX_SinLieza_Fml_trimUnq_1: 5341837434517820557
+      ChrEvcTX_SinLieza_Fml_trimUnq_10: 6609448835491867673
+      ChrEvcTX_SinLieza_Fml_trimUnq_11: -2504967188758848302
+      ChrEvcTX_SinLieza_Fml_trimUnq_12: -683432481730116930
+      ChrEvcTX_SinLieza_Fml_trimUnq_13: -2517976410930385339
+      ChrEvcTX_SinLieza_Fml_trimUnq_2: -5552108581770612782
+      ChrEvcTX_SinLieza_Fml_trimUnq_3: 4871506876566098237
+      ChrEvcTX_SinLieza_Fml_trimUnq_4: 997876964218973131
+      ChrEvcTX_SinLieza_Fml_trimUnq_5: 4242508839714371397
+      ChrEvcTX_SinLieza_Fml_trimUnq_6: 1101510116651391604
+      ChrEvcTX_SinLieza_Fml_trimUnq_7: 4885339725045786878
+      ChrEvcTX_SinLieza_Fml_trimUnq_8: 5845107479583847745
+      ChrEvcTX_SinLieza_Fml_trimUnq_9: -472357601815247632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

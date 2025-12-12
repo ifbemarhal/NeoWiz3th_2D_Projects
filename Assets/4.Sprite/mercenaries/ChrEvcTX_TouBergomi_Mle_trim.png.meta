@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2a06a6d84424de0419068ec30ee25043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 663733695955132324
+    second: ChrEvcTX_TouBergomi_Mle_trim_0
+  - first:
+      213: 4078739261515842562
+    second: ChrEvcTX_TouBergomi_Mle_trim_1
+  - first:
+      213: 4180178105916473486
+    second: ChrEvcTX_TouBergomi_Mle_trim_2
+  - first:
+      213: 7392480096370092946
+    second: ChrEvcTX_TouBergomi_Mle_trim_3
+  - first:
+      213: 4119739815026638538
+    second: ChrEvcTX_TouBergomi_Mle_trim_4
+  - first:
+      213: -9025707363708903398
+    second: ChrEvcTX_TouBergomi_Mle_trim_5
+  - first:
+      213: 4630122429528120610
+    second: ChrEvcTX_TouBergomi_Mle_trim_6
+  - first:
+      213: -3872181342198232618
+    second: ChrEvcTX_TouBergomi_Mle_trim_7
+  - first:
+      213: 8672086891505766470
+    second: ChrEvcTX_TouBergomi_Mle_trim_8
+  - first:
+      213: -3099583346719497685
+    second: ChrEvcTX_TouBergomi_Mle_trim_9
+  - first:
+      213: 59426753370064098
+    second: ChrEvcTX_TouBergomi_Mle_trim_10
+  - first:
+      213: 3912191956754258063
+    second: ChrEvcTX_TouBergomi_Mle_trim_11
+  - first:
+      213: -793393636192040106
+    second: ChrEvcTX_TouBergomi_Mle_trim_12
+  - first:
+      213: 5648573918533129753
+    second: ChrEvcTX_TouBergomi_Mle_trim_13
+  - first:
+      213: -1845343737234485713
+    second: ChrEvcTX_TouBergomi_Mle_trim_14
+  - first:
+      213: -6422750757726934895
+    second: ChrEvcTX_TouBergomi_Mle_trim_15
+  - first:
+      213: -5507051065277724063
+    second: ChrEvcTX_TouBergomi_Mle_trim_16
+  - first:
+      213: 7083668416774972579
+    second: ChrEvcTX_TouBergomi_Mle_trim_17
+  - first:
+      213: 8170937056708724026
+    second: ChrEvcTX_TouBergomi_Mle_trim_18
+  - first:
+      213: 8447422621057859065
+    second: ChrEvcTX_TouBergomi_Mle_trim_19
+  - first:
+      213: 1378930587928049984
+    second: ChrEvcTX_TouBergomi_Mle_trim_20
+  - first:
+      213: 8753541982650537758
+    second: ChrEvcTX_TouBergomi_Mle_trim_21
+  - first:
+      213: -1555526754329881733
+    second: ChrEvcTX_TouBergomi_Mle_trim_22
+  - first:
+      213: -1836821792144062534
+    second: ChrEvcTX_TouBergomi_Mle_trim_23
+  - first:
+      213: -5073788003167449909
+    second: ChrEvcTX_TouBergomi_Mle_trim_24
+  - first:
+      213: -1973294525057096227
+    second: ChrEvcTX_TouBergomi_Mle_trim_25
+  - first:
+      213: -3664708206277643313
+    second: ChrEvcTX_TouBergomi_Mle_trim_26
+  - first:
+      213: 223665301401967264
+    second: ChrEvcTX_TouBergomi_Mle_trim_27
+  - first:
+      213: 3426323836280115592
+    second: ChrEvcTX_TouBergomi_Mle_trim_28
+  - first:
+      213: -7148499677483893273
+    second: ChrEvcTX_TouBergomi_Mle_trim_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afdcd4a74e063900800000000000000
+      internalID: 663733695955132324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204471e8fb79a9830800000000000000
+      internalID: 4078739261515842562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80440df6d9f20a30800000000000000
+      internalID: 4180178105916473486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 435
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be8490b7d579660800000000000000
+      internalID: 7392480096370092946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace32b1d8814c2930800000000000000
+      internalID: 4119739815026638538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 435
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e08319fe3eb280800000000000000
+      internalID: -9025707363708903398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d979671df714040800000000000000
+      internalID: 4630122429528120610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 357
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90160c59f334ac0800000000000000
+      internalID: -3872181342198232618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 357
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640d585c411795870800000000000000
+      internalID: 8672086891505766470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 355
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2261135e511cf4d0800000000000000
+      internalID: -3099583346719497685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 355
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e407cc315023d000800000000000000
+      internalID: 59426753370064098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 355
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f885a736bd5ea4630800000000000000
+      internalID: 3912191956754258063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc7b301bc4df4f0800000000000000
+      internalID: -793393636192040106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 275
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91614bd2d04c36e40800000000000000
+      internalID: 5648573918533129753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 275
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e85a5e5a50466e0800000000000000
+      internalID: -1845343737234485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 275
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a0dc073ecdd6a0800000000000000
+      internalID: -6422750757726934895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 275
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a4f26db360393b0800000000000000
+      internalID: -5507051065277724063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 275
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a688e4ee3e4260800000000000000
+      internalID: 7083668416774972579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35033b26fff46170800000000000000
+      internalID: 8170937056708724026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb0c31e164b3570800000000000000
+      internalID: 8447422621057859065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0493f575012f22310800000000000000
+      internalID: 1378930587928049984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e179a521e04da7970800000000000000
+      internalID: 8753541982650537758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731d8198a8a96ae0800000000000000
+      internalID: -1555526754329881733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 195
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab78e8bdf4c4286e0800000000000000
+      internalID: -1836821792144062534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc09571b84699b0800000000000000
+      internalID: -5073788003167449909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5afbc95137d94e0800000000000000
+      internalID: -1973294525057096227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3bc578d47542dc0800000000000000
+      internalID: -3664708206277643313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 115
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa15a6186e9a1300800000000000000
+      internalID: 223665301401967264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 115
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811eea206fbc8f20800000000000000
+      internalID: 3426323836280115592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_TouBergomi_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 115
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edf39eea6d6bcc90800000000000000
+      internalID: -7148499677483893273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_TouBergomi_Mle_trim_0: 663733695955132324
+      ChrEvcTX_TouBergomi_Mle_trim_1: 4078739261515842562
+      ChrEvcTX_TouBergomi_Mle_trim_10: 59426753370064098
+      ChrEvcTX_TouBergomi_Mle_trim_11: 3912191956754258063
+      ChrEvcTX_TouBergomi_Mle_trim_12: -793393636192040106
+      ChrEvcTX_TouBergomi_Mle_trim_13: 5648573918533129753
+      ChrEvcTX_TouBergomi_Mle_trim_14: -1845343737234485713
+      ChrEvcTX_TouBergomi_Mle_trim_15: -6422750757726934895
+      ChrEvcTX_TouBergomi_Mle_trim_16: -5507051065277724063
+      ChrEvcTX_TouBergomi_Mle_trim_17: 7083668416774972579
+      ChrEvcTX_TouBergomi_Mle_trim_18: 8170937056708724026
+      ChrEvcTX_TouBergomi_Mle_trim_19: 8447422621057859065
+      ChrEvcTX_TouBergomi_Mle_trim_2: 4180178105916473486
+      ChrEvcTX_TouBergomi_Mle_trim_20: 1378930587928049984
+      ChrEvcTX_TouBergomi_Mle_trim_21: 8753541982650537758
+      ChrEvcTX_TouBergomi_Mle_trim_22: -1555526754329881733
+      ChrEvcTX_TouBergomi_Mle_trim_23: -1836821792144062534
+      ChrEvcTX_TouBergomi_Mle_trim_24: -5073788003167449909
+      ChrEvcTX_TouBergomi_Mle_trim_25: -1973294525057096227
+      ChrEvcTX_TouBergomi_Mle_trim_26: -3664708206277643313
+      ChrEvcTX_TouBergomi_Mle_trim_27: 223665301401967264
+      ChrEvcTX_TouBergomi_Mle_trim_28: 3426323836280115592
+      ChrEvcTX_TouBergomi_Mle_trim_29: -7148499677483893273
+      ChrEvcTX_TouBergomi_Mle_trim_3: 7392480096370092946
+      ChrEvcTX_TouBergomi_Mle_trim_4: 4119739815026638538
+      ChrEvcTX_TouBergomi_Mle_trim_5: -9025707363708903398
+      ChrEvcTX_TouBergomi_Mle_trim_6: 4630122429528120610
+      ChrEvcTX_TouBergomi_Mle_trim_7: -3872181342198232618
+      ChrEvcTX_TouBergomi_Mle_trim_8: 8672086891505766470
+      ChrEvcTX_TouBergomi_Mle_trim_9: -3099583346719497685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

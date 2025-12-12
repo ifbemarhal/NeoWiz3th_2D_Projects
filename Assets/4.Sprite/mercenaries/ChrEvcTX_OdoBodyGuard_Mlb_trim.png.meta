@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 1d5bb1f0c929b3c428a58158d9a4ed2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 266443086914469106
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_0
+  - first:
+      213: -6093000770293770194
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_1
+  - first:
+      213: -5177833466092635768
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_2
+  - first:
+      213: -7126572060188177426
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_3
+  - first:
+      213: 9041454231444784332
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_4
+  - first:
+      213: -4045557807538362837
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_5
+  - first:
+      213: -363252571824683625
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_6
+  - first:
+      213: -7429194573476816933
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_7
+  - first:
+      213: -3948912608544124963
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_8
+  - first:
+      213: 8661405587315744097
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_9
+  - first:
+      213: -5406728956391630075
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_10
+  - first:
+      213: -6221723227708672141
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_11
+  - first:
+      213: -5781438285961238898
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_12
+  - first:
+      213: 5426331007298068396
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_13
+  - first:
+      213: 7586954384441644364
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_14
+  - first:
+      213: -6968944941701657629
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_15
+  - first:
+      213: 1687266829684453036
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_16
+  - first:
+      213: -145098687054315849
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_17
+  - first:
+      213: -7384139340267063000
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_18
+  - first:
+      213: -7008300928516190852
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_19
+  - first:
+      213: 2383051179634669442
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_20
+  - first:
+      213: -6188492989677263296
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_21
+  - first:
+      213: 7327113924476839107
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_22
+  - first:
+      213: -3815590800021840419
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_23
+  - first:
+      213: -7115540413255332868
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_24
+  - first:
+      213: 8703706235394008040
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_25
+  - first:
+      213: -7671764503861822039
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_26
+  - first:
+      213: -4534523279966432458
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_27
+  - first:
+      213: -2601841956556912903
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_28
+  - first:
+      213: 8875521254298860958
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_29
+  - first:
+      213: 3683658747480487046
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_30
+  - first:
+      213: -5831893846503782550
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_31
+  - first:
+      213: 5695772135176475253
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_32
+  - first:
+      213: 6880045327758362445
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_33
+  - first:
+      213: 3494002719328731209
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_34
+  - first:
+      213: 249026919282178677
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_35
+  - first:
+      213: -231396115381741408
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_36
+  - first:
+      213: 8326620480627638654
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_37
+  - first:
+      213: 279752203405748604
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_38
+  - first:
+      213: 1820200210354924197
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_39
+  - first:
+      213: 7305701496041870759
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_40
+  - first:
+      213: -8193026726096306914
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_41
+  - first:
+      213: 1627564117003383118
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_42
+  - first:
+      213: 4710059745802859885
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_43
+  - first:
+      213: -4011366013435590874
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_44
+  - first:
+      213: -5744738470904187544
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_45
+  - first:
+      213: 6304579632125179614
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_46
+  - first:
+      213: 3201539618697262031
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_47
+  - first:
+      213: 484140261154021625
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_48
+  - first:
+      213: -5821370565327647838
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_49
+  - first:
+      213: -6288085234773770088
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_50
+  - first:
+      213: 5196958260953159300
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_51
+  - first:
+      213: 1232553722197215101
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_52
+  - first:
+      213: -7042494935715997494
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_53
+  - first:
+      213: -638096011274964950
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_54
+  - first:
+      213: -6082711133961692566
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_55
+  - first:
+      213: -6758834929836479687
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_56
+  - first:
+      213: -6720106628856523261
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_57
+  - first:
+      213: 4591748426340752892
+    second: ChrEvcTX_OdoBodyGuard_Mlb_trim_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc356c639892b300800000000000000
+      internalID: 266443086914469106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 437
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28557ed410517ba0800000000000000
+      internalID: -6093000770293770194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 437
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893b6b55e3a428b0800000000000000
+      internalID: -5177833466092635768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 435
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb824e2874591d90800000000000000
+      internalID: -7126572060188177426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 435
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4083648b2b97d70800000000000000
+      internalID: 9041454231444784332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b262e5bbb9a4bd7c0800000000000000
+      internalID: -4045557807538362837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79584a4e5b775faf0800000000000000
+      internalID: -363252571824683625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd797a0a5e236e890800000000000000
+      internalID: -7429194573476816933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf8aae97e4a239c0800000000000000
+      internalID: -3948912608544124963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd987dd7e733870800000000000000
+      internalID: 8661405587315744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 435
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b557509a077f4b0800000000000000
+      internalID: -5406728956391630075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377b0a140bff7a9a0800000000000000
+      internalID: -6221723227708672141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 357
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ef62a28434cfa0800000000000000
+      internalID: -5781438285961238898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 357
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf50bb1d433e4b40800000000000000
+      internalID: 5426331007298068396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 357
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459cb3b0d64a4960800000000000000
+      internalID: 7586954384441644364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 357
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0e92af75594f90800000000000000
+      internalID: -6968944941701657629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 355
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae24a8fd306a6710800000000000000
+      internalID: 1687266829684453036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 355
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be70cc43818cfdf0800000000000000
+      internalID: -145098687054315849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 355
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829f4639464468990800000000000000
+      internalID: -7384139340267063000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 353
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d80c4ef638dbe90800000000000000
+      internalID: -7008300928516190852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28733b30c6c421120800000000000000
+      internalID: 2383051179634669442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 271
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046aa47f96e0e1aa0800000000000000
+      internalID: -6188492989677263296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 271
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a2492b432fa560800000000000000
+      internalID: 7327113924476839107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd137c126c4c0bc0800000000000000
+      internalID: -3815590800021840419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 271
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbcaf2a1b5804d90800000000000000
+      internalID: -7115540413255332868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 271
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e32306f4b6c9c870800000000000000
+      internalID: 8703706235394008040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 271
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad7dda94da688590800000000000000
+      internalID: -7671764503861822039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6339cdf0a132211c0800000000000000
+      internalID: -4534523279966432458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 271
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6c7b1968664ebd0800000000000000
+      internalID: -2601841956556912903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 269
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9db9e66e8f2c2b70800000000000000
+      internalID: 8875521254298860958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 269
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b55d2d1cfe1330800000000000000
+      internalID: 3683658747480487046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670b5ff173f01fa0800000000000000
+      internalID: -5831893846503782550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 185
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57213c654927b0f40800000000000000
+      internalID: 5695772135176475253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 185
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d478f9706c4da7f50800000000000000
+      internalID: 6880045327758362445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 185
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94086d116f03d7030800000000000000
+      internalID: 3494002719328731209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af257e9a8b47300800000000000000
+      internalID: 249026919282178677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 185
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a81444857ae9ccf0800000000000000
+      internalID: -231396115381741408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 185
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e718d47f5391e8370800000000000000
+      internalID: 8326620480627638654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 185
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e1259521e1e300800000000000000
+      internalID: 279752203405748604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 185
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaeb4e8276a24910800000000000000
+      internalID: 1820200210354924197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 185
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a59d9aadc0136560800000000000000
+      internalID: 7305701496041870759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d7fb3e9958c4e80800000000000000
+      internalID: -8193026726096306914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b823f0f4469610800000000000000
+      internalID: 1627564117003383118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 101
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653273426e7d5140800000000000000
+      internalID: 4710059745802859885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 101
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c8192dd3c458c0800000000000000
+      internalID: -4011366013435590874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653c323cc69640b0800000000000000
+      internalID: -5744738470904187544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6fbf6b5cd5e7750800000000000000
+      internalID: 6304579632125179614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc33aca12572e6c20800000000000000
+      internalID: 3201539618697262031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_48
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0ec8f900308b600800000000000000
+      internalID: 484140261154021625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab0bb35056563fa0800000000000000
+      internalID: -5821370565327647838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904eef6bcb3cb8a0800000000000000
+      internalID: -6288085234773770088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 101
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48615a0f00e4f1840800000000000000
+      internalID: 5196958260953159300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77862a7419ea1110800000000000000
+      internalID: 1232553722197215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac819203b28044e90800000000000000
+      internalID: -7042494935715997494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20bc5bfe070527f0800000000000000
+      internalID: -638096011274964950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a56e4837ed59ba0800000000000000
+      internalID: -6082711133961692566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b289fe07bc332a0800000000000000
+      internalID: -6758834929836479687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306524e20a26db2a0800000000000000
+      internalID: -6720106628856523261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_OdoBodyGuard_Mlb_trim_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 11
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfddff99dda29bf30800000000000000
+      internalID: 4591748426340752892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_0: 266443086914469106
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_1: -6093000770293770194
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_10: -5406728956391630075
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_11: -6221723227708672141
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_12: -5781438285961238898
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_13: 5426331007298068396
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_14: 7586954384441644364
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_15: -6968944941701657629
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_16: 1687266829684453036
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_17: -145098687054315849
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_18: -7384139340267063000
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_19: -7008300928516190852
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_2: -5177833466092635768
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_20: 2383051179634669442
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_21: -6188492989677263296
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_22: 7327113924476839107
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_23: -3815590800021840419
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_24: -7115540413255332868
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_25: 8703706235394008040
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_26: -7671764503861822039
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_27: -4534523279966432458
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_28: -2601841956556912903
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_29: 8875521254298860958
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_3: -7126572060188177426
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_30: 3683658747480487046
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_31: -5831893846503782550
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_32: 5695772135176475253
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_33: 6880045327758362445
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_34: 3494002719328731209
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_35: 249026919282178677
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_36: -231396115381741408
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_37: 8326620480627638654
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_38: 279752203405748604
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_39: 1820200210354924197
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_4: 9041454231444784332
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_40: 7305701496041870759
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_41: -8193026726096306914
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_42: 1627564117003383118
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_43: 4710059745802859885
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_44: -4011366013435590874
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_45: -5744738470904187544
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_46: 6304579632125179614
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_47: 3201539618697262031
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_48: 484140261154021625
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_49: -5821370565327647838
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_5: -4045557807538362837
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_50: -6288085234773770088
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_51: 5196958260953159300
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_52: 1232553722197215101
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_53: -7042494935715997494
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_54: -638096011274964950
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_55: -6082711133961692566
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_56: -6758834929836479687
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_57: -6720106628856523261
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_58: 4591748426340752892
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_6: -363252571824683625
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_7: -7429194573476816933
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_8: -3948912608544124963
+      ChrEvcTX_OdoBodyGuard_Mlb_trim_9: 8661405587315744097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

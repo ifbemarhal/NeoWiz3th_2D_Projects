@@ -1,0 +1,3510 @@
+fileFormatVersion: 2
+guid: 89c6727f11ee68c44b943a699764aaef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4514499246250605665
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_0
+  - first:
+      213: 1149359987675016681
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_1
+  - first:
+      213: -7862753986446899835
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_2
+  - first:
+      213: -9164688636527538519
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_3
+  - first:
+      213: -579155638484993465
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_4
+  - first:
+      213: -2354405245671385168
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_5
+  - first:
+      213: 4187901909260047187
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_6
+  - first:
+      213: -3292368362710976170
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_7
+  - first:
+      213: -4219507622583028599
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_8
+  - first:
+      213: 7679077870757039261
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_9
+  - first:
+      213: 8483169505447295290
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_10
+  - first:
+      213: -634319141679150181
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_11
+  - first:
+      213: -8410654563266886007
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_12
+  - first:
+      213: -7597558502454304841
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_13
+  - first:
+      213: 973241382701458714
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_14
+  - first:
+      213: -3064158505882605400
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_15
+  - first:
+      213: -8018737345255797478
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_16
+  - first:
+      213: 1059009410377205516
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_17
+  - first:
+      213: -928977901334358286
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_18
+  - first:
+      213: -6477160285871187342
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_19
+  - first:
+      213: -7898600065339520012
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_20
+  - first:
+      213: -8936488641922790512
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_21
+  - first:
+      213: 7019632136615783981
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_22
+  - first:
+      213: 8011956413722883880
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_23
+  - first:
+      213: 8387183022952041438
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_24
+  - first:
+      213: 6527816496078678322
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_25
+  - first:
+      213: -326209864245438056
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_26
+  - first:
+      213: -528500295623118948
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_27
+  - first:
+      213: 3905671071805420969
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_28
+  - first:
+      213: -7820890786888577916
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_29
+  - first:
+      213: -5725051202772916695
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_30
+  - first:
+      213: 427892132340090099
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_31
+  - first:
+      213: -3131718187360169029
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_32
+  - first:
+      213: -3558920316869872897
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_33
+  - first:
+      213: -1086160087781381795
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_34
+  - first:
+      213: 7699161729870855263
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_35
+  - first:
+      213: 4628480996271412741
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_36
+  - first:
+      213: -1127780655959777291
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_37
+  - first:
+      213: -4155145927729862546
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_38
+  - first:
+      213: -1798175598959372289
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_39
+  - first:
+      213: -5003582109847990286
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_40
+  - first:
+      213: -7035559104040207268
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_41
+  - first:
+      213: 387696059772234905
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_42
+  - first:
+      213: 7298420635151859787
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_43
+  - first:
+      213: 224877624670373842
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_44
+  - first:
+      213: -4286986109466679437
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_45
+  - first:
+      213: 5187516011848382207
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_46
+  - first:
+      213: 4173617492171631314
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_47
+  - first:
+      213: -1006492768331635047
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_48
+  - first:
+      213: -4210677962759384538
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_49
+  - first:
+      213: -2395687835073814220
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_50
+  - first:
+      213: -7926984139377941419
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_51
+  - first:
+      213: 5032053980265324982
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_52
+  - first:
+      213: 3971647580576329773
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_53
+  - first:
+      213: -6219801683920330235
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_54
+  - first:
+      213: 4832956810938544055
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_55
+  - first:
+      213: 5422280285401643790
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_56
+  - first:
+      213: 7430716756805383717
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_57
+  - first:
+      213: 4955532998081808911
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_58
+  - first:
+      213: 7398103057509870374
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_59
+  - first:
+      213: 2422109990704757722
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_60
+  - first:
+      213: -6885537863574356812
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_61
+  - first:
+      213: -1835881577354666998
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_62
+  - first:
+      213: 7725010701685276496
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_63
+  - first:
+      213: 910359891904243809
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_64
+  - first:
+      213: -8023482699876783039
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_65
+  - first:
+      213: 8957457573157908772
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_66
+  - first:
+      213: -5729726566885338574
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_67
+  - first:
+      213: 9162315066933165607
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_68
+  - first:
+      213: -6438998331166805987
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_69
+  - first:
+      213: 7604170055818571422
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_70
+  - first:
+      213: -3530953654177498234
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_71
+  - first:
+      213: -8880993826107037495
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_72
+  - first:
+      213: -7281517168726602878
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_73
+  - first:
+      213: 4204724219172721231
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_74
+  - first:
+      213: 1672777635045895194
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_75
+  - first:
+      213: 6521992375875696752
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_76
+  - first:
+      213: -6479504207069266822
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_77
+  - first:
+      213: -64351317747674066
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_78
+  - first:
+      213: 2656402150136182398
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_79
+  - first:
+      213: 6980725690056993444
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_80
+  - first:
+      213: -2783000717056704847
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_81
+  - first:
+      213: -7310185940124000717
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_82
+  - first:
+      213: -2880867738354797459
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_83
+  - first:
+      213: -8550304354147215033
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_84
+  - first:
+      213: -7698726177982673039
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_85
+  - first:
+      213: -6989314039077725085
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_86
+  - first:
+      213: -6268595606885421586
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_87
+  - first:
+      213: 466336310203517380
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_88
+  - first:
+      213: -6343565327520345384
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_89
+  - first:
+      213: -1219937445203494188
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_90
+  - first:
+      213: 6976403125598045980
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_91
+  - first:
+      213: 8718555244864875730
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_92
+  - first:
+      213: 1792387301862264969
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_93
+  - first:
+      213: 8437612876402891611
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_94
+  - first:
+      213: -5985546791167720850
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_95
+  - first:
+      213: -7776643102718321399
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_96
+  - first:
+      213: 5331074127660793520
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_97
+  - first:
+      213: -3656445420642828835
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_98
+  - first:
+      213: -6336993568315414156
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_99
+  - first:
+      213: 2919620397238793721
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_100
+  - first:
+      213: 1619593083553571955
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_101
+  - first:
+      213: 3372277332015035163
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_102
+  - first:
+      213: 3973626978280414036
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_103
+  - first:
+      213: 3406642370096294724
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_104
+  - first:
+      213: 5133822691141007984
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_105
+  - first:
+      213: -2907007085400868960
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_106
+  - first:
+      213: -7830866552514921026
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_107
+  - first:
+      213: -7241073808839751563
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_108
+  - first:
+      213: 4220360875968359453
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_109
+  - first:
+      213: 879379464255271465
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_110
+  - first:
+      213: 3911222904795156261
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_111
+  - first:
+      213: -3838350268591485727
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_112
+  - first:
+      213: 5330287920360185684
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_113
+  - first:
+      213: -4491125172951412945
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_114
+  - first:
+      213: -7112743026531798227
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_115
+  - first:
+      213: 9185227446664920982
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_116
+  - first:
+      213: -8386227899565550799
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_117
+  - first:
+      213: 4837467703675123730
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_118
+  - first:
+      213: -6654073492902008480
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_119
+  - first:
+      213: -8294750277710459792
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_120
+  - first:
+      213: 441104668504330182
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_121
+  - first:
+      213: -953751900276432212
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_122
+  - first:
+      213: -5946784403032755516
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_123
+  - first:
+      213: 4969866056594219576
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_124
+  - first:
+      213: -6904258103690984164
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_125
+  - first:
+      213: -8063385647090262232
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_126
+  - first:
+      213: -8574749124815627886
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_127
+  - first:
+      213: 8058402701185169707
+    second: ChrEvcTX_KenMugen_Mlb_trimUnq_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1981
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c39874529b6ae30800000000000000
+      internalID: 4514499246250605665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1981
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edaa68b1d853ff00800000000000000
+      internalID: 1149359987675016681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1981
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585cb8178e2e1e290800000000000000
+      internalID: -7862753986446899835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1981
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae87bedd3c70d080800000000000000
+      internalID: -9164688636527538519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1971
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aff6ae30d66f7f0800000000000000
+      internalID: -579155638484993465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1971
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d07a37e8735fd0800000000000000
+      internalID: -2354405245671385168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1971
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35310a7199a6e1a30800000000000000
+      internalID: 4187901909260047187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_7
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1971
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659b0e6fa682f42d0800000000000000
+      internalID: -3292368362710976170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1969
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b2e45c2c4175c0800000000000000
+      internalID: -4219507622583028599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1889
+        width: 116
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c490153a0919a60800000000000000
+      internalID: 7679077870757039261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1889
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39bc9d28b54ab570800000000000000
+      internalID: 8483169505447295290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1889
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcbf5f9127237f0800000000000000
+      internalID: -634319141679150181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1889
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98685fb7c3a574b80800000000000000
+      internalID: -8410654563266886007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1889
+        width: 120
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf56fcabcc009690800000000000000
+      internalID: -7597558502454304841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1889
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1561a091e5a18d00800000000000000
+      internalID: 973241382701458714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1889
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a82061d21ce975d0800000000000000
+      internalID: -3064158505882605400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1887
+        width: 114
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d8edc9ed8b7b090800000000000000
+      internalID: -8018737345255797478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1887
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c074457a27b52be00800000000000000
+      internalID: 1059009410377205516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1805
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f617ca458b9b13f0800000000000000
+      internalID: -928977901334358286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1805
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a516799018c16a0800000000000000
+      internalID: -6477160285871187342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1803
+        width: 148
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8f82d619826290800000000000000
+      internalID: -7898600065339520012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1801
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b01ee7de63bf380800000000000000
+      internalID: -8936488641922790512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1801
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e66e49c3eba6160800000000000000
+      internalID: 7019632136615783981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1801
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8277ddbb8ef203f60800000000000000
+      internalID: 8011956413722883880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_24
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1801
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4e3da582456470800000000000000
+      internalID: 8387183022952041438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_25
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1801
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23964bf6486779a50800000000000000
+      internalID: 6527816496078678322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1799
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8991c675bd1197bf0800000000000000
+      internalID: -326209864245438056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_27
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1799
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fe1bff7c36aa8f0800000000000000
+      internalID: -528500295623118948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1709
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a53b7c852bb33630800000000000000
+      internalID: 3905671071805420969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1709
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c8164244d967390800000000000000
+      internalID: -7820890786888577916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1709
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262cc183488c80b0800000000000000
+      internalID: -5725051202772916695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1709
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c05690ad20f500800000000000000
+      internalID: 427892132340090099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1709
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb354c1b6e6e984d0800000000000000
+      internalID: -3131718187360169029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1709
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2fc09e3dc2c9ec0800000000000000
+      internalID: -3558920316869872897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1707
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d596596a72f2de0f0800000000000000
+      internalID: -1086160087781381795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_35
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1707
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cfb392dcae8da60800000000000000
+      internalID: 7699161729870855263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_36
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1707
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506576081faab3040800000000000000
+      internalID: 4628480996271412741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_37
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1707
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd5f8f7715950f0800000000000000
+      internalID: -1127780655959777291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_38
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1707
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6820cb2bc4f556c0800000000000000
+      internalID: -4155145927729862546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_39
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1707
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff75044e1d89b07e0800000000000000
+      internalID: -1798175598959372289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_40
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1707
+        width: 138
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc20ac494bf8ab0800000000000000
+      internalID: -5003582109847990286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1615
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cfa67554cac5e90800000000000000
+      internalID: -7035559104040207268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1615
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cea83238f516500800000000000000
+      internalID: 387696059772234905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1615
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408b9326e2394560800000000000000
+      internalID: 7298420635151859787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1615
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d74968120dee1300800000000000000
+      internalID: 224877624670373842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1615
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377643cc8d09184c0800000000000000
+      internalID: -4286986109466679437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1613
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6bfd00452cdf740800000000000000
+      internalID: 5187516011848382207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1613
+        width: 138
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2f311ffaabe930800000000000000
+      internalID: 4173617492171631314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1611
+        width: 158
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996e79ae8283802f0800000000000000
+      internalID: -1006492768331635047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_49
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1611
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6225926b3baa095c0800000000000000
+      internalID: -4210677962759384538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_50
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1611
+        width: 138
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43163bd5b9ec0ced0800000000000000
+      internalID: -2395687835073814220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e8389ce1bdf190800000000000000
+      internalID: -7926984139377941419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1515
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12e402f6275d540800000000000000
+      internalID: 5032053980265324982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1515
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ba4d8e602e1730800000000000000
+      internalID: 3971647580576329773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1515
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026d888253dea9a0800000000000000
+      internalID: -6219801683920330235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1513
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfebca0d9c121340800000000000000
+      internalID: 4832956810938544055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1513
+        width: 152
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bf7fbe03fcf3b40800000000000000
+      internalID: 5422280285401643790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1511
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267deb45853f1760800000000000000
+      internalID: 7430716756805383717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_58
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1507
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8467910795c440800000000000000
+      internalID: 4955532998081808911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_59
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1503
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6b92b8875ba660800000000000000
+      internalID: 7398103057509870374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1393
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb1e224301d9120800000000000000
+      internalID: 2422109990704757722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1393
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcf5225bc7a170a0800000000000000
+      internalID: -6885537863574356812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_62
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1389
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c571cae63a586e0800000000000000
+      internalID: -1835881577354666998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1389
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fba08ed40c43b60800000000000000
+      internalID: 7725010701685276496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1389
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16827b69f7f32ac00800000000000000
+      internalID: 910359891904243809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1389
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2a54aefcd6a090800000000000000
+      internalID: -8023482699876783039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_66
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1387
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b5b244384f4c70800000000000000
+      internalID: 8957457573157908772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_67
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1383
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2325ea87b0ceb70b0800000000000000
+      internalID: -5729726566885338574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_68
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1383
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb2c46205172f70800000000000000
+      internalID: 9162315066933165607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1261
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103871122514a6a0800000000000000
+      internalID: -6438998331166805987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1259
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e6abc8060778960800000000000000
+      internalID: 7604170055818571422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1257
+        width: 174
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf16cfb588ffec0800000000000000
+      internalID: -3530953654177498234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_72
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1257
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e37e2b2f50c480800000000000000
+      internalID: -8880993826107037495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_73
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1257
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b8424d6bad2fa90800000000000000
+      internalID: -7281517168726602878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_74
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1255
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f429546566e2a5a30800000000000000
+      internalID: 4204724219172721231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1127
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ce0257566e63710800000000000000
+      internalID: 1672777635045895194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1127
+        width: 162
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07870e7c285c28a50800000000000000
+      internalID: 6521992375875696752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1127
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cbcf8e04d2416a0800000000000000
+      internalID: -6479504207069266822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_78
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1125
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2452d441d06b1ff0800000000000000
+      internalID: -64351317747674066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1123
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76737b6eaf6dd420800000000000000
+      internalID: 2656402150136182398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_80
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1123
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6a46970580e060800000000000000
+      internalID: 6980725690056993444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_81
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1123
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7d22c79bc069d0800000000000000
+      internalID: -2783000717056704847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e9ad45e900d8a90800000000000000
+      internalID: -7310185940124000717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_83
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 991
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ba723e0a1508d0800000000000000
+      internalID: -2880867738354797459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 991
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495499cd77375980800000000000000
+      internalID: -8550304354147215033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 991
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f875aa451a82590800000000000000
+      internalID: -7698726177982673039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_86
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 991
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c1f1599e7f00f90800000000000000
+      internalID: -6989314039077725085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_87
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 991
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed250b02897109a0800000000000000
+      internalID: -6268595606885421586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_88
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 991
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c90c834762c87600800000000000000
+      internalID: 466336310203517380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 859
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25aabb1f027f7a0800000000000000
+      internalID: -6343565327520345384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_90
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 859
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab27a6b59e11fe0800000000000000
+      internalID: -1219937445203494188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_91
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 857
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17423f1ea921d060800000000000000
+      internalID: 6976403125598045980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 857
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2ac46dc78ef870800000000000000
+      internalID: 8718555244864875730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_93
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 857
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980db6b21c6dfd810800000000000000
+      internalID: 1792387301862264969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_94
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 855
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b914ae43c681570800000000000000
+      internalID: 8437612876402891611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_95
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 855
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6208fdf7e01feca0800000000000000
+      internalID: -5985546791167720850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_96
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 855
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9b7dec40d31490800000000000000
+      internalID: -7776643102718321399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_97
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 855
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be3f728ca7cbf940800000000000000
+      internalID: 5331074127660793520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddfaf93342b14dc0800000000000000
+      internalID: -3656445420642828835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 719
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479ef98ace97e08a0800000000000000
+      internalID: -6336993568315414156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 719
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f537605843948820800000000000000
+      internalID: 2919620397238793721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_101
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 719
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e3e91453f97610800000000000000
+      internalID: 1619593083553571955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_102
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 719
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13bbdacd5cbcce20800000000000000
+      internalID: 3372277332015035163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_103
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 719
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b105efea8252730800000000000000
+      internalID: 3973626978280414036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_104
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 719
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b626abf23d64f20800000000000000
+      internalID: 3406642370096294724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 719
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07abc4599800f3740800000000000000
+      internalID: 5133822691141007984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_106
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 715
+        width: 146
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a73323357c38a7d0800000000000000
+      internalID: -2907007085400868960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_107
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 715
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3cd53c5c235390800000000000000
+      internalID: -7830866552514921026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578c8b75cb9828b90800000000000000
+      internalID: -7241073808839751563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 575
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cec043bdbb19a30800000000000000
+      internalID: 4220360875968359453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_110
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 575
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92275bda6fe243c00800000000000000
+      internalID: 879379464255271465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_111
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 575
+        width: 176
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fcfa56284774630800000000000000
+      internalID: 3911222904795156261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_112
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 575
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec441564c07bbac0800000000000000
+      internalID: -3838350268591485727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_113
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 573
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fdf9b5f9cf8f940800000000000000
+      internalID: 5330287920360185684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f8a6043715ca1c0800000000000000
+      internalID: -4491125172951412945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237fecf6e57a4d90800000000000000
+      internalID: -7112743026531798227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_116
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 429
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f71a382bb787f70800000000000000
+      internalID: 9185227446664920982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_117
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 429
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133dce058222e9b80800000000000000
+      internalID: -8386227899565550799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_118
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 429
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218faf91f33222340800000000000000
+      internalID: 4837467703675123730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_119
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 427
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ab3ab96bf7a3a0800000000000000
+      internalID: -6654073492902008480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_120
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 427
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cce74e19023ec80800000000000000
+      internalID: -8294750277710459792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf87f2eb5e1f1600800000000000000
+      internalID: 441104668504330182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 281
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26b2c23b793c2f0800000000000000
+      internalID: -953751900276432212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_123
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 279
+        width: 54
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23665c717c87da0800000000000000
+      internalID: -5946784403032755516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_124
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 267
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e194d8d288f440800000000000000
+      internalID: 4969866056594219576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_125
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 267
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1503e3c5d52f20a0800000000000000
+      internalID: -6904258103690984164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_126
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 267
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9332c979191090800000000000000
+      internalID: -8063385647090262232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_127
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 267
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d5491a1f500980800000000000000
+      internalID: -8574749124815627886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenMugen_Mlb_trimUnq_128
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 267
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b03dbf8235df60800000000000000
+      internalID: 8058402701185169707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenMugen_Mlb_trimUnq_0: 4514499246250605665
+      ChrEvcTX_KenMugen_Mlb_trimUnq_1: 1149359987675016681
+      ChrEvcTX_KenMugen_Mlb_trimUnq_10: 8483169505447295290
+      ChrEvcTX_KenMugen_Mlb_trimUnq_100: 2919620397238793721
+      ChrEvcTX_KenMugen_Mlb_trimUnq_101: 1619593083553571955
+      ChrEvcTX_KenMugen_Mlb_trimUnq_102: 3372277332015035163
+      ChrEvcTX_KenMugen_Mlb_trimUnq_103: 3973626978280414036
+      ChrEvcTX_KenMugen_Mlb_trimUnq_104: 3406642370096294724
+      ChrEvcTX_KenMugen_Mlb_trimUnq_105: 5133822691141007984
+      ChrEvcTX_KenMugen_Mlb_trimUnq_106: -2907007085400868960
+      ChrEvcTX_KenMugen_Mlb_trimUnq_107: -7830866552514921026
+      ChrEvcTX_KenMugen_Mlb_trimUnq_108: -7241073808839751563
+      ChrEvcTX_KenMugen_Mlb_trimUnq_109: 4220360875968359453
+      ChrEvcTX_KenMugen_Mlb_trimUnq_11: -634319141679150181
+      ChrEvcTX_KenMugen_Mlb_trimUnq_110: 879379464255271465
+      ChrEvcTX_KenMugen_Mlb_trimUnq_111: 3911222904795156261
+      ChrEvcTX_KenMugen_Mlb_trimUnq_112: -3838350268591485727
+      ChrEvcTX_KenMugen_Mlb_trimUnq_113: 5330287920360185684
+      ChrEvcTX_KenMugen_Mlb_trimUnq_114: -4491125172951412945
+      ChrEvcTX_KenMugen_Mlb_trimUnq_115: -7112743026531798227
+      ChrEvcTX_KenMugen_Mlb_trimUnq_116: 9185227446664920982
+      ChrEvcTX_KenMugen_Mlb_trimUnq_117: -8386227899565550799
+      ChrEvcTX_KenMugen_Mlb_trimUnq_118: 4837467703675123730
+      ChrEvcTX_KenMugen_Mlb_trimUnq_119: -6654073492902008480
+      ChrEvcTX_KenMugen_Mlb_trimUnq_12: -8410654563266886007
+      ChrEvcTX_KenMugen_Mlb_trimUnq_120: -8294750277710459792
+      ChrEvcTX_KenMugen_Mlb_trimUnq_121: 441104668504330182
+      ChrEvcTX_KenMugen_Mlb_trimUnq_122: -953751900276432212
+      ChrEvcTX_KenMugen_Mlb_trimUnq_123: -5946784403032755516
+      ChrEvcTX_KenMugen_Mlb_trimUnq_124: 4969866056594219576
+      ChrEvcTX_KenMugen_Mlb_trimUnq_125: -6904258103690984164
+      ChrEvcTX_KenMugen_Mlb_trimUnq_126: -8063385647090262232
+      ChrEvcTX_KenMugen_Mlb_trimUnq_127: -8574749124815627886
+      ChrEvcTX_KenMugen_Mlb_trimUnq_128: 8058402701185169707
+      ChrEvcTX_KenMugen_Mlb_trimUnq_13: -7597558502454304841
+      ChrEvcTX_KenMugen_Mlb_trimUnq_14: 973241382701458714
+      ChrEvcTX_KenMugen_Mlb_trimUnq_15: -3064158505882605400
+      ChrEvcTX_KenMugen_Mlb_trimUnq_16: -8018737345255797478
+      ChrEvcTX_KenMugen_Mlb_trimUnq_17: 1059009410377205516
+      ChrEvcTX_KenMugen_Mlb_trimUnq_18: -928977901334358286
+      ChrEvcTX_KenMugen_Mlb_trimUnq_19: -6477160285871187342
+      ChrEvcTX_KenMugen_Mlb_trimUnq_2: -7862753986446899835
+      ChrEvcTX_KenMugen_Mlb_trimUnq_20: -7898600065339520012
+      ChrEvcTX_KenMugen_Mlb_trimUnq_21: -8936488641922790512
+      ChrEvcTX_KenMugen_Mlb_trimUnq_22: 7019632136615783981
+      ChrEvcTX_KenMugen_Mlb_trimUnq_23: 8011956413722883880
+      ChrEvcTX_KenMugen_Mlb_trimUnq_24: 8387183022952041438
+      ChrEvcTX_KenMugen_Mlb_trimUnq_25: 6527816496078678322
+      ChrEvcTX_KenMugen_Mlb_trimUnq_26: -326209864245438056
+      ChrEvcTX_KenMugen_Mlb_trimUnq_27: -528500295623118948
+      ChrEvcTX_KenMugen_Mlb_trimUnq_28: 3905671071805420969
+      ChrEvcTX_KenMugen_Mlb_trimUnq_29: -7820890786888577916
+      ChrEvcTX_KenMugen_Mlb_trimUnq_3: -9164688636527538519
+      ChrEvcTX_KenMugen_Mlb_trimUnq_30: -5725051202772916695
+      ChrEvcTX_KenMugen_Mlb_trimUnq_31: 427892132340090099
+      ChrEvcTX_KenMugen_Mlb_trimUnq_32: -3131718187360169029
+      ChrEvcTX_KenMugen_Mlb_trimUnq_33: -3558920316869872897
+      ChrEvcTX_KenMugen_Mlb_trimUnq_34: -1086160087781381795
+      ChrEvcTX_KenMugen_Mlb_trimUnq_35: 7699161729870855263
+      ChrEvcTX_KenMugen_Mlb_trimUnq_36: 4628480996271412741
+      ChrEvcTX_KenMugen_Mlb_trimUnq_37: -1127780655959777291
+      ChrEvcTX_KenMugen_Mlb_trimUnq_38: -4155145927729862546
+      ChrEvcTX_KenMugen_Mlb_trimUnq_39: -1798175598959372289
+      ChrEvcTX_KenMugen_Mlb_trimUnq_4: -579155638484993465
+      ChrEvcTX_KenMugen_Mlb_trimUnq_40: -5003582109847990286
+      ChrEvcTX_KenMugen_Mlb_trimUnq_41: -7035559104040207268
+      ChrEvcTX_KenMugen_Mlb_trimUnq_42: 387696059772234905
+      ChrEvcTX_KenMugen_Mlb_trimUnq_43: 7298420635151859787
+      ChrEvcTX_KenMugen_Mlb_trimUnq_44: 224877624670373842
+      ChrEvcTX_KenMugen_Mlb_trimUnq_45: -4286986109466679437
+      ChrEvcTX_KenMugen_Mlb_trimUnq_46: 5187516011848382207
+      ChrEvcTX_KenMugen_Mlb_trimUnq_47: 4173617492171631314
+      ChrEvcTX_KenMugen_Mlb_trimUnq_48: -1006492768331635047
+      ChrEvcTX_KenMugen_Mlb_trimUnq_49: -4210677962759384538
+      ChrEvcTX_KenMugen_Mlb_trimUnq_5: -2354405245671385168
+      ChrEvcTX_KenMugen_Mlb_trimUnq_50: -2395687835073814220
+      ChrEvcTX_KenMugen_Mlb_trimUnq_51: -7926984139377941419
+      ChrEvcTX_KenMugen_Mlb_trimUnq_52: 5032053980265324982
+      ChrEvcTX_KenMugen_Mlb_trimUnq_53: 3971647580576329773
+      ChrEvcTX_KenMugen_Mlb_trimUnq_54: -6219801683920330235
+      ChrEvcTX_KenMugen_Mlb_trimUnq_55: 4832956810938544055
+      ChrEvcTX_KenMugen_Mlb_trimUnq_56: 5422280285401643790
+      ChrEvcTX_KenMugen_Mlb_trimUnq_57: 7430716756805383717
+      ChrEvcTX_KenMugen_Mlb_trimUnq_58: 4955532998081808911
+      ChrEvcTX_KenMugen_Mlb_trimUnq_59: 7398103057509870374
+      ChrEvcTX_KenMugen_Mlb_trimUnq_6: 4187901909260047187
+      ChrEvcTX_KenMugen_Mlb_trimUnq_60: 2422109990704757722
+      ChrEvcTX_KenMugen_Mlb_trimUnq_61: -6885537863574356812
+      ChrEvcTX_KenMugen_Mlb_trimUnq_62: -1835881577354666998
+      ChrEvcTX_KenMugen_Mlb_trimUnq_63: 7725010701685276496
+      ChrEvcTX_KenMugen_Mlb_trimUnq_64: 910359891904243809
+      ChrEvcTX_KenMugen_Mlb_trimUnq_65: -8023482699876783039
+      ChrEvcTX_KenMugen_Mlb_trimUnq_66: 8957457573157908772
+      ChrEvcTX_KenMugen_Mlb_trimUnq_67: -5729726566885338574
+      ChrEvcTX_KenMugen_Mlb_trimUnq_68: 9162315066933165607
+      ChrEvcTX_KenMugen_Mlb_trimUnq_69: -6438998331166805987
+      ChrEvcTX_KenMugen_Mlb_trimUnq_7: -3292368362710976170
+      ChrEvcTX_KenMugen_Mlb_trimUnq_70: 7604170055818571422
+      ChrEvcTX_KenMugen_Mlb_trimUnq_71: -3530953654177498234
+      ChrEvcTX_KenMugen_Mlb_trimUnq_72: -8880993826107037495
+      ChrEvcTX_KenMugen_Mlb_trimUnq_73: -7281517168726602878
+      ChrEvcTX_KenMugen_Mlb_trimUnq_74: 4204724219172721231
+      ChrEvcTX_KenMugen_Mlb_trimUnq_75: 1672777635045895194
+      ChrEvcTX_KenMugen_Mlb_trimUnq_76: 6521992375875696752
+      ChrEvcTX_KenMugen_Mlb_trimUnq_77: -6479504207069266822
+      ChrEvcTX_KenMugen_Mlb_trimUnq_78: -64351317747674066
+      ChrEvcTX_KenMugen_Mlb_trimUnq_79: 2656402150136182398
+      ChrEvcTX_KenMugen_Mlb_trimUnq_8: -4219507622583028599
+      ChrEvcTX_KenMugen_Mlb_trimUnq_80: 6980725690056993444
+      ChrEvcTX_KenMugen_Mlb_trimUnq_81: -2783000717056704847
+      ChrEvcTX_KenMugen_Mlb_trimUnq_82: -7310185940124000717
+      ChrEvcTX_KenMugen_Mlb_trimUnq_83: -2880867738354797459
+      ChrEvcTX_KenMugen_Mlb_trimUnq_84: -8550304354147215033
+      ChrEvcTX_KenMugen_Mlb_trimUnq_85: -7698726177982673039
+      ChrEvcTX_KenMugen_Mlb_trimUnq_86: -6989314039077725085
+      ChrEvcTX_KenMugen_Mlb_trimUnq_87: -6268595606885421586
+      ChrEvcTX_KenMugen_Mlb_trimUnq_88: 466336310203517380
+      ChrEvcTX_KenMugen_Mlb_trimUnq_89: -6343565327520345384
+      ChrEvcTX_KenMugen_Mlb_trimUnq_9: 7679077870757039261
+      ChrEvcTX_KenMugen_Mlb_trimUnq_90: -1219937445203494188
+      ChrEvcTX_KenMugen_Mlb_trimUnq_91: 6976403125598045980
+      ChrEvcTX_KenMugen_Mlb_trimUnq_92: 8718555244864875730
+      ChrEvcTX_KenMugen_Mlb_trimUnq_93: 1792387301862264969
+      ChrEvcTX_KenMugen_Mlb_trimUnq_94: 8437612876402891611
+      ChrEvcTX_KenMugen_Mlb_trimUnq_95: -5985546791167720850
+      ChrEvcTX_KenMugen_Mlb_trimUnq_96: -7776643102718321399
+      ChrEvcTX_KenMugen_Mlb_trimUnq_97: 5331074127660793520
+      ChrEvcTX_KenMugen_Mlb_trimUnq_98: -3656445420642828835
+      ChrEvcTX_KenMugen_Mlb_trimUnq_99: -6336993568315414156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

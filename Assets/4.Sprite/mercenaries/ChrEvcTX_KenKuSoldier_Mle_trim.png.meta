@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 2dd5a1cf210128c498b4c9537a114463
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1207205323764328401
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_0
+  - first:
+      213: -7104824450925655388
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_1
+  - first:
+      213: -4793996383409531758
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_2
+  - first:
+      213: -979788729226454816
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_3
+  - first:
+      213: 7965191890037855498
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_4
+  - first:
+      213: 502024878116153804
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_5
+  - first:
+      213: 533083422784473854
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_6
+  - first:
+      213: 4189198350907491580
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_7
+  - first:
+      213: 8006926706021511340
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_8
+  - first:
+      213: -7978557446879340163
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_9
+  - first:
+      213: 2115838499211291756
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_10
+  - first:
+      213: -8588498639934655130
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_11
+  - first:
+      213: -4966198922260323440
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_12
+  - first:
+      213: -7931959177159911376
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_13
+  - first:
+      213: 2824335280856606631
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_14
+  - first:
+      213: -1941963843128115228
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_15
+  - first:
+      213: 784654499048242710
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_16
+  - first:
+      213: -1425160890198753940
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_17
+  - first:
+      213: 1928437523490176162
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_18
+  - first:
+      213: 6013099571917925821
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_19
+  - first:
+      213: 7435714317418735190
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_20
+  - first:
+      213: 8647873853147131143
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_21
+  - first:
+      213: -6674199373994988112
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_22
+  - first:
+      213: 8764142471212240909
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_23
+  - first:
+      213: 5720409305788770202
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_24
+  - first:
+      213: 2739284337323847589
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_25
+  - first:
+      213: 5083405267709892899
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_26
+  - first:
+      213: -8759884453281526010
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_27
+  - first:
+      213: 1779878144048682084
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_28
+  - first:
+      213: 3385819995260051987
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_29
+  - first:
+      213: 7483539397997103335
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_30
+  - first:
+      213: 5388908177569624897
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_31
+  - first:
+      213: -2386038142959022589
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_32
+  - first:
+      213: 4833153469593810545
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_33
+  - first:
+      213: -2068119796672932718
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_34
+  - first:
+      213: -4392115437078567426
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_35
+  - first:
+      213: 2512862178309324992
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_36
+  - first:
+      213: -3174223937797119648
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_37
+  - first:
+      213: -4711942660758003933
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_38
+  - first:
+      213: 5263857309901237629
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_39
+  - first:
+      213: 11170955655890780
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_40
+  - first:
+      213: -131733890922803020
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_41
+  - first:
+      213: -3016042881385610469
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_42
+  - first:
+      213: -4544912878774120535
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_43
+  - first:
+      213: -8271340354246220993
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_44
+  - first:
+      213: 425671617363479962
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_45
+  - first:
+      213: -4020625919644731665
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_46
+  - first:
+      213: -35358622834974640
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_47
+  - first:
+      213: -5662213631897578777
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_48
+  - first:
+      213: -4300555139255884973
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_49
+  - first:
+      213: -8136943812620708364
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_50
+  - first:
+      213: 610849138317322044
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_51
+  - first:
+      213: 982005559235674916
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_52
+  - first:
+      213: 3688543605092429238
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_53
+  - first:
+      213: 3254268680632720044
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_54
+  - first:
+      213: 8469404904989717053
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_55
+  - first:
+      213: -9087630283745228861
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_56
+  - first:
+      213: 7715250211709683451
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_57
+  - first:
+      213: -4675640524163243192
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_58
+  - first:
+      213: 5487681506713975616
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_59
+  - first:
+      213: 8894753309616219384
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_60
+  - first:
+      213: -5016878241256230443
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_61
+  - first:
+      213: -1099830461776345814
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_62
+  - first:
+      213: 5377706356899799867
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_63
+  - first:
+      213: -9008692889426728491
+    second: ChrEvcTX_KenKuSoldier_Mle_trim_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7eeed88dad0c010800000000000000
+      internalID: 1207205323764328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 453
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa011b0ec7966d90800000000000000
+      internalID: -7104824450925655388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 437
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2941e5060bd487db0800000000000000
+      internalID: -4793996383409531758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 437
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8968787571762f0800000000000000
+      internalID: -979788729226454816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 437
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05578592db0a8e60800000000000000
+      internalID: 7965191890037855498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 437
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a58087fc87f600800000000000000
+      internalID: 502024878116153804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 479
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac7b27c84e56700800000000000000
+      internalID: 533083422784473854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 435
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44e7f64b5032a30800000000000000
+      internalID: 4189198350907491580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03007aa615e1f60800000000000000
+      internalID: 8006926706021511340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 435
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7995b63648764190800000000000000
+      internalID: -7978557446879340163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 435
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ca593a7e7fc5d10800000000000000
+      internalID: 2115838499211291756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 439
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f4c4adf58fc880800000000000000
+      internalID: -8588498639934655130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093eeba6464841bb0800000000000000
+      internalID: -4966198922260323440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 355
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038db7857250ce190800000000000000
+      internalID: -7931959177159911376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 355
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7af0659fd023720800000000000000
+      internalID: 2824335280856606631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 355
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef32b37c22cc05e0800000000000000
+      internalID: -1941963843128115228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 355
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ebe2f0c17a3ea00800000000000000
+      internalID: 784654499048242710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 359
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d7cef98bfc83ce0800000000000000
+      internalID: -1425160890198753940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 359
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7a27d5bf23ca10800000000000000
+      internalID: 1928437523490176162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 353
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda83fa332d27350800000000000000
+      internalID: 6013099571917925821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 353
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a70d86c6f03760800000000000000
+      internalID: 7435714317418735190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 357
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2937737b630870800000000000000
+      internalID: 8647873853147131143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 353
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde4e0e70b7063a0800000000000000
+      internalID: -6674199373994988112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 353
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001585a42d70a970800000000000000
+      internalID: 8764142471212240909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_24
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 357
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e061a4f9f26f40800000000000000
+      internalID: 5720409305788770202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afaaf86794e30620800000000000000
+      internalID: 2739284337323847589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329923f6822eb8640800000000000000
+      internalID: 5083405267709892899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f00b86083ae6680800000000000000
+      internalID: -8759884453281526010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d087edb563b810800000000000000
+      internalID: 1779878144048682084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e3eac859dcfe20800000000000000
+      internalID: 3385819995260051987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80248de6fdad760800000000000000
+      internalID: 7483539397997103335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433c339f6f39ca40800000000000000
+      internalID: 5388908177569624897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 273
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e056463f613eed0800000000000000
+      internalID: -2386038142959022589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 271
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f514397fc21340800000000000000
+      internalID: 4833153469593810545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 271
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2945b5690009c43e0800000000000000
+      internalID: -2068119796672932718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 271
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef52c68c7421c03c0800000000000000
+      internalID: -4392115437078567426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 271
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c044a366da7fd220800000000000000
+      internalID: 2512862178309324992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061af067524e2f3d0800000000000000
+      internalID: -3174223937797119648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f928f6d11db9eb0800000000000000
+      internalID: -4711942660758003933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da101955afc0940800000000000000
+      internalID: 5263857309901237629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57cbabccefa72000800000000000000
+      internalID: 11170955655890780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b09aa269bcfb2ef0800000000000000
+      internalID: -131733890922803020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b134aa3aafcd426d0800000000000000
+      internalID: -3016042881385610469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af029511d93de0c0800000000000000
+      internalID: -4544912878774120535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ecc075cb463d80800000000000000
+      internalID: -8271340354246220993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d8ae7a41a48e500800000000000000
+      internalID: 425671617363479962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6f8dc370ed338c0800000000000000
+      internalID: -4020625919644731665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ac261581628ff0800000000000000
+      internalID: -35358622834974640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 189
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2de5493b6cb61b0800000000000000
+      internalID: -5662213631897578777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532cabd2eb5154c0800000000000000
+      internalID: -4300555139255884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 107
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51e6bb6b4c31f80800000000000000
+      internalID: -8136943812620708364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e1cc0e0c2a7800800000000000000
+      internalID: 610849138317322044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 107
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42383bd6ad8c0ad00800000000000000
+      internalID: 982005559235674916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda218bdd6503330800000000000000
+      internalID: 3688543605092429238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 113
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caadac88f1c792d20800000000000000
+      internalID: 3254268680632720044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 103
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32fcd463ee598570800000000000000
+      internalID: 8469404904989717053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 103
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7884fb76042e180800000000000000
+      internalID: -9087630283745228861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 111
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6863eb033121b60800000000000000
+      internalID: 7715250211709683451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_58
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 111
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84324d347b9cc1fb0800000000000000
+      internalID: -4675640524163243192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 111
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bba206149282c40800000000000000
+      internalID: 5487681506713975616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4a7683203807b70800000000000000
+      internalID: 8894753309616219384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13984f1d7706ab0800000000000000
+      internalID: -5016878241256230443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 21
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25caaca50e9cb0f0800000000000000
+      internalID: -1099830461776345814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336f55707371aa40800000000000000
+      internalID: 5377706356899799867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrEvcTX_KenKuSoldier_Mle_trim_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e1231c81baf280800000000000000
+      internalID: -9008692889426728491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChrEvcTX_KenKuSoldier_Mle_trim_0: 1207205323764328401
+      ChrEvcTX_KenKuSoldier_Mle_trim_1: -7104824450925655388
+      ChrEvcTX_KenKuSoldier_Mle_trim_10: 2115838499211291756
+      ChrEvcTX_KenKuSoldier_Mle_trim_11: -8588498639934655130
+      ChrEvcTX_KenKuSoldier_Mle_trim_12: -4966198922260323440
+      ChrEvcTX_KenKuSoldier_Mle_trim_13: -7931959177159911376
+      ChrEvcTX_KenKuSoldier_Mle_trim_14: 2824335280856606631
+      ChrEvcTX_KenKuSoldier_Mle_trim_15: -1941963843128115228
+      ChrEvcTX_KenKuSoldier_Mle_trim_16: 784654499048242710
+      ChrEvcTX_KenKuSoldier_Mle_trim_17: -1425160890198753940
+      ChrEvcTX_KenKuSoldier_Mle_trim_18: 1928437523490176162
+      ChrEvcTX_KenKuSoldier_Mle_trim_19: 6013099571917925821
+      ChrEvcTX_KenKuSoldier_Mle_trim_2: -4793996383409531758
+      ChrEvcTX_KenKuSoldier_Mle_trim_20: 7435714317418735190
+      ChrEvcTX_KenKuSoldier_Mle_trim_21: 8647873853147131143
+      ChrEvcTX_KenKuSoldier_Mle_trim_22: -6674199373994988112
+      ChrEvcTX_KenKuSoldier_Mle_trim_23: 8764142471212240909
+      ChrEvcTX_KenKuSoldier_Mle_trim_24: 5720409305788770202
+      ChrEvcTX_KenKuSoldier_Mle_trim_25: 2739284337323847589
+      ChrEvcTX_KenKuSoldier_Mle_trim_26: 5083405267709892899
+      ChrEvcTX_KenKuSoldier_Mle_trim_27: -8759884453281526010
+      ChrEvcTX_KenKuSoldier_Mle_trim_28: 1779878144048682084
+      ChrEvcTX_KenKuSoldier_Mle_trim_29: 3385819995260051987
+      ChrEvcTX_KenKuSoldier_Mle_trim_3: -979788729226454816
+      ChrEvcTX_KenKuSoldier_Mle_trim_30: 7483539397997103335
+      ChrEvcTX_KenKuSoldier_Mle_trim_31: 5388908177569624897
+      ChrEvcTX_KenKuSoldier_Mle_trim_32: -2386038142959022589
+      ChrEvcTX_KenKuSoldier_Mle_trim_33: 4833153469593810545
+      ChrEvcTX_KenKuSoldier_Mle_trim_34: -2068119796672932718
+      ChrEvcTX_KenKuSoldier_Mle_trim_35: -4392115437078567426
+      ChrEvcTX_KenKuSoldier_Mle_trim_36: 2512862178309324992
+      ChrEvcTX_KenKuSoldier_Mle_trim_37: -3174223937797119648
+      ChrEvcTX_KenKuSoldier_Mle_trim_38: -4711942660758003933
+      ChrEvcTX_KenKuSoldier_Mle_trim_39: 5263857309901237629
+      ChrEvcTX_KenKuSoldier_Mle_trim_4: 7965191890037855498
+      ChrEvcTX_KenKuSoldier_Mle_trim_40: 11170955655890780
+      ChrEvcTX_KenKuSoldier_Mle_trim_41: -131733890922803020
+      ChrEvcTX_KenKuSoldier_Mle_trim_42: -3016042881385610469
+      ChrEvcTX_KenKuSoldier_Mle_trim_43: -4544912878774120535
+      ChrEvcTX_KenKuSoldier_Mle_trim_44: -8271340354246220993
+      ChrEvcTX_KenKuSoldier_Mle_trim_45: 425671617363479962
+      ChrEvcTX_KenKuSoldier_Mle_trim_46: -4020625919644731665
+      ChrEvcTX_KenKuSoldier_Mle_trim_47: -35358622834974640
+      ChrEvcTX_KenKuSoldier_Mle_trim_48: -5662213631897578777
+      ChrEvcTX_KenKuSoldier_Mle_trim_49: -4300555139255884973
+      ChrEvcTX_KenKuSoldier_Mle_trim_5: 502024878116153804
+      ChrEvcTX_KenKuSoldier_Mle_trim_50: -8136943812620708364
+      ChrEvcTX_KenKuSoldier_Mle_trim_51: 610849138317322044
+      ChrEvcTX_KenKuSoldier_Mle_trim_52: 982005559235674916
+      ChrEvcTX_KenKuSoldier_Mle_trim_53: 3688543605092429238
+      ChrEvcTX_KenKuSoldier_Mle_trim_54: 3254268680632720044
+      ChrEvcTX_KenKuSoldier_Mle_trim_55: 8469404904989717053
+      ChrEvcTX_KenKuSoldier_Mle_trim_56: -9087630283745228861
+      ChrEvcTX_KenKuSoldier_Mle_trim_57: 7715250211709683451
+      ChrEvcTX_KenKuSoldier_Mle_trim_58: -4675640524163243192
+      ChrEvcTX_KenKuSoldier_Mle_trim_59: 5487681506713975616
+      ChrEvcTX_KenKuSoldier_Mle_trim_6: 533083422784473854
+      ChrEvcTX_KenKuSoldier_Mle_trim_60: 8894753309616219384
+      ChrEvcTX_KenKuSoldier_Mle_trim_61: -5016878241256230443
+      ChrEvcTX_KenKuSoldier_Mle_trim_62: -1099830461776345814
+      ChrEvcTX_KenKuSoldier_Mle_trim_63: 5377706356899799867
+      ChrEvcTX_KenKuSoldier_Mle_trim_64: -9008692889426728491
+      ChrEvcTX_KenKuSoldier_Mle_trim_7: 4189198350907491580
+      ChrEvcTX_KenKuSoldier_Mle_trim_8: 8006926706021511340
+      ChrEvcTX_KenKuSoldier_Mle_trim_9: -7978557446879340163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
